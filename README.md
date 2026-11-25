@@ -7,7 +7,7 @@ Current stage: Stage 2 (environment and repository). See `docs/decisions.md`.
 
 ## Deploy a live demo
 
-Render deployment files and the step-by-step setup are in [`DEPLOYMENT.md`](DEPLOYMENT.md). The hosted setup requires a GitHub repository containing the trained model package; see the guide before pushing, as the model is about 91 MiB.
+The Oracle Cloud Always Free setup is in [`OCI_DEPLOYMENT.md`](OCI_DEPLOYMENT.md). The Render Free setup is documented in [`DEPLOYMENT.md`](DEPLOYMENT.md), but its 512 MB memory limit was too low for the TensorFlow app in deployment.
 
 ## Setup on Windows (PowerShell)
 
