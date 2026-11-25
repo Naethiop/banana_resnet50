@@ -1,0 +1,8 @@
+{
+  "evaluated_at": "2026-11-22T22:25:59",
+  "train_on": "pool",
+  "accuracy": 0.9512195121951219,
+  "macro_f1": 0.9436363636363637,
+  "model_sha256": "f54b8962f7c6698ec79ba8a353c412590e285a3143f9b49d238e88bc4a6e3ead",
+  "note": "The test set has been evaluated. Do not evaluate it again."
+}

@@ -1,0 +1,54 @@
+{
+  "stage": "7 final model (frozen ResNet50 + new head)",
+  "trained_on": "pool: 783 images, 100 photograph groups",
+  "augmented_copies_per_image": 4,
+  "class_weights": "balanced",
+  "class_weight_values": {
+    "0": 0.8285714285714286,
+    "1": 1.9333333333333333,
+    "2": 1.9575,
+    "3": 0.6721030042918454,
+    "4": 0.783
+  },
+  "head_epochs": 15,
+  "head_learning_rate": 0.001,
+  "dropout": 0.3,
+  "seed": 42,
+  "fine_tuning": "not used (Stage 6b: not justified)",
+  "preprocessing": "src/preprocessing.py: EXIF orientation, RGB, centre-crop square, 224x224, ResNet50 caffe-mode (BGR, ImageNet mean subtraction); the model expects the output of preprocess_batch",
+  "low_confidence_threshold": 0.94,
+  "cross_validation": {
+    "macro_f1": 0.695647028435513,
+    "accuracy": 0.7203065134099617,
+    "macro_f1_ci95": [
+      0.5952274268131856,
+      0.8437169355400689
+    ]
+  },
+  "note": "model frozen before the test set was read",
+  "date": "2026-11-22",
+  "python": "3.11.0",
+  "keras": "3.15.1",
+  "class_names": [
+    "Black-Sigatoka",
+    "Healthy-Leaf",
+    "Panama-Disease",
+    "Potassium-Deficiency",
+    "Yellow-Sigatoka"
+  ],
+  "model_sha256": "f54b8962f7c6698ec79ba8a353c412590e285a3143f9b49d238e88bc4a6e3ead",
+  "tensorflow": "2.21.0",
+  "threshold_selection": {
+    "method": "target not reachable; largest threshold keeping the minimum coverage",
+    "target_accuracy": 0.85,
+    "min_coverage": 0.5,
+    "oof_coverage": 0.5144316730523627,
+    "oof_accuracy": 0.810824230387289
+  },
+  "input_check": {
+    "type": "max cosine similarity of ResNet50 features to the training images",
+    "threshold": 0.6274981737136841,
+    "bank_images": 783,
+    "negatives_used_for_evaluation": 118
+  }
+}

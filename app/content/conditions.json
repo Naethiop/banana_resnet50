@@ -1,0 +1,27 @@
+{
+  "Black-Sigatoka": {
+    "name": "Black Sigatoka", "kind": "fungal leaf disease",
+    "description": "Black Sigatoka is a fungal leaf disease caused by Mycosphaerella fijiensis. It appears as dark streaks and spots that can grow into large black patches and reduce the leaf area available for photosynthesis.",
+    "advice": "Please have the plant checked by an agricultural extension worker or a laboratory before taking action."
+  },
+  "Yellow-Sigatoka": {
+    "name": "Yellow Sigatoka", "kind": "fungal leaf disease",
+    "description": "Yellow Sigatoka is a fungal leaf spot disease caused by Mycosphaerella musicola. It produces yellow streaks or spots that can merge into larger patches, and is generally less aggressive than Black Sigatoka. The two are easily confused.",
+    "advice": "Please have the plant checked by an agricultural extension worker or a laboratory before taking action."
+  },
+  "Panama-Disease": {
+    "name": "Panama disease (Fusarium wilt)", "kind": "soil-borne fungal disease",
+    "description": "Panama disease is caused by the soil-borne fungus Fusarium oxysporum f. sp. cubense, which enters through the roots. It shows as yellowing and wilting of older leaves.",
+    "advice": "Yellowing and wilting have several possible causes. Please have the plant checked by an agricultural extension worker or a laboratory."
+  },
+  "Potassium-Deficiency": {
+    "name": "Potassium deficiency", "kind": "nutrient disorder, not an infectious disease",
+    "description": "Potassium deficiency is a nutrient disorder, not an infection. It appears as yellowing of the margins of older leaves, followed by browning. It looks similar to some diseases.",
+    "advice": "Please confirm the cause with an agricultural extension worker, for example by soil or leaf testing."
+  },
+  "Healthy-Leaf": {
+    "name": "Healthy leaf", "kind": "no condition recognised",
+    "description": "The system did not recognise any of the four conditions in this photograph. This does not rule out other problems that it was not trained to recognise.",
+    "advice": "If you are worried about the plant, please ask an agricultural extension worker to inspect it."
+  }
+}

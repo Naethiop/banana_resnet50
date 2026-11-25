@@ -1,0 +1,866 @@
+file,label,group_id,assigned_split,original_export_split,relpath
+BlackSigatoka_116_jpg.rf.ad74ae5b68bf10b3a573bf7685ba1066.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_116_jpg.rf.ad74ae5b68bf10b3a573bf7685ba1066.jpg
+BlackSigatoka_117_jpg.rf.d882f94daea0c17ee34371fdae94e419.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_117_jpg.rf.d882f94daea0c17ee34371fdae94e419.jpg
+BlackSigatoka_118_jpg.rf.18c610127debdca9a5d297e891fce405.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_118_jpg.rf.18c610127debdca9a5d297e891fce405.jpg
+BlackSigatoka_119_jpg.rf.18c80067a0b1ff12306ad61d38fb6470.jpg,Black-Sigatoka,83,test,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_119_jpg.rf.18c80067a0b1ff12306ad61d38fb6470.jpg
+BlackSigatoka_120_jpg.rf.77ed6119830bf9c9acb9192314fec7f7.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_120_jpg.rf.77ed6119830bf9c9acb9192314fec7f7.jpg
+BlackSigatoka_121_jpg.rf.57af70b70c7b05dd3c46b08118b568e4.jpg,Black-Sigatoka,83,test,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_121_jpg.rf.57af70b70c7b05dd3c46b08118b568e4.jpg
+BlackSigatoka_191_jpg.rf.05177d9b6344d6029d7bdd9c0d0eb0ca.jpg,Black-Sigatoka,83,test,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_191_jpg.rf.05177d9b6344d6029d7bdd9c0d0eb0ca.jpg
+BlackSigatoka_192_jpg.rf.d3b1bb11aaff500a4ae3d029856161d3.jpg,Black-Sigatoka,83,test,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_192_jpg.rf.d3b1bb11aaff500a4ae3d029856161d3.jpg
+BlackSigatoka_193_jpg.rf.4bcfd4ae2561a4b6501fc3e84d664259.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_193_jpg.rf.4bcfd4ae2561a4b6501fc3e84d664259.jpg
+BlackSigatoka_194_jpg.rf.0bb01d02599335e78718b999b9826515.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_194_jpg.rf.0bb01d02599335e78718b999b9826515.jpg
+BlackSigatoka_195_jpg.rf.f3c41c0b07bafefbb8b5fa948180ba1d.jpg,Black-Sigatoka,83,test,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_195_jpg.rf.f3c41c0b07bafefbb8b5fa948180ba1d.jpg
+BlackSigatoka_196_jpg.rf.269cb6943ede10fa85d915a0bdd03c15.jpg,Black-Sigatoka,83,test,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_196_jpg.rf.269cb6943ede10fa85d915a0bdd03c15.jpg
+BlackSigatoka_243_jpg.rf.4ca2a677b37e48009ffaabb7be11c5d8.jpg,Black-Sigatoka,45,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_243_jpg.rf.4ca2a677b37e48009ffaabb7be11c5d8.jpg
+BlackSigatoka_271_jpg.rf.dfeb7b4383711c7ac215bf756fdf7028.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_271_jpg.rf.dfeb7b4383711c7ac215bf756fdf7028.jpg
+BlackSigatoka_272_jpg.rf.1f95dfa38b0a5cbf5b999d92ab9379a1.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_272_jpg.rf.1f95dfa38b0a5cbf5b999d92ab9379a1.jpg
+BlackSigatoka_273_jpg.rf.09c81553379ea993e622dd28344e2205.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_273_jpg.rf.09c81553379ea993e622dd28344e2205.jpg
+BlackSigatoka_58_jpg.rf.106255f036930446397696674986d79a.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_58_jpg.rf.106255f036930446397696674986d79a.jpg
+BlackSigatoka_59_jpg.rf.e4b6e0528e424d9acf8ab944d5b27237.jpg,Black-Sigatoka,83,test,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_59_jpg.rf.e4b6e0528e424d9acf8ab944d5b27237.jpg
+BlackSigatoka_60_jpg.rf.992a492fd17828b69cb688ddb24dfaca.jpg,Black-Sigatoka,83,test,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_60_jpg.rf.992a492fd17828b69cb688ddb24dfaca.jpg
+BlackSigatoka_61_jpg.rf.bb6ba7c674398f94a2650a056862cff2.jpg,Black-Sigatoka,83,test,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_61_jpg.rf.bb6ba7c674398f94a2650a056862cff2.jpg
+BlackSigatoka_62_jpg.rf.877f86b3b9087992c1eb7ea0f5a00a68.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_62_jpg.rf.877f86b3b9087992c1eb7ea0f5a00a68.jpg
+BlackSigatoka_63_jpg.rf.13f07dd9eb63e9831612b6583b9b6f2f.jpg,Black-Sigatoka,83,test,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_63_jpg.rf.13f07dd9eb63e9831612b6583b9b6f2f.jpg
+Healthy_104_jpeg_jpg.rf.29c1c69e06f2d693135bfcf2c7fe0159.jpg,Healthy-Leaf,7,test,train,train/1/Healthy_104_jpeg_jpg.rf.29c1c69e06f2d693135bfcf2c7fe0159.jpg
+Healthy_105_jpeg_jpg.rf.ae209daac4e6b65248423e7ed0c9b003.jpg,Healthy-Leaf,61,test,train,train/1/Healthy_105_jpeg_jpg.rf.ae209daac4e6b65248423e7ed0c9b003.jpg
+Healthy_114_jpeg_jpg.rf.bf84b17ad797cedff32afb5de1564f4f.jpg,Healthy-Leaf,61,test,train,train/1/Healthy_114_jpeg_jpg.rf.bf84b17ad797cedff32afb5de1564f4f.jpg
+Healthy_115_jpeg_jpg.rf.01249252e187804a2ab96a8662aeae5f.jpg,Healthy-Leaf,61,test,val,valid/1/Healthy_115_jpeg_jpg.rf.01249252e187804a2ab96a8662aeae5f.jpg
+Healthy_129_jpeg_jpg.rf.9019012ca6b31fdeb56bd3f731be375b.jpg,Healthy-Leaf,61,test,train,train/1/Healthy_129_jpeg_jpg.rf.9019012ca6b31fdeb56bd3f731be375b.jpg
+Healthy_14_jpeg_jpg.rf.98e8d2556e046f647210a5de9355adc9.jpg,Healthy-Leaf,36,test,test,test/1/Healthy_14_jpeg_jpg.rf.98e8d2556e046f647210a5de9355adc9.jpg
+Healthy_53_jpeg_jpg.rf.3056bb047eeef66c5d14d5f2d63f1815.jpg,Healthy-Leaf,29,test,train,train/1/Healthy_53_jpeg_jpg.rf.3056bb047eeef66c5d14d5f2d63f1815.jpg
+Healthy_5_jpeg_jpg.rf.e48d09a84f803035839e9d1bffe58b0d.jpg,Healthy-Leaf,32,test,train,train/1/Healthy_5_jpeg_jpg.rf.e48d09a84f803035839e9d1bffe58b0d.jpg
+Healthy_68_jpeg_jpg.rf.9565819be931afbc99d8b6eb2a25d88e.jpg,Healthy-Leaf,36,test,train,train/1/Healthy_68_jpeg_jpg.rf.9565819be931afbc99d8b6eb2a25d88e.jpg
+Panama_32_jpg.rf.4d39cfd15fa38a20dc0c3c53deb5e9e8.jpg,Panama-Disease,87,test,train,train/2/Panama_32_jpg.rf.4d39cfd15fa38a20dc0c3c53deb5e9e8.jpg
+Panama_49_jpg.rf.1ede2cb65951a6a38628020a670bb14f.jpg,Panama-Disease,87,test,train,train/2/Panama_49_jpg.rf.1ede2cb65951a6a38628020a670bb14f.jpg
+Panama_58_jpg.rf.40f6f64a3b54e1fad2168b6d869c5de4.jpg,Panama-Disease,87,test,val,valid/2/Panama_58_jpg.rf.40f6f64a3b54e1fad2168b6d869c5de4.jpg
+Panama_75_jpg.rf.ec79627c5a16b740e50600ae28831b20.jpg,Panama-Disease,87,test,train,train/2/Panama_75_jpg.rf.ec79627c5a16b740e50600ae28831b20.jpg
+Panama_8_jpg.rf.836400c3ffdf7d00ebd561053025134f.jpg,Panama-Disease,87,test,train,train/2/Panama_8_jpg.rf.836400c3ffdf7d00ebd561053025134f.jpg
+PotassiumDeficiency_115_jpg.rf.86176e18e1e4328c754e4db395a11c47.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_115_jpg.rf.86176e18e1e4328c754e4db395a11c47.jpg
+PotassiumDeficiency_116_jpg.rf.7d4164e3f7cea4ba47fbfdacf014810e.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_116_jpg.rf.7d4164e3f7cea4ba47fbfdacf014810e.jpg
+PotassiumDeficiency_118_jpg.rf.f702575804dfc80ec302fc4fdff9d574.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_118_jpg.rf.f702575804dfc80ec302fc4fdff9d574.jpg
+PotassiumDeficiency_119_jpg.rf.e2f1967b3d8b016315ea2704b63e4480.jpg,Potassium-Deficiency,55,test,test,test/3/PotassiumDeficiency_119_jpg.rf.e2f1967b3d8b016315ea2704b63e4480.jpg
+PotassiumDeficiency_120_jpg.rf.e4edb9bdde5da6a270b641d9ae9c3f55.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_120_jpg.rf.e4edb9bdde5da6a270b641d9ae9c3f55.jpg
+PotassiumDeficiency_125_jpg.rf.db86617c9ac4521b50c2993abbc925aa.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_125_jpg.rf.db86617c9ac4521b50c2993abbc925aa.jpg
+PotassiumDeficiency_126_jpg.rf.e6cf91acd54b408131a955601bba918f.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_126_jpg.rf.e6cf91acd54b408131a955601bba918f.jpg
+PotassiumDeficiency_127_jpg.rf.70b9fa5cb1e16e8a1a0f895a126386d7.jpg,Potassium-Deficiency,51,test,val,valid/3/PotassiumDeficiency_127_jpg.rf.70b9fa5cb1e16e8a1a0f895a126386d7.jpg
+PotassiumDeficiency_129_jpg.rf.f1c0ff737168d87a6b64efcedb3de0f9.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_129_jpg.rf.f1c0ff737168d87a6b64efcedb3de0f9.jpg
+PotassiumDeficiency_130_jpg.rf.ea90246c48c4044d280251416dc14e91.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_130_jpg.rf.ea90246c48c4044d280251416dc14e91.jpg
+PotassiumDeficiency_273_jpg.rf.59a7f80874624fb273f22a782e742905.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_273_jpg.rf.59a7f80874624fb273f22a782e742905.jpg
+PotassiumDeficiency_275_jpg.rf.a5878ff3c6222d38adbea459b95c0937.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_275_jpg.rf.a5878ff3c6222d38adbea459b95c0937.jpg
+PotassiumDeficiency_276_jpg.rf.d4090af33343487d59e646c861feda1b.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_276_jpg.rf.d4090af33343487d59e646c861feda1b.jpg
+PotassiumDeficiency_277_jpg.rf.e91ffe03319aa4ada5a44f19cf9dcdb0.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_277_jpg.rf.e91ffe03319aa4ada5a44f19cf9dcdb0.jpg
+PotassiumDeficiency_278_jpg.rf.6e7167239e28ca2faebd64606c7697fe.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_278_jpg.rf.6e7167239e28ca2faebd64606c7697fe.jpg
+PotassiumDeficiency_283_jpg.rf.36f61fd94b1b968515ce35d21e7ca4ed.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_283_jpg.rf.36f61fd94b1b968515ce35d21e7ca4ed.jpg
+PotassiumDeficiency_284_jpg.rf.00fb49cef0fedf479d7d6fef4c5cabe6.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_284_jpg.rf.00fb49cef0fedf479d7d6fef4c5cabe6.jpg
+PotassiumDeficiency_286_jpg.rf.9466780f94d225dd0fce97af9a3ae2db.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_286_jpg.rf.9466780f94d225dd0fce97af9a3ae2db.jpg
+PotassiumDeficiency_55_jpg.rf.6c7d5e3ac3d73add8a41e33caa9e44b7.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_55_jpg.rf.6c7d5e3ac3d73add8a41e33caa9e44b7.jpg
+PotassiumDeficiency_56_jpg.rf.91436374942409568b7862d21ce6bdbb.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_56_jpg.rf.91436374942409568b7862d21ce6bdbb.jpg
+PotassiumDeficiency_57_jpg.rf.fae553412c95c5e241a0e73158f5c31c.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_57_jpg.rf.fae553412c95c5e241a0e73158f5c31c.jpg
+PotassiumDeficiency_58_jpg.rf.d6c9e107671258a7d14259c3587a6c9c.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_58_jpg.rf.d6c9e107671258a7d14259c3587a6c9c.jpg
+PotassiumDeficiency_59_jpg.rf.77c3167cb65de0370830b8125a1c0f6f.jpg,Potassium-Deficiency,55,test,train,train/3/PotassiumDeficiency_59_jpg.rf.77c3167cb65de0370830b8125a1c0f6f.jpg
+PotassiumDeficiency_64_jpg.rf.b2a800033d177baabad7311ce23195aa.jpg,Potassium-Deficiency,51,test,test,test/3/PotassiumDeficiency_64_jpg.rf.b2a800033d177baabad7311ce23195aa.jpg
+PotassiumDeficiency_66_jpg.rf.b4afb97ec3ef51d696d2e17b1fd12066.jpg,Potassium-Deficiency,51,test,train,train/3/PotassiumDeficiency_66_jpg.rf.b4afb97ec3ef51d696d2e17b1fd12066.jpg
+PotassiumDeficiency_67_jpg.rf.2f5c4c53afc17253d85f305156af8b1b.jpg,Potassium-Deficiency,51,test,val,valid/3/PotassiumDeficiency_67_jpg.rf.2f5c4c53afc17253d85f305156af8b1b.jpg
+YellowSigatoka_110_jpg.rf.23c89eb68c5b492eaf74707a29b1b164.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_110_jpg.rf.23c89eb68c5b492eaf74707a29b1b164.jpg
+YellowSigatoka_113_jpg.rf.862b9f0df1eee69b1bbcf3d5f072ea61.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_113_jpg.rf.862b9f0df1eee69b1bbcf3d5f072ea61.jpg
+YellowSigatoka_114_jpg.rf.3f9c826c86bc8c66e7908da4adf6bc4c.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_114_jpg.rf.3f9c826c86bc8c66e7908da4adf6bc4c.jpg
+YellowSigatoka_136_jpg.rf.461fe67a89adca3a99a2dfda7b6748eb.jpg,Yellow-Sigatoka,110,test,val,valid/4/YellowSigatoka_136_jpg.rf.461fe67a89adca3a99a2dfda7b6748eb.jpg
+YellowSigatoka_154_jpg.rf.c8ae3cbd9c419e83e044a7bdb1c9cc85.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_154_jpg.rf.c8ae3cbd9c419e83e044a7bdb1c9cc85.jpg
+YellowSigatoka_157_jpg.rf.51fbdcaa4fdc70f73920f69ee691606e.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_157_jpg.rf.51fbdcaa4fdc70f73920f69ee691606e.jpg
+YellowSigatoka_158_jpg.rf.e9ea57d3e0da998f725f784742ce4d05.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_158_jpg.rf.e9ea57d3e0da998f725f784742ce4d05.jpg
+YellowSigatoka_180_jpg.rf.88ab24e481d04a6d9ac47695916c49e3.jpg,Yellow-Sigatoka,110,test,train,train/4/YellowSigatoka_180_jpg.rf.88ab24e481d04a6d9ac47695916c49e3.jpg
+YellowSigatoka_198_jpg.rf.0fae1264192e734591eda9739816f9b9.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_198_jpg.rf.0fae1264192e734591eda9739816f9b9.jpg
+YellowSigatoka_201_jpg.rf.11f2c07986220d8e2a1e018b4d1f5565.jpg,Yellow-Sigatoka,104,test,val,valid/4/YellowSigatoka_201_jpg.rf.11f2c07986220d8e2a1e018b4d1f5565.jpg
+YellowSigatoka_202_jpg.rf.1bc8a7ef062e1bf83e201f2016c5f9d5.jpg,Yellow-Sigatoka,104,test,val,valid/4/YellowSigatoka_202_jpg.rf.1bc8a7ef062e1bf83e201f2016c5f9d5.jpg
+YellowSigatoka_22_jpg.rf.4461781f2c7be19dd052496fb0e91198.jpg,Yellow-Sigatoka,104,test,val,valid/4/YellowSigatoka_22_jpg.rf.4461781f2c7be19dd052496fb0e91198.jpg
+YellowSigatoka_25_jpg.rf.e115eafdbabe122b84f0449b258edee7.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_25_jpg.rf.e115eafdbabe122b84f0449b258edee7.jpg
+YellowSigatoka_26_jpg.rf.87dd7f2f1dcfa3f9dad797debab8ac8d.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_26_jpg.rf.87dd7f2f1dcfa3f9dad797debab8ac8d.jpg
+YellowSigatoka_48_jpg.rf.bd47ab46c96ede33f115753669b64d25.jpg,Yellow-Sigatoka,110,test,train,train/4/YellowSigatoka_48_jpg.rf.bd47ab46c96ede33f115753669b64d25.jpg
+YellowSigatoka_4_jpg.rf.3d096076df78ec1a3706a5eba5a1ad50.jpg,Yellow-Sigatoka,110,test,train,train/4/YellowSigatoka_4_jpg.rf.3d096076df78ec1a3706a5eba5a1ad50.jpg
+YellowSigatoka_66_jpg.rf.b3f07b965c2861f8101cc6c0f95f056a.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_66_jpg.rf.b3f07b965c2861f8101cc6c0f95f056a.jpg
+YellowSigatoka_69_jpg.rf.51b3b3394ae1b04d94bbacd034b078c2.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_69_jpg.rf.51b3b3394ae1b04d94bbacd034b078c2.jpg
+YellowSigatoka_70_jpg.rf.082bff5af06d442562bb814cdc30e3f4.jpg,Yellow-Sigatoka,104,test,train,train/4/YellowSigatoka_70_jpg.rf.082bff5af06d442562bb814cdc30e3f4.jpg
+YellowSigatoka_92_jpg.rf.016bacdf76be87cf4c07700575f1f54e.jpg,Yellow-Sigatoka,110,test,val,valid/4/YellowSigatoka_92_jpg.rf.016bacdf76be87cf4c07700575f1f54e.jpg
+BlackSigatoka_100_jpg.rf.4bb6bc946fbe2b13c896de7c8e72324f.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_100_jpg.rf.4bb6bc946fbe2b13c896de7c8e72324f.jpg
+BlackSigatoka_101_jpg.rf.fde73e3dc89932920cd0734ebde911c3.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_101_jpg.rf.fde73e3dc89932920cd0734ebde911c3.jpg
+BlackSigatoka_10_jpg.rf.c352bc3452a81e5f3debdeb730634ce8.jpg,Black-Sigatoka,39,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_10_jpg.rf.c352bc3452a81e5f3debdeb730634ce8.jpg
+BlackSigatoka_128_jpg.rf.a35ae1ad1fa53f55f7d79b305170b5f8.jpg,Black-Sigatoka,77,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_128_jpg.rf.a35ae1ad1fa53f55f7d79b305170b5f8.jpg
+BlackSigatoka_129_jpg.rf.061267e5953ea3f4665a3e0120098802.jpg,Black-Sigatoka,41,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_129_jpg.rf.061267e5953ea3f4665a3e0120098802.jpg
+BlackSigatoka_12_jpg.rf.ea22e94051b3b9e94d5354bcea04d1d8.jpg,Black-Sigatoka,78,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_12_jpg.rf.ea22e94051b3b9e94d5354bcea04d1d8.jpg
+BlackSigatoka_131_jpg.rf.0aa3f91676e5acc2fb19ca092c20a51b.jpg,Black-Sigatoka,86,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_131_jpg.rf.0aa3f91676e5acc2fb19ca092c20a51b.jpg
+BlackSigatoka_132_jpg.rf.5220f78b16664a40bb9c13c965e8924a.jpg,Black-Sigatoka,86,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_132_jpg.rf.5220f78b16664a40bb9c13c965e8924a.jpg
+BlackSigatoka_133_jpg.rf.502cf449b53af2328379d9ded31ea1ae.jpg,Black-Sigatoka,86,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_133_jpg.rf.502cf449b53af2328379d9ded31ea1ae.jpg
+BlackSigatoka_134_jpg.rf.ed2a12170aa3b3d82fd52cc3786fc092.jpg,Black-Sigatoka,86,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_134_jpg.rf.ed2a12170aa3b3d82fd52cc3786fc092.jpg
+BlackSigatoka_135_jpg.rf.36827ebbd6ca47bc9357c622bfb34445.jpg,Black-Sigatoka,86,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_135_jpg.rf.36827ebbd6ca47bc9357c622bfb34445.jpg
+BlackSigatoka_137_jpg.rf.bd02592557834b5e7d0c8198934e1df7.jpg,Black-Sigatoka,75,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_137_jpg.rf.bd02592557834b5e7d0c8198934e1df7.jpg
+BlackSigatoka_139_jpg.rf.a6d0822d7b93b9c9995d3efc98d26875.jpg,Black-Sigatoka,76,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_139_jpg.rf.a6d0822d7b93b9c9995d3efc98d26875.jpg
+BlackSigatoka_13_jpg.rf.c7850ef67ad8175faa2d607d2febf6bf.jpg,Black-Sigatoka,42,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_13_jpg.rf.c7850ef67ad8175faa2d607d2febf6bf.jpg
+BlackSigatoka_140_jpg.rf.e98de6b8eca8d55ed900d8d16a1a128a.jpg,Black-Sigatoka,46,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_140_jpg.rf.e98de6b8eca8d55ed900d8d16a1a128a.jpg
+BlackSigatoka_141_jpg.rf.ed7b4e1e0cbdc74b50c7361c86f3eae5.jpg,Black-Sigatoka,40,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_141_jpg.rf.ed7b4e1e0cbdc74b50c7361c86f3eae5.jpg
+BlackSigatoka_142_jpg.rf.2db3c3e7c257e460eb732567c3c4474c.jpg,Black-Sigatoka,77,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_142_jpg.rf.2db3c3e7c257e460eb732567c3c4474c.jpg
+BlackSigatoka_143_jpg.rf.2b71d70651ee5c9c21b560c71027ade9.jpg,Black-Sigatoka,41,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_143_jpg.rf.2b71d70651ee5c9c21b560c71027ade9.jpg
+BlackSigatoka_144_jpg.rf.26a8240f5a98fae3e0ce1755e0163199.jpg,Black-Sigatoka,47,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_144_jpg.rf.26a8240f5a98fae3e0ce1755e0163199.jpg
+BlackSigatoka_145_jpg.rf.7dd813cc2da9cd204a3488cdb81c5182.jpg,Black-Sigatoka,39,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_145_jpg.rf.7dd813cc2da9cd204a3488cdb81c5182.jpg
+BlackSigatoka_147_jpg.rf.6433e18e5b22a219d5d5cc81fc96511a.jpg,Black-Sigatoka,78,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_147_jpg.rf.6433e18e5b22a219d5d5cc81fc96511a.jpg
+BlackSigatoka_148_jpg.rf.c60a2f5b877eabae27332679c6d08923.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_148_jpg.rf.c60a2f5b877eabae27332679c6d08923.jpg
+BlackSigatoka_149_jpg.rf.1063338d5ba536a8a0189e7bef56c895.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_149_jpg.rf.1063338d5ba536a8a0189e7bef56c895.jpg
+BlackSigatoka_14_jpg.rf.89dc5c9330d07138aa5e4f3b8cc084f0.jpg,Black-Sigatoka,42,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_14_jpg.rf.89dc5c9330d07138aa5e4f3b8cc084f0.jpg
+BlackSigatoka_150_jpg.rf.faf295b4ff7ad6ef8de26b8d251c0986.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_150_jpg.rf.faf295b4ff7ad6ef8de26b8d251c0986.jpg
+BlackSigatoka_151_jpg.rf.5aaac18b7edadcd777ecfc246b6a0a62.jpg,Black-Sigatoka,42,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_151_jpg.rf.5aaac18b7edadcd777ecfc246b6a0a62.jpg
+BlackSigatoka_152_jpg.rf.d4b6e775652f2a9a28a6a5cbd95c67f9.jpg,Black-Sigatoka,43,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_152_jpg.rf.d4b6e775652f2a9a28a6a5cbd95c67f9.jpg
+BlackSigatoka_153_jpg.rf.6d89ce2963588baddb27d861a0387a84.jpg,Black-Sigatoka,79,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_153_jpg.rf.6d89ce2963588baddb27d861a0387a84.jpg
+BlackSigatoka_154_jpg.rf.b57376c65d3f486a8a020c448a237bc5.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_154_jpg.rf.b57376c65d3f486a8a020c448a237bc5.jpg
+BlackSigatoka_155_jpg.rf.28dafd4745d094eacdab02d9aa30a61f.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_155_jpg.rf.28dafd4745d094eacdab02d9aa30a61f.jpg
+BlackSigatoka_156_jpg.rf.08a0079e31403c4b415082a161210c10.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_156_jpg.rf.08a0079e31403c4b415082a161210c10.jpg
+BlackSigatoka_158_jpg.rf.ebaa3199d673b9324adc0ca1d69d973c.jpg,Black-Sigatoka,81,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_158_jpg.rf.ebaa3199d673b9324adc0ca1d69d973c.jpg
+BlackSigatoka_159_jpg.rf.74a91bf5eac75d38ae16bffb2cfa9039.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_159_jpg.rf.74a91bf5eac75d38ae16bffb2cfa9039.jpg
+BlackSigatoka_15_jpg.rf.8b561f98cafebd5de11fd30b73c90f33.jpg,Black-Sigatoka,42,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_15_jpg.rf.8b561f98cafebd5de11fd30b73c90f33.jpg
+BlackSigatoka_160_jpg.rf.564c1826f8b6a122e332f6c21aa8a4d8.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_160_jpg.rf.564c1826f8b6a122e332f6c21aa8a4d8.jpg
+BlackSigatoka_161_jpg.rf.d48881657cf92a050576d48892ef696e.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_161_jpg.rf.d48881657cf92a050576d48892ef696e.jpg
+BlackSigatoka_162_jpg.rf.8237d6a350884cefdad875a2eeda961e.jpg,Black-Sigatoka,81,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_162_jpg.rf.8237d6a350884cefdad875a2eeda961e.jpg
+BlackSigatoka_163_jpg.rf.d96b5539afef6fea31e4134d302b97bd.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_163_jpg.rf.d96b5539afef6fea31e4134d302b97bd.jpg
+BlackSigatoka_164_jpg.rf.ea8256dd9d4ad6d51ad560f7bf04dd37.jpg,Black-Sigatoka,80,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_164_jpg.rf.ea8256dd9d4ad6d51ad560f7bf04dd37.jpg
+BlackSigatoka_165_jpg.rf.d3b3ca66b6c25ed2dcf49a205f40c9da.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_165_jpg.rf.d3b3ca66b6c25ed2dcf49a205f40c9da.jpg
+BlackSigatoka_166_jpg.rf.c5b22577c7ed8ed779e68f05ff334e04.jpg,Black-Sigatoka,80,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_166_jpg.rf.c5b22577c7ed8ed779e68f05ff334e04.jpg
+BlackSigatoka_167_jpg.rf.3a5ff89853c43d1e8a9c43986ef2a003.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_167_jpg.rf.3a5ff89853c43d1e8a9c43986ef2a003.jpg
+BlackSigatoka_168_jpg.rf.a4469e7eb6e90a0d1c8f0d770df68549.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_168_jpg.rf.a4469e7eb6e90a0d1c8f0d770df68549.jpg
+BlackSigatoka_169_jpg.rf.d87b941497d376dbe0abcc16d98dad16.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_169_jpg.rf.d87b941497d376dbe0abcc16d98dad16.jpg
+BlackSigatoka_16_jpg.rf.828ecc63a91d293ecfd79b44888af484.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_16_jpg.rf.828ecc63a91d293ecfd79b44888af484.jpg
+BlackSigatoka_170_jpg.rf.636744e24594aaf2ce5efa9301e39c09.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_170_jpg.rf.636744e24594aaf2ce5efa9301e39c09.jpg
+BlackSigatoka_171_jpg.rf.19655eb2d7b0613896a301f2f3752809.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_171_jpg.rf.19655eb2d7b0613896a301f2f3752809.jpg
+BlackSigatoka_172_jpg.rf.35992a2b1348093dce0c62ae783e73e3.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_172_jpg.rf.35992a2b1348093dce0c62ae783e73e3.jpg
+BlackSigatoka_173_jpg.rf.69275a80e56a970fbb1c728559f3d112.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_173_jpg.rf.69275a80e56a970fbb1c728559f3d112.jpg
+BlackSigatoka_174_jpg.rf.eb4f6301090203f1a4815264c0b045bc.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_174_jpg.rf.eb4f6301090203f1a4815264c0b045bc.jpg
+BlackSigatoka_175_jpg.rf.baffd68629a23d497ab1dc8d26f81013.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_175_jpg.rf.baffd68629a23d497ab1dc8d26f81013.jpg
+BlackSigatoka_176_jpg.rf.41187eec69afbe97514d8afc9f56ff40.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_176_jpg.rf.41187eec69afbe97514d8afc9f56ff40.jpg
+BlackSigatoka_17_jpg.rf.65a9e0c1f7b8a1955f46f1a9c2428b16.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_17_jpg.rf.65a9e0c1f7b8a1955f46f1a9c2428b16.jpg
+BlackSigatoka_18_jpg.rf.f637bce6e36cf5e294432c99eb92775f.jpg,Black-Sigatoka,43,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_18_jpg.rf.f637bce6e36cf5e294432c99eb92775f.jpg
+BlackSigatoka_19_jpg.rf.1bff724bdda3b04bfbbd15e73136196a.jpg,Black-Sigatoka,79,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_19_jpg.rf.1bff724bdda3b04bfbbd15e73136196a.jpg
+BlackSigatoka_209_jpg.rf.3d7960d32c1377f927d548c260ba9f95.jpg,Black-Sigatoka,86,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_209_jpg.rf.3d7960d32c1377f927d548c260ba9f95.jpg
+BlackSigatoka_20_jpg.rf.6ea99e2f54adb2d3e99708c28b9d824a.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_20_jpg.rf.6ea99e2f54adb2d3e99708c28b9d824a.jpg
+BlackSigatoka_210_jpg.rf.7f46be7ca465e580f6f5ebe76ee273c5.jpg,Black-Sigatoka,86,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_210_jpg.rf.7f46be7ca465e580f6f5ebe76ee273c5.jpg
+BlackSigatoka_211_jpg.rf.80ddf8baaed36fd4616c0af24cca5948.jpg,Black-Sigatoka,86,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_211_jpg.rf.80ddf8baaed36fd4616c0af24cca5948.jpg
+BlackSigatoka_212_jpg.rf.9c0589c160655f6e63738a9ca0833548.jpg,Black-Sigatoka,86,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_212_jpg.rf.9c0589c160655f6e63738a9ca0833548.jpg
+BlackSigatoka_213_jpg.rf.928201e8bd4f4f62f91c9ab64fa7559a.jpg,Black-Sigatoka,86,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_213_jpg.rf.928201e8bd4f4f62f91c9ab64fa7559a.jpg
+BlackSigatoka_215_jpg.rf.3cb21bf6f374c349ef1d7934ffa8f044.jpg,Black-Sigatoka,75,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_215_jpg.rf.3cb21bf6f374c349ef1d7934ffa8f044.jpg
+BlackSigatoka_217_jpg.rf.41c33772a15c504c02f415196a0cce91.jpg,Black-Sigatoka,76,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_217_jpg.rf.41c33772a15c504c02f415196a0cce91.jpg
+BlackSigatoka_218_jpg.rf.d4068c8ce70ce719f4a657e3053ce111.jpg,Black-Sigatoka,46,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_218_jpg.rf.d4068c8ce70ce719f4a657e3053ce111.jpg
+BlackSigatoka_219_jpg.rf.6af64fa468cc1d907059632ee05c0994.jpg,Black-Sigatoka,40,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_219_jpg.rf.6af64fa468cc1d907059632ee05c0994.jpg
+BlackSigatoka_21_jpg.rf.961deed320901194fa75a7631261c921.jpg,Black-Sigatoka,44,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_21_jpg.rf.961deed320901194fa75a7631261c921.jpg
+BlackSigatoka_220_jpg.rf.b63b391dd80be2073ab18d79349c60a2.jpg,Black-Sigatoka,77,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_220_jpg.rf.b63b391dd80be2073ab18d79349c60a2.jpg
+BlackSigatoka_221_jpg.rf.e6577fdb0524d573e335e791b80b000c.jpg,Black-Sigatoka,41,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_221_jpg.rf.e6577fdb0524d573e335e791b80b000c.jpg
+BlackSigatoka_222_jpg.rf.943d5c1e508dea0996d9c91e9473a348.jpg,Black-Sigatoka,47,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_222_jpg.rf.943d5c1e508dea0996d9c91e9473a348.jpg
+BlackSigatoka_223_jpg.rf.4c923c4e7beac0da66db32d4470a9836.jpg,Black-Sigatoka,39,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_223_jpg.rf.4c923c4e7beac0da66db32d4470a9836.jpg
+BlackSigatoka_225_jpg.rf.90f6e457064a183618729360ebe3934b.jpg,Black-Sigatoka,78,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_225_jpg.rf.90f6e457064a183618729360ebe3934b.jpg
+BlackSigatoka_226_jpg.rf.307e28afd2a7c86888899e6796bb9cd2.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_226_jpg.rf.307e28afd2a7c86888899e6796bb9cd2.jpg
+BlackSigatoka_227_jpg.rf.8c193ac9f8edfaebaff8ac3d88fc67c5.jpg,Black-Sigatoka,42,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_227_jpg.rf.8c193ac9f8edfaebaff8ac3d88fc67c5.jpg
+BlackSigatoka_228_jpg.rf.47e9efdf61450e47b1351ba23e90a4b7.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_228_jpg.rf.47e9efdf61450e47b1351ba23e90a4b7.jpg
+BlackSigatoka_229_jpg.rf.e20aa03b12c527d6f1a9dc158d8b5330.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_229_jpg.rf.e20aa03b12c527d6f1a9dc158d8b5330.jpg
+BlackSigatoka_22_jpg.rf.b4baaf784247a0aa47387fcf641bb481.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_22_jpg.rf.b4baaf784247a0aa47387fcf641bb481.jpg
+BlackSigatoka_230_jpg.rf.92d1914407065a51da2b4f2032edb788.jpg,Black-Sigatoka,42,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_230_jpg.rf.92d1914407065a51da2b4f2032edb788.jpg
+BlackSigatoka_231_jpg.rf.23eb7c8b5ec08aeaeed3f094e4b24608.jpg,Black-Sigatoka,43,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_231_jpg.rf.23eb7c8b5ec08aeaeed3f094e4b24608.jpg
+BlackSigatoka_232_jpg.rf.66968f914f75f3de62dd029c40286b24.jpg,Black-Sigatoka,79,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_232_jpg.rf.66968f914f75f3de62dd029c40286b24.jpg
+BlackSigatoka_233_jpg.rf.5db48a690dfd72ebdab1d931275853ec.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_233_jpg.rf.5db48a690dfd72ebdab1d931275853ec.jpg
+BlackSigatoka_234_jpg.rf.28b347cfa7b28059cff0b1130966a5e0.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_234_jpg.rf.28b347cfa7b28059cff0b1130966a5e0.jpg
+BlackSigatoka_235_jpg.rf.1b2b3b703ffcb1fac164f58953b7c42c.jpg,Black-Sigatoka,44,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_235_jpg.rf.1b2b3b703ffcb1fac164f58953b7c42c.jpg
+BlackSigatoka_237_jpg.rf.9701fcdc58d2ec3801ef754d38e1046f.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_237_jpg.rf.9701fcdc58d2ec3801ef754d38e1046f.jpg
+BlackSigatoka_238_jpg.rf.21185c8001a14f19efebeecf60fea00d.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_238_jpg.rf.21185c8001a14f19efebeecf60fea00d.jpg
+BlackSigatoka_239_jpg.rf.69a1469d2a1b84609cf04c982ec15283.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_239_jpg.rf.69a1469d2a1b84609cf04c982ec15283.jpg
+BlackSigatoka_240_jpg.rf.a41435b731477d3f6d69c07b19562c9c.jpg,Black-Sigatoka,81,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_240_jpg.rf.a41435b731477d3f6d69c07b19562c9c.jpg
+BlackSigatoka_241_jpg.rf.8bc1301d47d31d82e3f98dff25defb7d.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_241_jpg.rf.8bc1301d47d31d82e3f98dff25defb7d.jpg
+BlackSigatoka_242_jpg.rf.11b99cc7722499f5465f1dca7abd375a.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_242_jpg.rf.11b99cc7722499f5465f1dca7abd375a.jpg
+BlackSigatoka_244_jpg.rf.5f0000e00ddfd17af67143c1afadae23.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_244_jpg.rf.5f0000e00ddfd17af67143c1afadae23.jpg
+BlackSigatoka_245_jpg.rf.1bfd4bbfb2b4f4f2db239a2cbbc83094.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_245_jpg.rf.1bfd4bbfb2b4f4f2db239a2cbbc83094.jpg
+BlackSigatoka_246_jpg.rf.9232e6444558f50c245daaa619924cf5.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_246_jpg.rf.9232e6444558f50c245daaa619924cf5.jpg
+BlackSigatoka_247_jpg.rf.a9b81763d27d840bc07c473a81a1aa6a.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_247_jpg.rf.a9b81763d27d840bc07c473a81a1aa6a.jpg
+BlackSigatoka_248_jpg.rf.d2ae74cf93d45681590c6ae8d780af82.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_248_jpg.rf.d2ae74cf93d45681590c6ae8d780af82.jpg
+BlackSigatoka_249_jpg.rf.806c84317c19d54636ccf1c446008432.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_249_jpg.rf.806c84317c19d54636ccf1c446008432.jpg
+BlackSigatoka_24_jpg.rf.941657f0b5428325a6692bc5f70b9165.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_24_jpg.rf.941657f0b5428325a6692bc5f70b9165.jpg
+BlackSigatoka_250_jpg.rf.b0b9fe1d28be616015f843a53b2729bb.jpg,Black-Sigatoka,80,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_250_jpg.rf.b0b9fe1d28be616015f843a53b2729bb.jpg
+BlackSigatoka_251_jpg.rf.d4250af446a6c8a779cf2428bf7005f6.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_251_jpg.rf.d4250af446a6c8a779cf2428bf7005f6.jpg
+BlackSigatoka_252_jpg.rf.5909dcf07d258fcfb6f00905f868c71b.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_252_jpg.rf.5909dcf07d258fcfb6f00905f868c71b.jpg
+BlackSigatoka_253_jpg.rf.38e1e34a2e2dfd712a5fb74e43918c18.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_253_jpg.rf.38e1e34a2e2dfd712a5fb74e43918c18.jpg
+BlackSigatoka_254_jpg.rf.b4906e34cea50ac2eb10ce7fb1e95450.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_254_jpg.rf.b4906e34cea50ac2eb10ce7fb1e95450.jpg
+BlackSigatoka_255_jpg.rf.cd67370dbbc593429d176d5000d99f68.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_255_jpg.rf.cd67370dbbc593429d176d5000d99f68.jpg
+BlackSigatoka_256_jpg.rf.23027e99a22ad6a4d75f81ddf46679c6.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_256_jpg.rf.23027e99a22ad6a4d75f81ddf46679c6.jpg
+BlackSigatoka_25_jpg.rf.ccabb668aa68958fecf5af2f5deec2ef.jpg,Black-Sigatoka,81,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_25_jpg.rf.ccabb668aa68958fecf5af2f5deec2ef.jpg
+BlackSigatoka_26_jpg.rf.c0a1113f016b2fbd6b7aa2164cadad5a.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_26_jpg.rf.c0a1113f016b2fbd6b7aa2164cadad5a.jpg
+BlackSigatoka_27_jpg.rf.541efa90e2a915583ddd7c9fc54c1950.jpg,Black-Sigatoka,81,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_27_jpg.rf.541efa90e2a915583ddd7c9fc54c1950.jpg
+BlackSigatoka_28_jpg.rf.15f30684adeac4c05297221a6e170f92.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_28_jpg.rf.15f30684adeac4c05297221a6e170f92.jpg
+BlackSigatoka_29_jpg.rf.8ab652328768ff9a9ee68726d7424710.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_29_jpg.rf.8ab652328768ff9a9ee68726d7424710.jpg
+BlackSigatoka_2_jpg.rf.d508e1e00c163b2b8c9974da77a55e3e.jpg,Black-Sigatoka,75,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_2_jpg.rf.d508e1e00c163b2b8c9974da77a55e3e.jpg
+BlackSigatoka_30_jpg.rf.900a32864527d3047162e648fe575b81.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_30_jpg.rf.900a32864527d3047162e648fe575b81.jpg
+BlackSigatoka_31_jpg.rf.af25263f2dc032de7ab5cae058573e26.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_31_jpg.rf.af25263f2dc032de7ab5cae058573e26.jpg
+BlackSigatoka_32_jpg.rf.25edfc18f52dc83f05d874f5ccebba92.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_32_jpg.rf.25edfc18f52dc83f05d874f5ccebba92.jpg
+BlackSigatoka_33_jpg.rf.034c14d23df2d590c9311cee837557b1.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_33_jpg.rf.034c14d23df2d590c9311cee837557b1.jpg
+BlackSigatoka_34_jpg.rf.b7067fb9e44b6474fe2b1c28dcd91cb0.jpg,Black-Sigatoka,80,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_34_jpg.rf.b7067fb9e44b6474fe2b1c28dcd91cb0.jpg
+BlackSigatoka_35_jpg.rf.a5989c90c6d8b34debb22739668c93a7.jpg,Black-Sigatoka,80,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_35_jpg.rf.a5989c90c6d8b34debb22739668c93a7.jpg
+BlackSigatoka_36_jpg.rf.23bec036d6df89ca1506dcd6c43ce2ee.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_36_jpg.rf.23bec036d6df89ca1506dcd6c43ce2ee.jpg
+BlackSigatoka_37_jpg.rf.851b38d2d257512f4ecab0eea92ae9f8.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_37_jpg.rf.851b38d2d257512f4ecab0eea92ae9f8.jpg
+BlackSigatoka_38_jpg.rf.17b45aa4df3e49c05acbd115fba18408.jpg,Black-Sigatoka,80,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_38_jpg.rf.17b45aa4df3e49c05acbd115fba18408.jpg
+BlackSigatoka_39_jpg.rf.c06ae538ddf5187a697ef6e04af2d041.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_39_jpg.rf.c06ae538ddf5187a697ef6e04af2d041.jpg
+BlackSigatoka_40_jpg.rf.7a895c0c6c24169a3781630c65215cd1.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_40_jpg.rf.7a895c0c6c24169a3781630c65215cd1.jpg
+BlackSigatoka_41_jpg.rf.25ceae02d18952603f3fa300bd901eb6.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_41_jpg.rf.25ceae02d18952603f3fa300bd901eb6.jpg
+BlackSigatoka_42_jpg.rf.ce786c82c0df387f4f4573bca549a720.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_42_jpg.rf.ce786c82c0df387f4f4573bca549a720.jpg
+BlackSigatoka_49_jpg.rf.9db7a09c5cfa6f53c77b47fa0fbbf02a.jpg,Black-Sigatoka,76,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_49_jpg.rf.9db7a09c5cfa6f53c77b47fa0fbbf02a.jpg
+BlackSigatoka_76_jpg.rf.c3d699e7887f5b6b2e2ebedd21fc515f.jpg,Black-Sigatoka,86,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_76_jpg.rf.c3d699e7887f5b6b2e2ebedd21fc515f.jpg
+BlackSigatoka_77_jpg.rf.4fcc5b734e50fcf2f1ea9eba7a0a105a.jpg,Black-Sigatoka,86,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_77_jpg.rf.4fcc5b734e50fcf2f1ea9eba7a0a105a.jpg
+BlackSigatoka_78_jpg.rf.19eb9aa1005cdcab589db9c88f534bd4.jpg,Black-Sigatoka,86,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_78_jpg.rf.19eb9aa1005cdcab589db9c88f534bd4.jpg
+BlackSigatoka_79_jpg.rf.b242d30609a3575877541a9ca68e7746.jpg,Black-Sigatoka,86,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_79_jpg.rf.b242d30609a3575877541a9ca68e7746.jpg
+BlackSigatoka_80_jpg.rf.56f80c2b0b5118d58f7a6ec0d8c1eb40.jpg,Black-Sigatoka,86,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_80_jpg.rf.56f80c2b0b5118d58f7a6ec0d8c1eb40.jpg
+BlackSigatoka_81_jpg.rf.27fd850442aaa7ffa7bfc4141b2f52fe.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_81_jpg.rf.27fd850442aaa7ffa7bfc4141b2f52fe.jpg
+BlackSigatoka_82_jpg.rf.30339692bdd210b873a1e80ed7c79196.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_82_jpg.rf.30339692bdd210b873a1e80ed7c79196.jpg
+BlackSigatoka_83_jpg.rf.0fb98d7c78dd5d99600939c33e505ede.jpg,Black-Sigatoka,81,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_83_jpg.rf.0fb98d7c78dd5d99600939c33e505ede.jpg
+BlackSigatoka_84_jpg.rf.561a2db670bb5d4665c1726e35096164.jpg,Black-Sigatoka,81,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_84_jpg.rf.561a2db670bb5d4665c1726e35096164.jpg
+BlackSigatoka_85_jpg.rf.e01363eeda9e6c0b0dcc4ce820124390.jpg,Black-Sigatoka,81,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_85_jpg.rf.e01363eeda9e6c0b0dcc4ce820124390.jpg
+BlackSigatoka_86_jpg.rf.e7204f086252ef24626d32cbbc0f33e0.jpg,Black-Sigatoka,81,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_86_jpg.rf.e7204f086252ef24626d32cbbc0f33e0.jpg
+BlackSigatoka_87_jpg.rf.e010a1a0d7dc6137ce539cd9f20eb1fa.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_87_jpg.rf.e010a1a0d7dc6137ce539cd9f20eb1fa.jpg
+BlackSigatoka_88_jpg.rf.a965cdf48c821be785c5cece548a7e78.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_88_jpg.rf.a965cdf48c821be785c5cece548a7e78.jpg
+BlackSigatoka_89_jpg.rf.dd712aec8e48ebaa378c8c1263d4a432.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_89_jpg.rf.dd712aec8e48ebaa378c8c1263d4a432.jpg
+BlackSigatoka_90_jpg.rf.9129b6997cf1582529ba627633a19afb.jpg,Black-Sigatoka,80,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_90_jpg.rf.9129b6997cf1582529ba627633a19afb.jpg
+BlackSigatoka_91_jpg.rf.5a74c600b1f50250ee48c3952ad0d023.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_91_jpg.rf.5a74c600b1f50250ee48c3952ad0d023.jpg
+BlackSigatoka_92_jpg.rf.b1def991688a1218076ffe4fe2a0214a.jpg,Black-Sigatoka,46,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_92_jpg.rf.b1def991688a1218076ffe4fe2a0214a.jpg
+BlackSigatoka_93_jpg.rf.bf14afb68223175f58821d0f88763536.jpg,Black-Sigatoka,40,train,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_93_jpg.rf.bf14afb68223175f58821d0f88763536.jpg
+BlackSigatoka_94_jpg.rf.faaec26a6c9522770f0384fac0f2a7bc.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_94_jpg.rf.faaec26a6c9522770f0384fac0f2a7bc.jpg
+BlackSigatoka_95_jpg.rf.f096de7005d40122a52ac173afb2efc6.jpg,Black-Sigatoka,80,train,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_95_jpg.rf.f096de7005d40122a52ac173afb2efc6.jpg
+BlackSigatoka_96_jpg.rf.d90099baac4c8866368ca5c7f5ca36a7.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_96_jpg.rf.d90099baac4c8866368ca5c7f5ca36a7.jpg
+BlackSigatoka_97_jpg.rf.e7c10d20358a69b144ac62dc4d07e44e.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_97_jpg.rf.e7c10d20358a69b144ac62dc4d07e44e.jpg
+BlackSigatoka_98_jpg.rf.e1e8529c6739a33b3609cf1f007b7fa4.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_98_jpg.rf.e1e8529c6739a33b3609cf1f007b7fa4.jpg
+BlackSigatoka_99_jpg.rf.789ed452ca523514f213906bc11ad359.jpg,Black-Sigatoka,80,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_99_jpg.rf.789ed452ca523514f213906bc11ad359.jpg
+BlackSigatoka_9_jpg.rf.e2a21ea9020a995b6855b4a53b7fc2c4.jpg,Black-Sigatoka,47,train,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_9_jpg.rf.e2a21ea9020a995b6855b4a53b7fc2c4.jpg
+Healthy_100_jpeg_jpg.rf.efcd0d77a005ab862e6b81fca62f74d0.jpg,Healthy-Leaf,59,train,val,valid/1/Healthy_100_jpeg_jpg.rf.efcd0d77a005ab862e6b81fca62f74d0.jpg
+Healthy_101_jpeg_jpg.rf.e843b0bcf83b5e16c854841459d15b34.jpg,Healthy-Leaf,4,train,train,train/1/Healthy_101_jpeg_jpg.rf.e843b0bcf83b5e16c854841459d15b34.jpg
+Healthy_102_jpeg_jpg.rf.118bcd9a3ad826b151359a1b90629980.jpg,Healthy-Leaf,5,train,train,train/1/Healthy_102_jpeg_jpg.rf.118bcd9a3ad826b151359a1b90629980.jpg
+Healthy_106_jpeg_jpg.rf.011b25da9fb8695fa9aa503b65eede3a.jpg,Healthy-Leaf,8,train,train,train/1/Healthy_106_jpeg_jpg.rf.011b25da9fb8695fa9aa503b65eede3a.jpg
+Healthy_109_jpeg_jpg.rf.c6783078545163e9aa1c78c86a8f6a17.jpg,Healthy-Leaf,9,train,train,train/1/Healthy_109_jpeg_jpg.rf.c6783078545163e9aa1c78c86a8f6a17.jpg
+Healthy_10_jpeg_jpg.rf.5da47b6085bd1c91cf4602c20581bd4e.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_10_jpeg_jpg.rf.5da47b6085bd1c91cf4602c20581bd4e.jpg
+Healthy_110_jpeg_jpg.rf.10ce90b63631ff836b11ecee171b0b7f.jpg,Healthy-Leaf,10,train,train,train/1/Healthy_110_jpeg_jpg.rf.10ce90b63631ff836b11ecee171b0b7f.jpg
+Healthy_111_jpeg_jpg.rf.cc94d6c2f585b9f3cfd8a12a6e212a7a.jpg,Healthy-Leaf,11,train,train,train/1/Healthy_111_jpeg_jpg.rf.cc94d6c2f585b9f3cfd8a12a6e212a7a.jpg
+Healthy_113_jpeg_jpg.rf.87f3dba07155edd73f81b04e99ebc0d2.jpg,Healthy-Leaf,12,train,train,train/1/Healthy_113_jpeg_jpg.rf.87f3dba07155edd73f81b04e99ebc0d2.jpg
+Healthy_116_jpeg_jpg.rf.6952bc632d028ec20a7fe59692158413.jpg,Healthy-Leaf,62,train,val,valid/1/Healthy_116_jpeg_jpg.rf.6952bc632d028ec20a7fe59692158413.jpg
+Healthy_117_jpeg_jpg.rf.fd853bb89d406be2e5d9452dbd09dd2b.jpg,Healthy-Leaf,0,train,test,test/1/Healthy_117_jpeg_jpg.rf.fd853bb89d406be2e5d9452dbd09dd2b.jpg
+Healthy_119_jpeg_jpg.rf.b5b7db277a1007f83145101bfd989f13.jpg,Healthy-Leaf,64,train,val,valid/1/Healthy_119_jpeg_jpg.rf.b5b7db277a1007f83145101bfd989f13.jpg
+Healthy_11_jpeg_jpg.rf.3040d4fd6bfe3df31657b3c64e9753d8.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_11_jpeg_jpg.rf.3040d4fd6bfe3df31657b3c64e9753d8.jpg
+Healthy_121_jpeg_jpg.rf.1e6ce0ad90c7487d4dc544a77c2902e7.jpg,Healthy-Leaf,13,train,train,train/1/Healthy_121_jpeg_jpg.rf.1e6ce0ad90c7487d4dc544a77c2902e7.jpg
+Healthy_122_jpeg_jpg.rf.c7badead866083691e39fe60fee5ecb3.jpg,Healthy-Leaf,14,train,train,train/1/Healthy_122_jpeg_jpg.rf.c7badead866083691e39fe60fee5ecb3.jpg
+Healthy_123_jpeg_jpg.rf.bb2566841094788e35adf311d36314c5.jpg,Healthy-Leaf,70,train,train,train/1/Healthy_123_jpeg_jpg.rf.bb2566841094788e35adf311d36314c5.jpg
+Healthy_124_jpeg_jpg.rf.a28a05f880e86645a365cf52107d851e.jpg,Healthy-Leaf,15,train,train,train/1/Healthy_124_jpeg_jpg.rf.a28a05f880e86645a365cf52107d851e.jpg
+Healthy_125_jpeg_jpg.rf.206c50751abf3dcc9226eb5797ede379.jpg,Healthy-Leaf,15,train,train,train/1/Healthy_125_jpeg_jpg.rf.206c50751abf3dcc9226eb5797ede379.jpg
+Healthy_126_jpeg_jpg.rf.395310d8ca79216d96dae1478c3b51ab.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_126_jpeg_jpg.rf.395310d8ca79216d96dae1478c3b51ab.jpg
+Healthy_127_jpeg_jpg.rf.f2c58bda4a13e5e9b3190bae5e5d228d.jpg,Healthy-Leaf,16,train,train,train/1/Healthy_127_jpeg_jpg.rf.f2c58bda4a13e5e9b3190bae5e5d228d.jpg
+Healthy_128_jpeg_jpg.rf.f8818104f9d1567021e1dcbf90e6f0d0.jpg,Healthy-Leaf,17,train,train,train/1/Healthy_128_jpeg_jpg.rf.f8818104f9d1567021e1dcbf90e6f0d0.jpg
+Healthy_16_jpeg_jpg.rf.6750c2df572be5316ab3ba6f0069170b.jpg,Healthy-Leaf,70,train,train,train/1/Healthy_16_jpeg_jpg.rf.6750c2df572be5316ab3ba6f0069170b.jpg
+Healthy_1_jpeg_jpg.rf.53f9a7daef3a636437ac706af2cd0ac9.jpg,Healthy-Leaf,73,train,val,valid/1/Healthy_1_jpeg_jpg.rf.53f9a7daef3a636437ac706af2cd0ac9.jpg
+Healthy_24_jpeg_jpg.rf.caced69445c9c2920e245f68f4c04371.jpg,Healthy-Leaf,70,train,train,train/1/Healthy_24_jpeg_jpg.rf.caced69445c9c2920e245f68f4c04371.jpg
+Healthy_25_jpeg_jpg.rf.21eed4b75699ffc5de1fc62dd9227460.jpg,Healthy-Leaf,70,train,train,train/1/Healthy_25_jpeg_jpg.rf.21eed4b75699ffc5de1fc62dd9227460.jpg
+Healthy_26_jpeg_jpg.rf.07d2a9fb88f7e7c31ff6ce983e7b0d34.jpg,Healthy-Leaf,18,train,train,train/1/Healthy_26_jpeg_jpg.rf.07d2a9fb88f7e7c31ff6ce983e7b0d34.jpg
+Healthy_27_jpeg_jpg.rf.453077291944e5edb799e559f35e27a7.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_27_jpeg_jpg.rf.453077291944e5edb799e559f35e27a7.jpg
+Healthy_29_jpeg_jpg.rf.60e5731fbd9c9904c838b1da6b942fac.jpg,Healthy-Leaf,19,train,train,train/1/Healthy_29_jpeg_jpg.rf.60e5731fbd9c9904c838b1da6b942fac.jpg
+Healthy_30_jpeg_jpg.rf.95fec3e1001b1d8c8d8476a38b8101b2.jpg,Healthy-Leaf,20,train,train,train/1/Healthy_30_jpeg_jpg.rf.95fec3e1001b1d8c8d8476a38b8101b2.jpg
+Healthy_31_jpeg_jpg.rf.01a85db1303f0c62e41d68dc6537d014.jpg,Healthy-Leaf,21,train,train,train/1/Healthy_31_jpeg_jpg.rf.01a85db1303f0c62e41d68dc6537d014.jpg
+Healthy_32_jpeg_jpg.rf.f088daa23a81900227348b92f33ced8c.jpg,Healthy-Leaf,22,train,train,train/1/Healthy_32_jpeg_jpg.rf.f088daa23a81900227348b92f33ced8c.jpg
+Healthy_36_jpeg_jpg.rf.fb07db24b4e577a5a39a6ccbde73663d.jpg,Healthy-Leaf,23,train,train,train/1/Healthy_36_jpeg_jpg.rf.fb07db24b4e577a5a39a6ccbde73663d.jpg
+Healthy_38_jpeg_jpg.rf.e9ed8d31d4f972dfb738a9ca3212e3d1.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_38_jpeg_jpg.rf.e9ed8d31d4f972dfb738a9ca3212e3d1.jpg
+Healthy_41_jpeg_jpg.rf.5f16ad881cd08c03043d01c57593c0ee.jpg,Healthy-Leaf,70,train,train,train/1/Healthy_41_jpeg_jpg.rf.5f16ad881cd08c03043d01c57593c0ee.jpg
+Healthy_42_jpeg_jpg.rf.4913baec08b9fd2d780a57eeaa3b1cd8.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_42_jpeg_jpg.rf.4913baec08b9fd2d780a57eeaa3b1cd8.jpg
+Healthy_43_jpeg_jpg.rf.85e8ab501b23125deeca288d2b671135.jpg,Healthy-Leaf,1,train,test,test/1/Healthy_43_jpeg_jpg.rf.85e8ab501b23125deeca288d2b671135.jpg
+Healthy_44_jpeg_jpg.rf.24d6d9a88f47b5404a844b18165dedad.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_44_jpeg_jpg.rf.24d6d9a88f47b5404a844b18165dedad.jpg
+Healthy_45_jpeg_jpg.rf.492d19e9805f58d863328485be1dd25d.jpg,Healthy-Leaf,25,train,train,train/1/Healthy_45_jpeg_jpg.rf.492d19e9805f58d863328485be1dd25d.jpg
+Healthy_47_jpeg_jpg.rf.07a811b9bc60985274384b4643955100.jpg,Healthy-Leaf,67,train,train,train/1/Healthy_47_jpeg_jpg.rf.07a811b9bc60985274384b4643955100.jpg
+Healthy_48_jpeg_jpg.rf.16fc8b4b88f5b36361190c2be5a9b8d4.jpg,Healthy-Leaf,67,train,val,valid/1/Healthy_48_jpeg_jpg.rf.16fc8b4b88f5b36361190c2be5a9b8d4.jpg
+Healthy_49_jpeg_jpg.rf.b54e45e4847e4d9acc6c323fdd456b6c.jpg,Healthy-Leaf,70,train,train,train/1/Healthy_49_jpeg_jpg.rf.b54e45e4847e4d9acc6c323fdd456b6c.jpg
+Healthy_4_jpeg_jpg.rf.5c633c07d981062846ecc901f51e9042.jpg,Healthy-Leaf,27,train,train,train/1/Healthy_4_jpeg_jpg.rf.5c633c07d981062846ecc901f51e9042.jpg
+Healthy_51_jpeg_jpg.rf.cda52b9bd905af7abdc9f14c1de021c2.jpg,Healthy-Leaf,28,train,train,train/1/Healthy_51_jpeg_jpg.rf.cda52b9bd905af7abdc9f14c1de021c2.jpg
+Healthy_52_jpeg_jpg.rf.98b3e17771998d386a8377ee37cb1d04.jpg,Healthy-Leaf,70,train,train,train/1/Healthy_52_jpeg_jpg.rf.98b3e17771998d386a8377ee37cb1d04.jpg
+Healthy_55_jpeg_jpg.rf.5ace27ad44c2db20bf8f97676926afa5.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_55_jpeg_jpg.rf.5ace27ad44c2db20bf8f97676926afa5.jpg
+Healthy_58_jpeg_jpg.rf.87114c421783adab86257b6c34a7373e.jpg,Healthy-Leaf,30,train,train,train/1/Healthy_58_jpeg_jpg.rf.87114c421783adab86257b6c34a7373e.jpg
+Healthy_60_jpeg_jpg.rf.5c19cf2cf3f35c1d4286fab410f77bea.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_60_jpeg_jpg.rf.5c19cf2cf3f35c1d4286fab410f77bea.jpg
+Healthy_61_jpeg_jpg.rf.75b546dc90355a7e96df210a7663bbc3.jpg,Healthy-Leaf,33,train,train,train/1/Healthy_61_jpeg_jpg.rf.75b546dc90355a7e96df210a7663bbc3.jpg
+Healthy_62_jpeg_jpg.rf.97d2e1c7c8c1eae33e8096431f2b76a2.jpg,Healthy-Leaf,33,train,train,train/1/Healthy_62_jpeg_jpg.rf.97d2e1c7c8c1eae33e8096431f2b76a2.jpg
+Healthy_63_jpeg_jpg.rf.ed698156f5719383c519a6ccbcd5accb.jpg,Healthy-Leaf,34,train,train,train/1/Healthy_63_jpeg_jpg.rf.ed698156f5719383c519a6ccbcd5accb.jpg
+Healthy_65_jpeg_jpg.rf.37916a6b43d7a97dba6ef26a9103ff1e.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_65_jpeg_jpg.rf.37916a6b43d7a97dba6ef26a9103ff1e.jpg
+Healthy_69_jpeg_jpg.rf.b4adec09700af0e6362cf93b6b8313ab.jpg,Healthy-Leaf,70,train,test,test/1/Healthy_69_jpeg_jpg.rf.b4adec09700af0e6362cf93b6b8313ab.jpg
+Healthy_6_jpeg_jpg.rf.4fa9a716cb200d6aeb2667c3741c7b8f.jpg,Healthy-Leaf,70,train,val,valid/1/Healthy_6_jpeg_jpg.rf.4fa9a716cb200d6aeb2667c3741c7b8f.jpg
+Healthy_76_jpeg_jpg.rf.b95bd10e81328b5abb0e122b12f10bbc.jpg,Healthy-Leaf,71,train,val,valid/1/Healthy_76_jpeg_jpg.rf.b95bd10e81328b5abb0e122b12f10bbc.jpg
+Healthy_77_jpeg_jpg.rf.8573d51fac69328b44ffc3f0fe371540.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_77_jpeg_jpg.rf.8573d51fac69328b44ffc3f0fe371540.jpg
+Healthy_79_jpeg_jpg.rf.e8b637470fe1409b41b8625b44e368f0.jpg,Healthy-Leaf,37,train,train,train/1/Healthy_79_jpeg_jpg.rf.e8b637470fe1409b41b8625b44e368f0.jpg
+Healthy_7_jpeg_jpg.rf.5b95408a66e3fbc649a3b5113991f8b3.jpg,Healthy-Leaf,72,train,val,valid/1/Healthy_7_jpeg_jpg.rf.5b95408a66e3fbc649a3b5113991f8b3.jpg
+Healthy_8_jpeg_jpg.rf.6a7b072d001b6c14cb68f9cdaea8fe9a.jpg,Healthy-Leaf,2,train,test,test/1/Healthy_8_jpeg_jpg.rf.6a7b072d001b6c14cb68f9cdaea8fe9a.jpg
+Healthy_91_jpeg_jpg.rf.debeafd3122791187ba300c3ad9ed27b.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_91_jpeg_jpg.rf.debeafd3122791187ba300c3ad9ed27b.jpg
+Healthy_92_jpeg_jpg.rf.ee7a59aa98694fd95482640f87420d31.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_92_jpeg_jpg.rf.ee7a59aa98694fd95482640f87420d31.jpg
+Healthy_93_jpeg_jpg.rf.89535ec6deb867fc7d40cedd7affb228.jpg,Healthy-Leaf,73,train,val,valid/1/Healthy_93_jpeg_jpg.rf.89535ec6deb867fc7d40cedd7affb228.jpg
+Healthy_94_jpeg_jpg.rf.e77c2ef7198a4a41e6822f342a215c3a.jpg,Healthy-Leaf,73,train,train,train/1/Healthy_94_jpeg_jpg.rf.e77c2ef7198a4a41e6822f342a215c3a.jpg
+Healthy_9_jpeg_jpg.rf.557bc4a610d83ead0346d5ccb628a9a8.jpg,Healthy-Leaf,38,train,train,train/1/Healthy_9_jpeg_jpg.rf.557bc4a610d83ead0346d5ccb628a9a8.jpg
+Panama_10_jpg.rf.bd8f3c043b1b5505a1ec3d51ad23c12b.jpg,Panama-Disease,88,train,val,valid/2/Panama_10_jpg.rf.bd8f3c043b1b5505a1ec3d51ad23c12b.jpg
+Panama_11_jpg.rf.171fd47db9f8db089035589c801fb58d.jpg,Panama-Disease,88,train,val,valid/2/Panama_11_jpg.rf.171fd47db9f8db089035589c801fb58d.jpg
+Panama_12_jpg.rf.10954e4dbc6f035fb82fc1fc9fa246ed.jpg,Panama-Disease,88,train,train,train/2/Panama_12_jpg.rf.10954e4dbc6f035fb82fc1fc9fa246ed.jpg
+Panama_13_jpg.rf.c4f1ddae87816d1cefda543650aedde3.jpg,Panama-Disease,88,train,train,train/2/Panama_13_jpg.rf.c4f1ddae87816d1cefda543650aedde3.jpg
+Panama_14_jpg.rf.34b892841f887edce00baae888f59e72.jpg,Panama-Disease,88,train,train,train/2/Panama_14_jpg.rf.34b892841f887edce00baae888f59e72.jpg
+Panama_15_jpg.rf.bf30685264d6611ecdcb6568c22f61e1.jpg,Panama-Disease,88,train,test,test/2/Panama_15_jpg.rf.bf30685264d6611ecdcb6568c22f61e1.jpg
+Panama_21_jpg.rf.8be95a1eb97d03cc682c0b49694b69cf.jpg,Panama-Disease,89,train,train,train/2/Panama_21_jpg.rf.8be95a1eb97d03cc682c0b49694b69cf.jpg
+Panama_22_jpg.rf.4f86d18dfece012602e8909f892e39dd.jpg,Panama-Disease,49,train,train,train/2/Panama_22_jpg.rf.4f86d18dfece012602e8909f892e39dd.jpg
+Panama_28_jpg.rf.38360106d7ab45106583d8db8b70a061.jpg,Panama-Disease,89,train,train,train/2/Panama_28_jpg.rf.38360106d7ab45106583d8db8b70a061.jpg
+Panama_29_jpg.rf.1ec0c67b64740315064d893e8213dedb.jpg,Panama-Disease,49,train,train,train/2/Panama_29_jpg.rf.1ec0c67b64740315064d893e8213dedb.jpg
+Panama_30_jpg.rf.6e0d83d0d97debea0c364abb1e6d9b31.jpg,Panama-Disease,88,train,test,test/2/Panama_30_jpg.rf.6e0d83d0d97debea0c364abb1e6d9b31.jpg
+Panama_31_jpg.rf.63f693decceffd9bef9af9d6ec722033.jpg,Panama-Disease,88,train,train,train/2/Panama_31_jpg.rf.63f693decceffd9bef9af9d6ec722033.jpg
+Panama_33_jpg.rf.2fb80b3493592c5ac3fe98d3c146c715.jpg,Panama-Disease,88,train,train,train/2/Panama_33_jpg.rf.2fb80b3493592c5ac3fe98d3c146c715.jpg
+Panama_34_jpg.rf.7719a3464b99b8899137c6a613d317bc.jpg,Panama-Disease,88,train,train,train/2/Panama_34_jpg.rf.7719a3464b99b8899137c6a613d317bc.jpg
+Panama_35_jpg.rf.00fc0f93c34e9b9f48b6461bbdf472fd.jpg,Panama-Disease,88,train,val,valid/2/Panama_35_jpg.rf.00fc0f93c34e9b9f48b6461bbdf472fd.jpg
+Panama_36_jpg.rf.d064614b5acea52dc43ef007e82fbaac.jpg,Panama-Disease,88,train,val,valid/2/Panama_36_jpg.rf.d064614b5acea52dc43ef007e82fbaac.jpg
+Panama_37_jpg.rf.9c7d386fdc75c06563f60410927713ca.jpg,Panama-Disease,88,train,test,test/2/Panama_37_jpg.rf.9c7d386fdc75c06563f60410927713ca.jpg
+Panama_38_jpg.rf.6f3d4dbfa1f1baa47959395488af4394.jpg,Panama-Disease,88,train,val,valid/2/Panama_38_jpg.rf.6f3d4dbfa1f1baa47959395488af4394.jpg
+Panama_39_jpg.rf.8cac6220f22ee3919fcff2ab6bb5fda1.jpg,Panama-Disease,88,train,train,train/2/Panama_39_jpg.rf.8cac6220f22ee3919fcff2ab6bb5fda1.jpg
+Panama_45_jpg.rf.2934f3dde0bd2e94718f1a2b46d28bae.jpg,Panama-Disease,89,train,train,train/2/Panama_45_jpg.rf.2934f3dde0bd2e94718f1a2b46d28bae.jpg
+Panama_46_jpg.rf.755991544eba9431460505f725a5f008.jpg,Panama-Disease,49,train,train,train/2/Panama_46_jpg.rf.755991544eba9431460505f725a5f008.jpg
+Panama_47_jpg.rf.1010ebbee68cd97de60901cd301ac0f9.jpg,Panama-Disease,88,train,train,train/2/Panama_47_jpg.rf.1010ebbee68cd97de60901cd301ac0f9.jpg
+Panama_48_jpg.rf.677648b4c2213b1d6a34ccae06b3064b.jpg,Panama-Disease,88,train,train,train/2/Panama_48_jpg.rf.677648b4c2213b1d6a34ccae06b3064b.jpg
+Panama_4_jpg.rf.3c966f491eb9ba969da0a88a5e960ea5.jpg,Panama-Disease,89,train,train,train/2/Panama_4_jpg.rf.3c966f491eb9ba969da0a88a5e960ea5.jpg
+Panama_50_jpg.rf.622a441a126a34daf6379c8654b1000e.jpg,Panama-Disease,88,train,train,train/2/Panama_50_jpg.rf.622a441a126a34daf6379c8654b1000e.jpg
+Panama_51_jpg.rf.f89705a1dc98520e35b3b2a7ae05f28b.jpg,Panama-Disease,88,train,train,train/2/Panama_51_jpg.rf.f89705a1dc98520e35b3b2a7ae05f28b.jpg
+Panama_52_jpg.rf.8bd967bd77a1e642284118ad978422ca.jpg,Panama-Disease,88,train,val,valid/2/Panama_52_jpg.rf.8bd967bd77a1e642284118ad978422ca.jpg
+Panama_53_jpg.rf.356d7b20283d88f9e0ca8906bd42d7be.jpg,Panama-Disease,88,train,test,test/2/Panama_53_jpg.rf.356d7b20283d88f9e0ca8906bd42d7be.jpg
+Panama_54_jpg.rf.3009b8a0b162aa6ece3f8b8ee7e03739.jpg,Panama-Disease,88,train,train,train/2/Panama_54_jpg.rf.3009b8a0b162aa6ece3f8b8ee7e03739.jpg
+Panama_55_jpg.rf.b06d82b9cb6344e93289a8d20d61b073.jpg,Panama-Disease,88,train,test,test/2/Panama_55_jpg.rf.b06d82b9cb6344e93289a8d20d61b073.jpg
+Panama_56_jpg.rf.5018fe47a6a16605b306e24003694100.jpg,Panama-Disease,88,train,val,valid/2/Panama_56_jpg.rf.5018fe47a6a16605b306e24003694100.jpg
+Panama_57_jpg.rf.4ac7900d0c1a733ae245a731f4b8f3b6.jpg,Panama-Disease,88,train,val,valid/2/Panama_57_jpg.rf.4ac7900d0c1a733ae245a731f4b8f3b6.jpg
+Panama_59_jpg.rf.67cc8881b89ea5633c4738163bc369fe.jpg,Panama-Disease,88,train,train,train/2/Panama_59_jpg.rf.67cc8881b89ea5633c4738163bc369fe.jpg
+Panama_5_jpg.rf.8fd6c43cfd6811f5f3c2318345a6ea37.jpg,Panama-Disease,49,train,train,train/2/Panama_5_jpg.rf.8fd6c43cfd6811f5f3c2318345a6ea37.jpg
+Panama_60_jpg.rf.62a8f607e2affa1575622af04d94bb24.jpg,Panama-Disease,88,train,train,train/2/Panama_60_jpg.rf.62a8f607e2affa1575622af04d94bb24.jpg
+Panama_61_jpg.rf.12dc40a33f70568dd1d15c48ce6d810e.jpg,Panama-Disease,88,train,val,valid/2/Panama_61_jpg.rf.12dc40a33f70568dd1d15c48ce6d810e.jpg
+Panama_62_jpg.rf.3e7dc47710ca5b16127e1763a9c8cd4b.jpg,Panama-Disease,88,train,train,train/2/Panama_62_jpg.rf.3e7dc47710ca5b16127e1763a9c8cd4b.jpg
+Panama_63_jpg.rf.a803f154e75226da35cab2c2f68367e5.jpg,Panama-Disease,88,train,val,valid/2/Panama_63_jpg.rf.a803f154e75226da35cab2c2f68367e5.jpg
+Panama_64_jpg.rf.08750a48059b00e4c48a3336a7c9c3c1.jpg,Panama-Disease,88,train,val,valid/2/Panama_64_jpg.rf.08750a48059b00e4c48a3336a7c9c3c1.jpg
+Panama_65_jpg.rf.4c025887aab5fc4232fdf1bf4cc56ef1.jpg,Panama-Disease,88,train,val,valid/2/Panama_65_jpg.rf.4c025887aab5fc4232fdf1bf4cc56ef1.jpg
+Panama_6_jpg.rf.da17fb30002f3dd03c716cc47d4819e8.jpg,Panama-Disease,88,train,val,valid/2/Panama_6_jpg.rf.da17fb30002f3dd03c716cc47d4819e8.jpg
+Panama_71_jpg.rf.c8f45ece3ba0715f978788341e621fff.jpg,Panama-Disease,89,train,val,valid/2/Panama_71_jpg.rf.c8f45ece3ba0715f978788341e621fff.jpg
+Panama_72_jpg.rf.3e4647be37f8d32df74d56d4052c28c2.jpg,Panama-Disease,49,train,train,train/2/Panama_72_jpg.rf.3e4647be37f8d32df74d56d4052c28c2.jpg
+Panama_73_jpg.rf.9d4035a035615573b5d4c8c70e7888a6.jpg,Panama-Disease,88,train,val,valid/2/Panama_73_jpg.rf.9d4035a035615573b5d4c8c70e7888a6.jpg
+Panama_74_jpg.rf.ff79a01f5e088c0bb5243a2be2831bb2.jpg,Panama-Disease,88,train,train,train/2/Panama_74_jpg.rf.ff79a01f5e088c0bb5243a2be2831bb2.jpg
+Panama_76_jpg.rf.608d14ecd092f674d8376fbbc1db9a27.jpg,Panama-Disease,88,train,train,train/2/Panama_76_jpg.rf.608d14ecd092f674d8376fbbc1db9a27.jpg
+Panama_77_jpg.rf.abe3e37567dc2981256df92fc8e92b5d.jpg,Panama-Disease,88,train,train,train/2/Panama_77_jpg.rf.abe3e37567dc2981256df92fc8e92b5d.jpg
+Panama_78_jpg.rf.367ea89195805c957ab3d939f5ec00ac.jpg,Panama-Disease,88,train,train,train/2/Panama_78_jpg.rf.367ea89195805c957ab3d939f5ec00ac.jpg
+Panama_79_jpg.rf.0851b7f6c1459424d41d3034aaa64e7c.jpg,Panama-Disease,88,train,test,test/2/Panama_79_jpg.rf.0851b7f6c1459424d41d3034aaa64e7c.jpg
+Panama_7_jpg.rf.08875fec2fed651c2d6131f2619064f1.jpg,Panama-Disease,88,train,train,train/2/Panama_7_jpg.rf.08875fec2fed651c2d6131f2619064f1.jpg
+Panama_80_jpg.rf.f987f8cf3c5443cfcc70953c655199ca.jpg,Panama-Disease,88,train,train,train/2/Panama_80_jpg.rf.f987f8cf3c5443cfcc70953c655199ca.jpg
+Panama_81_jpg.rf.1477c98843fcf18b4b308dc5b86c75f4.jpg,Panama-Disease,88,train,train,train/2/Panama_81_jpg.rf.1477c98843fcf18b4b308dc5b86c75f4.jpg
+Panama_82_jpg.rf.20a7ebbe28deefed25cf3df4d9ab5398.jpg,Panama-Disease,88,train,train,train/2/Panama_82_jpg.rf.20a7ebbe28deefed25cf3df4d9ab5398.jpg
+Panama_83_jpg.rf.ac9169f5d436c4c6cfbed9440093c264.jpg,Panama-Disease,88,train,train,train/2/Panama_83_jpg.rf.ac9169f5d436c4c6cfbed9440093c264.jpg
+Panama_9_jpg.rf.eb9709df5c2f2b18c976c0244d682966.jpg,Panama-Disease,88,train,train,train/2/Panama_9_jpg.rf.eb9709df5c2f2b18c976c0244d682966.jpg
+PotassiumDeficiency_100_jpg.rf.c3fb718dd690df26f94f3e4d29796daf.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_100_jpg.rf.c3fb718dd690df26f94f3e4d29796daf.jpg
+PotassiumDeficiency_101_jpg.rf.1e6d31e442ec0924af6bea7eba3ab2fd.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_101_jpg.rf.1e6d31e442ec0924af6bea7eba3ab2fd.jpg
+PotassiumDeficiency_102_jpg.rf.d64c7ba55edc8d6740791c6c4817acf0.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_102_jpg.rf.d64c7ba55edc8d6740791c6c4817acf0.jpg
+PotassiumDeficiency_103_jpg.rf.1c14157140be08af5060cd2346149746.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_103_jpg.rf.1c14157140be08af5060cd2346149746.jpg
+PotassiumDeficiency_104_jpg.rf.cead2993cbd6586ec0e7ed238a862af4.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_104_jpg.rf.cead2993cbd6586ec0e7ed238a862af4.jpg
+PotassiumDeficiency_105_jpg.rf.b5f2cd01370f229c7bde23dea14343ca.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_105_jpg.rf.b5f2cd01370f229c7bde23dea14343ca.jpg
+PotassiumDeficiency_106_jpg.rf.7ae484f82b2939d26a3dd14ca13ca2e2.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_106_jpg.rf.7ae484f82b2939d26a3dd14ca13ca2e2.jpg
+PotassiumDeficiency_107_jpg.rf.8f662e3787dccb11da9f8d1ff875447d.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_107_jpg.rf.8f662e3787dccb11da9f8d1ff875447d.jpg
+PotassiumDeficiency_108_jpg.rf.71f7f439396736658bdd3dfa66c8bf51.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_108_jpg.rf.71f7f439396736658bdd3dfa66c8bf51.jpg
+PotassiumDeficiency_109_jpg.rf.8f46ee38d5d3473ae3f8277966cd13ac.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_109_jpg.rf.8f46ee38d5d3473ae3f8277966cd13ac.jpg
+PotassiumDeficiency_110_jpg.rf.9e6c8eadc59a1b44ddb4a7bf7f0c27ae.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_110_jpg.rf.9e6c8eadc59a1b44ddb4a7bf7f0c27ae.jpg
+PotassiumDeficiency_111_jpg.rf.46a1e406b549e9a52a1192fc43e90230.jpg,Potassium-Deficiency,53,train,test,test/3/PotassiumDeficiency_111_jpg.rf.46a1e406b549e9a52a1192fc43e90230.jpg
+PotassiumDeficiency_112_jpg.rf.eaec037e09fe410cd6d0aa789a029434.jpg,Potassium-Deficiency,53,train,val,valid/3/PotassiumDeficiency_112_jpg.rf.eaec037e09fe410cd6d0aa789a029434.jpg
+PotassiumDeficiency_113_jpg.rf.e696399d3de6ca7835fc6b53e1333e3b.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_113_jpg.rf.e696399d3de6ca7835fc6b53e1333e3b.jpg
+PotassiumDeficiency_114_jpg.rf.82e929ae7a266e5cb244b9f76d660184.jpg,Potassium-Deficiency,54,train,train,train/3/PotassiumDeficiency_114_jpg.rf.82e929ae7a266e5cb244b9f76d660184.jpg
+PotassiumDeficiency_117_jpg.rf.1234286be3fc9b804a6f0eaafb831a77.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_117_jpg.rf.1234286be3fc9b804a6f0eaafb831a77.jpg
+PotassiumDeficiency_122_jpg.rf.31b623df215563d30495b0be5231c0d6.jpg,Potassium-Deficiency,93,train,train,train/3/PotassiumDeficiency_122_jpg.rf.31b623df215563d30495b0be5231c0d6.jpg
+PotassiumDeficiency_123_jpg.rf.8ee4cf8fd452fcb0ac4245649e42e7a6.jpg,Potassium-Deficiency,96,train,train,train/3/PotassiumDeficiency_123_jpg.rf.8ee4cf8fd452fcb0ac4245649e42e7a6.jpg
+PotassiumDeficiency_124_jpg.rf.68e6c9206b4332c6fb53eea14b88124c.jpg,Potassium-Deficiency,96,train,train,train/3/PotassiumDeficiency_124_jpg.rf.68e6c9206b4332c6fb53eea14b88124c.jpg
+PotassiumDeficiency_128_jpg.rf.bb6ab6b1bd9b0025f817f9e6d10a4cb6.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_128_jpg.rf.bb6ab6b1bd9b0025f817f9e6d10a4cb6.jpg
+PotassiumDeficiency_131_jpg.rf.48feb9e7bc2a6fd7d8beb654223f99ea.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_131_jpg.rf.48feb9e7bc2a6fd7d8beb654223f99ea.jpg
+PotassiumDeficiency_132_jpg.rf.ea6d61963c79afb2c419e49007f2e217.jpg,Potassium-Deficiency,91,train,train,train/3/PotassiumDeficiency_132_jpg.rf.ea6d61963c79afb2c419e49007f2e217.jpg
+PotassiumDeficiency_133_jpg.rf.02d37b1abc41b71711185b078d3ef776.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_133_jpg.rf.02d37b1abc41b71711185b078d3ef776.jpg
+PotassiumDeficiency_134_jpg.rf.c284e2a52cff9bf18474d5c94db7e1fe.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_134_jpg.rf.c284e2a52cff9bf18474d5c94db7e1fe.jpg
+PotassiumDeficiency_135_jpg.rf.99823730c2d9e1021b6ca8103096b4c0.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_135_jpg.rf.99823730c2d9e1021b6ca8103096b4c0.jpg
+PotassiumDeficiency_136_jpg.rf.5c273d3b9d7378b4216eeb96a8478c87.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_136_jpg.rf.5c273d3b9d7378b4216eeb96a8478c87.jpg
+PotassiumDeficiency_137_jpg.rf.647d7f32c326e5a119763aeaea8d0be2.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_137_jpg.rf.647d7f32c326e5a119763aeaea8d0be2.jpg
+PotassiumDeficiency_138_jpg.rf.36019a67e2e0989623762bef12b04362.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_138_jpg.rf.36019a67e2e0989623762bef12b04362.jpg
+PotassiumDeficiency_139_jpg.rf.ba4dca1167995c06fff56f03b24a3a08.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_139_jpg.rf.ba4dca1167995c06fff56f03b24a3a08.jpg
+PotassiumDeficiency_140_jpg.rf.cc73ccd31e13ada4c21aae809484766d.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_140_jpg.rf.cc73ccd31e13ada4c21aae809484766d.jpg
+PotassiumDeficiency_141_jpg.rf.e1acd94c93fd1e92540a77645e63adb9.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_141_jpg.rf.e1acd94c93fd1e92540a77645e63adb9.jpg
+PotassiumDeficiency_142_jpg.rf.0b586e15588bb7cd2278d14e6c50c61a.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_142_jpg.rf.0b586e15588bb7cd2278d14e6c50c61a.jpg
+PotassiumDeficiency_143_jpg.rf.31b4b899289f7b1ff471797d7a1d9e33.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_143_jpg.rf.31b4b899289f7b1ff471797d7a1d9e33.jpg
+PotassiumDeficiency_144_jpg.rf.f20f1cd78e53195621a8b58f556110dd.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_144_jpg.rf.f20f1cd78e53195621a8b58f556110dd.jpg
+PotassiumDeficiency_145_jpg.rf.1d09f21b15806f7eca033aaec5806ec9.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_145_jpg.rf.1d09f21b15806f7eca033aaec5806ec9.jpg
+PotassiumDeficiency_146_jpg.rf.8699d51f7cb9065e289117e0c89e0322.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_146_jpg.rf.8699d51f7cb9065e289117e0c89e0322.jpg
+PotassiumDeficiency_147_jpg.rf.18d9c69b5bacbbccd5c24266260c65c3.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_147_jpg.rf.18d9c69b5bacbbccd5c24266260c65c3.jpg
+PotassiumDeficiency_148_jpg.rf.c8b112e0a81b4d20c40f34d21bebad7c.jpg,Potassium-Deficiency,52,train,test,test/3/PotassiumDeficiency_148_jpg.rf.c8b112e0a81b4d20c40f34d21bebad7c.jpg
+PotassiumDeficiency_149_jpg.rf.09bdd28fd549cd38e6f9e485c44e4874.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_149_jpg.rf.09bdd28fd549cd38e6f9e485c44e4874.jpg
+PotassiumDeficiency_150_jpg.rf.b5cd9c324edc7028d712f2085c9df16e.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_150_jpg.rf.b5cd9c324edc7028d712f2085c9df16e.jpg
+PotassiumDeficiency_151_jpg.rf.e15348de7a346e15212d42137fb9bad7.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_151_jpg.rf.e15348de7a346e15212d42137fb9bad7.jpg
+PotassiumDeficiency_152_jpg.rf.c79121ff809c55fe1ea7336fc7ff1cfa.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_152_jpg.rf.c79121ff809c55fe1ea7336fc7ff1cfa.jpg
+PotassiumDeficiency_153_jpg.rf.550a572b2809875f3502bc59d3035262.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_153_jpg.rf.550a572b2809875f3502bc59d3035262.jpg
+PotassiumDeficiency_154_jpg.rf.130553907a2fec314f1deb7c4c1eebe5.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_154_jpg.rf.130553907a2fec314f1deb7c4c1eebe5.jpg
+PotassiumDeficiency_155_jpg.rf.53c6aaee7f5083686e4b1bbfb1f251f3.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_155_jpg.rf.53c6aaee7f5083686e4b1bbfb1f251f3.jpg
+PotassiumDeficiency_157_jpg.rf.b34b054c84a4bb60b1f4d2db6a1386e0.jpg,Potassium-Deficiency,92,train,test,test/3/PotassiumDeficiency_157_jpg.rf.b34b054c84a4bb60b1f4d2db6a1386e0.jpg
+PotassiumDeficiency_158_jpg.rf.d972e6f9092e705e4c4c9ff36db17d3d.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_158_jpg.rf.d972e6f9092e705e4c4c9ff36db17d3d.jpg
+PotassiumDeficiency_159_jpg.rf.1b1a4207070c877a9fb7d61d080a8248.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_159_jpg.rf.1b1a4207070c877a9fb7d61d080a8248.jpg
+PotassiumDeficiency_160_jpg.rf.904c01aa400671e69c097c11895ab4b2.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_160_jpg.rf.904c01aa400671e69c097c11895ab4b2.jpg
+PotassiumDeficiency_161_jpg.rf.6c6eb4218ece33a091ad8efbbd8fef6a.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_161_jpg.rf.6c6eb4218ece33a091ad8efbbd8fef6a.jpg
+PotassiumDeficiency_162_jpg.rf.e151239c78804f03af428fb83b007d91.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_162_jpg.rf.e151239c78804f03af428fb83b007d91.jpg
+PotassiumDeficiency_163_jpg.rf.d57d24b82565a54fbba5420309dd2351.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_163_jpg.rf.d57d24b82565a54fbba5420309dd2351.jpg
+PotassiumDeficiency_164_jpg.rf.8d3bc8b56ceb5b1493e94c3eb94f6227.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_164_jpg.rf.8d3bc8b56ceb5b1493e94c3eb94f6227.jpg
+PotassiumDeficiency_165_jpg.rf.a0cf52bc9be8e957b1650a99f32f16f5.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_165_jpg.rf.a0cf52bc9be8e957b1650a99f32f16f5.jpg
+PotassiumDeficiency_166_jpg.rf.4601bf3350683f9df8459fd73624593e.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_166_jpg.rf.4601bf3350683f9df8459fd73624593e.jpg
+PotassiumDeficiency_167_jpg.rf.78d919f9f2db8e2bd659aa1bee353f41.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_167_jpg.rf.78d919f9f2db8e2bd659aa1bee353f41.jpg
+PotassiumDeficiency_168_jpg.rf.823225ba76bcd09ec5922f5b3517a408.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_168_jpg.rf.823225ba76bcd09ec5922f5b3517a408.jpg
+PotassiumDeficiency_169_jpg.rf.27a7f9aacf9a6be1fafee6781e30a3e9.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_169_jpg.rf.27a7f9aacf9a6be1fafee6781e30a3e9.jpg
+PotassiumDeficiency_170_jpg.rf.e920143b46014ad34a8d79a40d6392d4.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_170_jpg.rf.e920143b46014ad34a8d79a40d6392d4.jpg
+PotassiumDeficiency_171_jpg.rf.c744e76c471ba7830c9dea935d8f0d81.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_171_jpg.rf.c744e76c471ba7830c9dea935d8f0d81.jpg
+PotassiumDeficiency_172_jpg.rf.1644deceb3dbad4f90eb584c3edacb7d.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_172_jpg.rf.1644deceb3dbad4f90eb584c3edacb7d.jpg
+PotassiumDeficiency_173_jpg.rf.d7ffdcee5ee38b13fb7926db28fcbea0.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_173_jpg.rf.d7ffdcee5ee38b13fb7926db28fcbea0.jpg
+PotassiumDeficiency_174_jpg.rf.f5f153e29c4803614c7f0e741ed152f7.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_174_jpg.rf.f5f153e29c4803614c7f0e741ed152f7.jpg
+PotassiumDeficiency_175_jpg.rf.34564e6511c6fa1196880197bd09b316.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_175_jpg.rf.34564e6511c6fa1196880197bd09b316.jpg
+PotassiumDeficiency_176_jpg.rf.b1f36f48d861ecc99a57145f731a22e8.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_176_jpg.rf.b1f36f48d861ecc99a57145f731a22e8.jpg
+PotassiumDeficiency_177_jpg.rf.a0f678dd6739b95d24c7a9d43e1f5c0b.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_177_jpg.rf.a0f678dd6739b95d24c7a9d43e1f5c0b.jpg
+PotassiumDeficiency_178_jpg.rf.207b42cdcb8c0e1be43671d0b3f7977a.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_178_jpg.rf.207b42cdcb8c0e1be43671d0b3f7977a.jpg
+PotassiumDeficiency_179_jpg.rf.44ceadb64932fb54c6e57dfc1a21eacf.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_179_jpg.rf.44ceadb64932fb54c6e57dfc1a21eacf.jpg
+PotassiumDeficiency_180_jpg.rf.3d85819c39c650684e4efe06bc08ef5c.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_180_jpg.rf.3d85819c39c650684e4efe06bc08ef5c.jpg
+PotassiumDeficiency_181_jpg.rf.67cfade61b90f48e14272e10ec86b421.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_181_jpg.rf.67cfade61b90f48e14272e10ec86b421.jpg
+PotassiumDeficiency_182_jpg.rf.a873fa68948e4a6767ba3004e205926f.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_182_jpg.rf.a873fa68948e4a6767ba3004e205926f.jpg
+PotassiumDeficiency_183_jpg.rf.6cdd1b0bbdd0c1a4c99382d50591f394.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_183_jpg.rf.6cdd1b0bbdd0c1a4c99382d50591f394.jpg
+PotassiumDeficiency_184_jpg.rf.657b6940eeff4220227fa5f87f089818.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_184_jpg.rf.657b6940eeff4220227fa5f87f089818.jpg
+PotassiumDeficiency_185_jpg.rf.c6250ec26cadcae46e1bb452fdc587b1.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_185_jpg.rf.c6250ec26cadcae46e1bb452fdc587b1.jpg
+PotassiumDeficiency_186_jpg.rf.37bb1c8e9b55fadaab41f09ec2f879dc.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_186_jpg.rf.37bb1c8e9b55fadaab41f09ec2f879dc.jpg
+PotassiumDeficiency_187_jpg.rf.52fe1115ba320ff1cac73a699b4b8d6c.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_187_jpg.rf.52fe1115ba320ff1cac73a699b4b8d6c.jpg
+PotassiumDeficiency_18_jpg.rf.bd90710730272945c7e954e3f9cb3ec2.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_18_jpg.rf.bd90710730272945c7e954e3f9cb3ec2.jpg
+PotassiumDeficiency_196_jpg.rf.46bfc98313e1a49a09946ea43cd31342.jpg,Potassium-Deficiency,92,train,test,test/3/PotassiumDeficiency_196_jpg.rf.46bfc98313e1a49a09946ea43cd31342.jpg
+PotassiumDeficiency_19_jpg.rf.dbe253ecc5955b9bc9a44e1f72ebdc6f.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_19_jpg.rf.dbe253ecc5955b9bc9a44e1f72ebdc6f.jpg
+PotassiumDeficiency_207_jpg.rf.a3223aedd5d863ffe7afeb1ece326639.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_207_jpg.rf.a3223aedd5d863ffe7afeb1ece326639.jpg
+PotassiumDeficiency_20_jpg.rf.2db53a008b72b35ce4ec627375cc9cc0.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_20_jpg.rf.2db53a008b72b35ce4ec627375cc9cc0.jpg
+PotassiumDeficiency_210_jpg.rf.a3655f7d8391174ae6e4fa29a1a9c0a6.jpg,Potassium-Deficiency,50,train,train,train/3/PotassiumDeficiency_210_jpg.rf.a3655f7d8391174ae6e4fa29a1a9c0a6.jpg
+PotassiumDeficiency_213_jpg.rf.f72e8f1ca54315bf5ae07e19a1347158.jpg,Potassium-Deficiency,92,train,test,test/3/PotassiumDeficiency_213_jpg.rf.f72e8f1ca54315bf5ae07e19a1347158.jpg
+PotassiumDeficiency_217_jpg.rf.d00042119cfc88f8e0f72bc4c4b62948.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_217_jpg.rf.d00042119cfc88f8e0f72bc4c4b62948.jpg
+PotassiumDeficiency_21_jpg.rf.e08ecfedfc7e3ff8630e8d63b98b8b45.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_21_jpg.rf.e08ecfedfc7e3ff8630e8d63b98b8b45.jpg
+PotassiumDeficiency_222_jpg.rf.cc1359d47037f5e7dc0d3a671c9a2f37.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_222_jpg.rf.cc1359d47037f5e7dc0d3a671c9a2f37.jpg
+PotassiumDeficiency_225_jpg.rf.2cf6e0beab75097e216f0918e24ab529.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_225_jpg.rf.2cf6e0beab75097e216f0918e24ab529.jpg
+PotassiumDeficiency_226_jpg.rf.c341b338bf49846843e26048159652b7.jpg,Potassium-Deficiency,91,train,val,valid/3/PotassiumDeficiency_226_jpg.rf.c341b338bf49846843e26048159652b7.jpg
+PotassiumDeficiency_22_jpg.rf.c90fdf43db25d728f7f48eddd7deb32a.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_22_jpg.rf.c90fdf43db25d728f7f48eddd7deb32a.jpg
+PotassiumDeficiency_230_jpg.rf.9207804b2fe42989970ba8a19f0ac5b8.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_230_jpg.rf.9207804b2fe42989970ba8a19f0ac5b8.jpg
+PotassiumDeficiency_241_jpg.rf.7536d4b4fa87c23137bd02d3b600a3fc.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_241_jpg.rf.7536d4b4fa87c23137bd02d3b600a3fc.jpg
+PotassiumDeficiency_246_jpg.rf.9d979ddc8b269f3825c863ac7bb5a820.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_246_jpg.rf.9d979ddc8b269f3825c863ac7bb5a820.jpg
+PotassiumDeficiency_247_jpg.rf.faea07b2adfbf3659d2d46624322c782.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_247_jpg.rf.faea07b2adfbf3659d2d46624322c782.jpg
+PotassiumDeficiency_248_jpg.rf.80a2f1d39a3dd64a72336e2e5561abbe.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_248_jpg.rf.80a2f1d39a3dd64a72336e2e5561abbe.jpg
+PotassiumDeficiency_249_jpg.rf.b8fc3f9414ef25ec7db5e394299f10eb.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_249_jpg.rf.b8fc3f9414ef25ec7db5e394299f10eb.jpg
+PotassiumDeficiency_24_jpg.rf.74603033482c65cc858ea60254bb2573.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_24_jpg.rf.74603033482c65cc858ea60254bb2573.jpg
+PotassiumDeficiency_250_jpg.rf.2fcb5871afe5215663daaec930c53447.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_250_jpg.rf.2fcb5871afe5215663daaec930c53447.jpg
+PotassiumDeficiency_251_jpg.rf.ded966cc1e3a41c6d24b286f26f26f49.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_251_jpg.rf.ded966cc1e3a41c6d24b286f26f26f49.jpg
+PotassiumDeficiency_252_jpg.rf.e6f5912074cfb6683b38571f1f704800.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_252_jpg.rf.e6f5912074cfb6683b38571f1f704800.jpg
+PotassiumDeficiency_253_jpg.rf.d0234f735a43c1d025c422bc6db31284.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_253_jpg.rf.d0234f735a43c1d025c422bc6db31284.jpg
+PotassiumDeficiency_254_jpg.rf.987737b2e101ee0fa8956d36b2ce9b89.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_254_jpg.rf.987737b2e101ee0fa8956d36b2ce9b89.jpg
+PotassiumDeficiency_255_jpg.rf.c9804d806c04943e41dcd28dd3e04cca.jpg,Potassium-Deficiency,92,train,test,test/3/PotassiumDeficiency_255_jpg.rf.c9804d806c04943e41dcd28dd3e04cca.jpg
+PotassiumDeficiency_257_jpg.rf.c514556b3d738feacb997238d4c16b27.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_257_jpg.rf.c514556b3d738feacb997238d4c16b27.jpg
+PotassiumDeficiency_258_jpg.rf.80beb65f87d2cce120d392b653dcd8f7.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_258_jpg.rf.80beb65f87d2cce120d392b653dcd8f7.jpg
+PotassiumDeficiency_259_jpg.rf.632b0d35c896f61f1bfd70bbe16da780.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_259_jpg.rf.632b0d35c896f61f1bfd70bbe16da780.jpg
+PotassiumDeficiency_25_jpg.rf.f2a2bb2a1603949a9be11e6bd739a075.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_25_jpg.rf.f2a2bb2a1603949a9be11e6bd739a075.jpg
+PotassiumDeficiency_260_jpg.rf.dd0793674c817e57057e58b68a23664c.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_260_jpg.rf.dd0793674c817e57057e58b68a23664c.jpg
+PotassiumDeficiency_261_jpg.rf.c89f4790b6cccae73b0ef3777fd9e4b4.jpg,Potassium-Deficiency,52,train,test,test/3/PotassiumDeficiency_261_jpg.rf.c89f4790b6cccae73b0ef3777fd9e4b4.jpg
+PotassiumDeficiency_262_jpg.rf.c04ab3ea3869ffc3ba0eeba68e2085e5.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_262_jpg.rf.c04ab3ea3869ffc3ba0eeba68e2085e5.jpg
+PotassiumDeficiency_263_jpg.rf.47f16daee7b4d4fd7ec96b1f735e1cb8.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_263_jpg.rf.47f16daee7b4d4fd7ec96b1f735e1cb8.jpg
+PotassiumDeficiency_264_jpg.rf.8265e46bd60009b109aa83d4b91dca7c.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_264_jpg.rf.8265e46bd60009b109aa83d4b91dca7c.jpg
+PotassiumDeficiency_265_jpg.rf.459583337c97b689742965dbadfd4c84.jpg,Potassium-Deficiency,92,train,val,valid/3/PotassiumDeficiency_265_jpg.rf.459583337c97b689742965dbadfd4c84.jpg
+PotassiumDeficiency_266_jpg.rf.644d64f5ea749ad153872bb5b578dbb1.jpg,Potassium-Deficiency,53,train,test,test/3/PotassiumDeficiency_266_jpg.rf.644d64f5ea749ad153872bb5b578dbb1.jpg
+PotassiumDeficiency_267_jpg.rf.5c789cff246382b59cf2a72401a6d9e1.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_267_jpg.rf.5c789cff246382b59cf2a72401a6d9e1.jpg
+PotassiumDeficiency_268_jpg.rf.0b5a6a4cbc246939d7d7e09ae5f50fc4.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_268_jpg.rf.0b5a6a4cbc246939d7d7e09ae5f50fc4.jpg
+PotassiumDeficiency_269_jpg.rf.5eb04a2e7a064e794ca63ad0aee50755.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_269_jpg.rf.5eb04a2e7a064e794ca63ad0aee50755.jpg
+PotassiumDeficiency_26_jpg.rf.40466eae386f0a2a825ffad14062beb8.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_26_jpg.rf.40466eae386f0a2a825ffad14062beb8.jpg
+PotassiumDeficiency_270_jpg.rf.7661676238b270f42709fd6c87baba7c.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_270_jpg.rf.7661676238b270f42709fd6c87baba7c.jpg
+PotassiumDeficiency_271_jpg.rf.f1e602102189a99cac4c1adef71dc485.jpg,Potassium-Deficiency,53,train,test,test/3/PotassiumDeficiency_271_jpg.rf.f1e602102189a99cac4c1adef71dc485.jpg
+PotassiumDeficiency_272_jpg.rf.3eb1efe6cbee9d7911dcaaf243a65c20.jpg,Potassium-Deficiency,54,train,train,train/3/PotassiumDeficiency_272_jpg.rf.3eb1efe6cbee9d7911dcaaf243a65c20.jpg
+PotassiumDeficiency_274_jpg.rf.f6e663159d840c8b30a0adeea23f11a6.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_274_jpg.rf.f6e663159d840c8b30a0adeea23f11a6.jpg
+PotassiumDeficiency_27_jpg.rf.1e7e91f3c09c5c95f60ab561af15271c.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_27_jpg.rf.1e7e91f3c09c5c95f60ab561af15271c.jpg
+PotassiumDeficiency_280_jpg.rf.0ee292eb05641663c4457aeba5b119aa.jpg,Potassium-Deficiency,93,train,val,valid/3/PotassiumDeficiency_280_jpg.rf.0ee292eb05641663c4457aeba5b119aa.jpg
+PotassiumDeficiency_281_jpg.rf.beb0967986285e5896467cc3220d579e.jpg,Potassium-Deficiency,96,train,val,valid/3/PotassiumDeficiency_281_jpg.rf.beb0967986285e5896467cc3220d579e.jpg
+PotassiumDeficiency_282_jpg.rf.90cd6a69ba2223c01f382f423fcb3a46.jpg,Potassium-Deficiency,96,train,val,valid/3/PotassiumDeficiency_282_jpg.rf.90cd6a69ba2223c01f382f423fcb3a46.jpg
+PotassiumDeficiency_285_jpg.rf.a4b118f6d5d8b910d81860deb207e755.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_285_jpg.rf.a4b118f6d5d8b910d81860deb207e755.jpg
+PotassiumDeficiency_287_jpg.rf.d5fe9296142cfdd43564a25a777a633d.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_287_jpg.rf.d5fe9296142cfdd43564a25a777a633d.jpg
+PotassiumDeficiency_288_jpg.rf.fb398d212b364dd58b9cd8c635fa9ad0.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_288_jpg.rf.fb398d212b364dd58b9cd8c635fa9ad0.jpg
+PotassiumDeficiency_289_jpg.rf.c178e87eab606317c6898d9f64376cef.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_289_jpg.rf.c178e87eab606317c6898d9f64376cef.jpg
+PotassiumDeficiency_28_jpg.rf.a4fec7291fd99da743d486aa70fb1bc7.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_28_jpg.rf.a4fec7291fd99da743d486aa70fb1bc7.jpg
+PotassiumDeficiency_294_jpg.rf.060494e92839d5173b52b9704bb54156.jpg,Potassium-Deficiency,91,train,train,train/3/PotassiumDeficiency_294_jpg.rf.060494e92839d5173b52b9704bb54156.jpg
+PotassiumDeficiency_29_jpg.rf.8a38a043b3cceb1360e27f4a4c0f7952.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_29_jpg.rf.8a38a043b3cceb1360e27f4a4c0f7952.jpg
+PotassiumDeficiency_30_jpg.rf.95283568fd8247e2ad418ad1e3540662.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_30_jpg.rf.95283568fd8247e2ad418ad1e3540662.jpg
+PotassiumDeficiency_31_jpg.rf.14ed847a6520e33fdda3ecfc8f26007d.jpg,Potassium-Deficiency,3,train,test,test/3/PotassiumDeficiency_31_jpg.rf.14ed847a6520e33fdda3ecfc8f26007d.jpg
+PotassiumDeficiency_32_jpg.rf.57734c6870a5893672e2cb6142cd2c8c.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_32_jpg.rf.57734c6870a5893672e2cb6142cd2c8c.jpg
+PotassiumDeficiency_33_jpg.rf.9df6c031431e9f4d2166880152187732.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_33_jpg.rf.9df6c031431e9f4d2166880152187732.jpg
+PotassiumDeficiency_34_jpg.rf.fddc575b4c63f53f6103e65917546ef8.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_34_jpg.rf.fddc575b4c63f53f6103e65917546ef8.jpg
+PotassiumDeficiency_39_jpg.rf.800b9937e3c1a3b04b5ec9d4ea6aad79.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_39_jpg.rf.800b9937e3c1a3b04b5ec9d4ea6aad79.jpg
+PotassiumDeficiency_40_jpg.rf.82038d1815e5ea5d9445b1eee8359bc6.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_40_jpg.rf.82038d1815e5ea5d9445b1eee8359bc6.jpg
+PotassiumDeficiency_42_jpg.rf.3ef703098684660bc816fc1ea15fd617.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_42_jpg.rf.3ef703098684660bc816fc1ea15fd617.jpg
+PotassiumDeficiency_43_jpg.rf.707cd0a4ce0de6f9029ce3976f1b99bc.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_43_jpg.rf.707cd0a4ce0de6f9029ce3976f1b99bc.jpg
+PotassiumDeficiency_44_jpg.rf.c1e1e43e620e1a85250ce86dfdc924c4.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_44_jpg.rf.c1e1e43e620e1a85250ce86dfdc924c4.jpg
+PotassiumDeficiency_45_jpg.rf.443b260b50446ecb58fff0a6067810e1.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_45_jpg.rf.443b260b50446ecb58fff0a6067810e1.jpg
+PotassiumDeficiency_46_jpg.rf.8102b9de739ab5e6c518438c1a3568c7.jpg,Potassium-Deficiency,53,train,val,valid/3/PotassiumDeficiency_46_jpg.rf.8102b9de739ab5e6c518438c1a3568c7.jpg
+PotassiumDeficiency_47_jpg.rf.d3470d780e41a73b378065e145e04e6e.jpg,Potassium-Deficiency,53,train,test,test/3/PotassiumDeficiency_47_jpg.rf.d3470d780e41a73b378065e145e04e6e.jpg
+PotassiumDeficiency_48_jpg.rf.8f609c44e8d553cf40597b3979d02d5c.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_48_jpg.rf.8f609c44e8d553cf40597b3979d02d5c.jpg
+PotassiumDeficiency_49_jpg.rf.b7ff4e251b3f38d41c6bd56b8cd4b911.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_49_jpg.rf.b7ff4e251b3f38d41c6bd56b8cd4b911.jpg
+PotassiumDeficiency_4_jpg.rf.b64f80835176916334f461df221dd9fe.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_4_jpg.rf.b64f80835176916334f461df221dd9fe.jpg
+PotassiumDeficiency_50_jpg.rf.158e8f5f00a7b2156af2bcbf44959ad5.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_50_jpg.rf.158e8f5f00a7b2156af2bcbf44959ad5.jpg
+PotassiumDeficiency_51_jpg.rf.3d5385b22616dda4a77198f9b4a7b29d.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_51_jpg.rf.3d5385b22616dda4a77198f9b4a7b29d.jpg
+PotassiumDeficiency_52_jpg.rf.1895284a3e1dd3f032bd23750d8f055b.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_52_jpg.rf.1895284a3e1dd3f032bd23750d8f055b.jpg
+PotassiumDeficiency_53_jpg.rf.7b49b6a3bbeeac54203967c3792b4177.jpg,Potassium-Deficiency,54,train,train,train/3/PotassiumDeficiency_53_jpg.rf.7b49b6a3bbeeac54203967c3792b4177.jpg
+PotassiumDeficiency_5_jpg.rf.39226d49791d1f873b16f351bb570c6e.jpg,Potassium-Deficiency,91,train,train,train/3/PotassiumDeficiency_5_jpg.rf.39226d49791d1f873b16f351bb570c6e.jpg
+PotassiumDeficiency_61_jpg.rf.a4a0a8f066746ac793886696f81d5852.jpg,Potassium-Deficiency,93,train,train,train/3/PotassiumDeficiency_61_jpg.rf.a4a0a8f066746ac793886696f81d5852.jpg
+PotassiumDeficiency_62_jpg.rf.9f917fe7960fc1ab0faa7b6cad366a7e.jpg,Potassium-Deficiency,96,train,train,train/3/PotassiumDeficiency_62_jpg.rf.9f917fe7960fc1ab0faa7b6cad366a7e.jpg
+PotassiumDeficiency_63_jpg.rf.79ba7a578cd1d80d559f32b4c7ce20ac.jpg,Potassium-Deficiency,96,train,val,valid/3/PotassiumDeficiency_63_jpg.rf.79ba7a578cd1d80d559f32b4c7ce20ac.jpg
+PotassiumDeficiency_69_jpg.rf.b608f572740abd4092a425022dfc78d2.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_69_jpg.rf.b608f572740abd4092a425022dfc78d2.jpg
+PotassiumDeficiency_6_jpg.rf.b12dea69854bab1dbaed4050c2b80667.jpg,Potassium-Deficiency,91,train,train,train/3/PotassiumDeficiency_6_jpg.rf.b12dea69854bab1dbaed4050c2b80667.jpg
+PotassiumDeficiency_70_jpg.rf.8c6908dcf857f06f19a949671a4b9588.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_70_jpg.rf.8c6908dcf857f06f19a949671a4b9588.jpg
+PotassiumDeficiency_71_jpg.rf.6b27ff8b5c56b41a6de0166cee094808.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_71_jpg.rf.6b27ff8b5c56b41a6de0166cee094808.jpg
+PotassiumDeficiency_72_jpg.rf.c7269dd021ce5ef1e863d632b002f333.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_72_jpg.rf.c7269dd021ce5ef1e863d632b002f333.jpg
+PotassiumDeficiency_73_jpg.rf.d12eb578e0c3c26eee8889ab14ee59fa.jpg,Potassium-Deficiency,97,train,val,valid/3/PotassiumDeficiency_73_jpg.rf.d12eb578e0c3c26eee8889ab14ee59fa.jpg
+PotassiumDeficiency_74_jpg.rf.0a6a6501cc14e4c01b483e28da4e27de.jpg,Potassium-Deficiency,97,train,train,train/3/PotassiumDeficiency_74_jpg.rf.0a6a6501cc14e4c01b483e28da4e27de.jpg
+PotassiumDeficiency_75_jpg.rf.b05f155aab864f351fec750db4d2e014.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_75_jpg.rf.b05f155aab864f351fec750db4d2e014.jpg
+PotassiumDeficiency_76_jpg.rf.b8d870d223f165623ee457c615748288.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_76_jpg.rf.b8d870d223f165623ee457c615748288.jpg
+PotassiumDeficiency_77_jpg.rf.16b934c5138be7b3bf8e900a70bf399a.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_77_jpg.rf.16b934c5138be7b3bf8e900a70bf399a.jpg
+PotassiumDeficiency_78_jpg.rf.cfa29f4a1b232ff7a5a995b2ccfa5338.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_78_jpg.rf.cfa29f4a1b232ff7a5a995b2ccfa5338.jpg
+PotassiumDeficiency_79_jpg.rf.1e5e0f98c325ba42db6a51fbb0530571.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_79_jpg.rf.1e5e0f98c325ba42db6a51fbb0530571.jpg
+PotassiumDeficiency_80_jpg.rf.438f4b5c2967eef57c7a58c42a52d96d.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_80_jpg.rf.438f4b5c2967eef57c7a58c42a52d96d.jpg
+PotassiumDeficiency_81_jpg.rf.ebe53d1e6b7712c0de07b8e25c35e496.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_81_jpg.rf.ebe53d1e6b7712c0de07b8e25c35e496.jpg
+PotassiumDeficiency_82_jpg.rf.a447318cc2f0a4f0ebc526deac354add.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_82_jpg.rf.a447318cc2f0a4f0ebc526deac354add.jpg
+PotassiumDeficiency_91_jpg.rf.50f91c6523a4bd1788498192761c1417.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_91_jpg.rf.50f91c6523a4bd1788498192761c1417.jpg
+PotassiumDeficiency_92_jpg.rf.0398de46c8a596b0394b1b6cc1ed3a5e.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_92_jpg.rf.0398de46c8a596b0394b1b6cc1ed3a5e.jpg
+PotassiumDeficiency_93_jpg.rf.3e46da465da4c10bed2cfaa7a1cfe8e4.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_93_jpg.rf.3e46da465da4c10bed2cfaa7a1cfe8e4.jpg
+PotassiumDeficiency_94_jpg.rf.60b1aaa1b86adc1b616a1ddeaabb613a.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_94_jpg.rf.60b1aaa1b86adc1b616a1ddeaabb613a.jpg
+PotassiumDeficiency_95_jpg.rf.f01be4eb972bf3157c298d68e53ff77e.jpg,Potassium-Deficiency,92,train,train,train/3/PotassiumDeficiency_95_jpg.rf.f01be4eb972bf3157c298d68e53ff77e.jpg
+PotassiumDeficiency_96_jpg.rf.fd3764abacc24c1c654bd890630b1bd3.jpg,Potassium-Deficiency,52,train,test,test/3/PotassiumDeficiency_96_jpg.rf.fd3764abacc24c1c654bd890630b1bd3.jpg
+PotassiumDeficiency_97_jpg.rf.60f4329172d48581074ff637309a4512.jpg,Potassium-Deficiency,52,train,val,valid/3/PotassiumDeficiency_97_jpg.rf.60f4329172d48581074ff637309a4512.jpg
+PotassiumDeficiency_98_jpg.rf.d7bb1f917db4e64e35aeeb34e8e7a954.jpg,Potassium-Deficiency,52,train,train,train/3/PotassiumDeficiency_98_jpg.rf.d7bb1f917db4e64e35aeeb34e8e7a954.jpg
+PotassiumDeficiency_99_jpg.rf.1aa943b042630e4ba661f5a29d8a2f5b.jpg,Potassium-Deficiency,53,train,train,train/3/PotassiumDeficiency_99_jpg.rf.1aa943b042630e4ba661f5a29d8a2f5b.jpg
+YellowSigatoka_100_jpg.rf.5af2e949c0a5e3268d10faa7c9f8cbb5.jpg,Yellow-Sigatoka,101,train,val,valid/4/YellowSigatoka_100_jpg.rf.5af2e949c0a5e3268d10faa7c9f8cbb5.jpg
+YellowSigatoka_101_jpg.rf.96235551aaca7b872558ecadbfa7cdd3.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_101_jpg.rf.96235551aaca7b872558ecadbfa7cdd3.jpg
+YellowSigatoka_102_jpg.rf.fc50aaae542b11f6eb464773d1227319.jpg,Yellow-Sigatoka,101,train,val,valid/4/YellowSigatoka_102_jpg.rf.fc50aaae542b11f6eb464773d1227319.jpg
+YellowSigatoka_103_jpg.rf.37fc322052a816c544da5f34006278f7.jpg,Yellow-Sigatoka,101,train,test,test/4/YellowSigatoka_103_jpg.rf.37fc322052a816c544da5f34006278f7.jpg
+YellowSigatoka_104_jpg.rf.caead8f341ca23b49d3043a86328db19.jpg,Yellow-Sigatoka,106,train,train,train/4/YellowSigatoka_104_jpg.rf.caead8f341ca23b49d3043a86328db19.jpg
+YellowSigatoka_105_jpg.rf.4ebd50b971c5cc87924e01b74d617499.jpg,Yellow-Sigatoka,102,train,val,valid/4/YellowSigatoka_105_jpg.rf.4ebd50b971c5cc87924e01b74d617499.jpg
+YellowSigatoka_106_jpg.rf.1998e744630c0a6581a9c9f698d3ea08.jpg,Yellow-Sigatoka,107,train,train,train/4/YellowSigatoka_106_jpg.rf.1998e744630c0a6581a9c9f698d3ea08.jpg
+YellowSigatoka_107_jpg.rf.c0257897911dec4037dfc44f56e2a363.jpg,Yellow-Sigatoka,102,train,test,test/4/YellowSigatoka_107_jpg.rf.c0257897911dec4037dfc44f56e2a363.jpg
+YellowSigatoka_108_jpg.rf.4e203b69beb433eedb693d86ed71430d.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_108_jpg.rf.4e203b69beb433eedb693d86ed71430d.jpg
+YellowSigatoka_109_jpg.rf.1b5ac643f8db0d3f75ca53428be6a1c4.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_109_jpg.rf.1b5ac643f8db0d3f75ca53428be6a1c4.jpg
+YellowSigatoka_10_jpg.rf.6d2f06fa4e3a801c138d04701d387818.jpg,Yellow-Sigatoka,58,train,test,test/4/YellowSigatoka_10_jpg.rf.6d2f06fa4e3a801c138d04701d387818.jpg
+YellowSigatoka_111_jpg.rf.92df1ab67dfe971b20320be7f23e89a0.jpg,Yellow-Sigatoka,103,train,train,train/4/YellowSigatoka_111_jpg.rf.92df1ab67dfe971b20320be7f23e89a0.jpg
+YellowSigatoka_112_jpg.rf.f5942aa8b635c20181d40cd80cb9ef78.jpg,Yellow-Sigatoka,103,train,train,train/4/YellowSigatoka_112_jpg.rf.f5942aa8b635c20181d40cd80cb9ef78.jpg
+YellowSigatoka_115_jpg.rf.65be5ad4c9adb7e651ec1e543cfb1fef.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_115_jpg.rf.65be5ad4c9adb7e651ec1e543cfb1fef.jpg
+YellowSigatoka_116_jpg.rf.9d736273259c97baf757e1f301a4bdd3.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_116_jpg.rf.9d736273259c97baf757e1f301a4bdd3.jpg
+YellowSigatoka_117_jpg.rf.1b807c428af3f9888334399691563950.jpg,Yellow-Sigatoka,111,train,val,valid/4/YellowSigatoka_117_jpg.rf.1b807c428af3f9888334399691563950.jpg
+YellowSigatoka_119_jpg.rf.099a681e5f2ac8857e88732c3e44da35.jpg,Yellow-Sigatoka,98,train,val,valid/4/YellowSigatoka_119_jpg.rf.099a681e5f2ac8857e88732c3e44da35.jpg
+YellowSigatoka_11_jpg.rf.e754a8f154969c189b609cdad013f42c.jpg,Yellow-Sigatoka,58,train,test,test/4/YellowSigatoka_11_jpg.rf.e754a8f154969c189b609cdad013f42c.jpg
+YellowSigatoka_120_jpg.rf.49f86572b88b381578d63bb4aaace124.jpg,Yellow-Sigatoka,99,train,val,valid/4/YellowSigatoka_120_jpg.rf.49f86572b88b381578d63bb4aaace124.jpg
+YellowSigatoka_121_jpg.rf.fd2378e02c85ebab65e13814094fc8e5.jpg,Yellow-Sigatoka,99,train,val,valid/4/YellowSigatoka_121_jpg.rf.fd2378e02c85ebab65e13814094fc8e5.jpg
+YellowSigatoka_122_jpg.rf.16aaffc3cca535dae4931090174bb2ba.jpg,Yellow-Sigatoka,56,train,train,train/4/YellowSigatoka_122_jpg.rf.16aaffc3cca535dae4931090174bb2ba.jpg
+YellowSigatoka_123_jpg.rf.e9faadb9bec8479220a59a1f8acfe1b7.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_123_jpg.rf.e9faadb9bec8479220a59a1f8acfe1b7.jpg
+YellowSigatoka_124_jpg.rf.6e62d1443d382c3813e45a70eb25996c.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_124_jpg.rf.6e62d1443d382c3813e45a70eb25996c.jpg
+YellowSigatoka_125_jpg.rf.b77bcdddbfd04fd332e3310a22fc54b3.jpg,Yellow-Sigatoka,108,train,val,valid/4/YellowSigatoka_125_jpg.rf.b77bcdddbfd04fd332e3310a22fc54b3.jpg
+YellowSigatoka_12_jpg.rf.c9094420e23aea4e18d3893fd10d9ffd.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_12_jpg.rf.c9094420e23aea4e18d3893fd10d9ffd.jpg
+YellowSigatoka_134_jpg.rf.f0b9cb179984a05488f4982f84159c3d.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_134_jpg.rf.f0b9cb179984a05488f4982f84159c3d.jpg
+YellowSigatoka_135_jpg.rf.9916a41cf535d0bad184e936b8b91b6d.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_135_jpg.rf.9916a41cf535d0bad184e936b8b91b6d.jpg
+YellowSigatoka_137_jpg.rf.a459f6c1490d1755e9e2ef09fd7f3fdd.jpg,Yellow-Sigatoka,100,train,val,valid/4/YellowSigatoka_137_jpg.rf.a459f6c1490d1755e9e2ef09fd7f3fdd.jpg
+YellowSigatoka_138_jpg.rf.2926ace8f5b71d49a2e87cfd6dcef765.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_138_jpg.rf.2926ace8f5b71d49a2e87cfd6dcef765.jpg
+YellowSigatoka_139_jpg.rf.12f5b61795261647a872b36e38d38d29.jpg,Yellow-Sigatoka,111,train,val,valid/4/YellowSigatoka_139_jpg.rf.12f5b61795261647a872b36e38d38d29.jpg
+YellowSigatoka_13_jpg.rf.99cb49f571834b7b2870992280d85a0b.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_13_jpg.rf.99cb49f571834b7b2870992280d85a0b.jpg
+YellowSigatoka_140_jpg.rf.d8e1484a698e19d9754a6ebba8242ee6.jpg,Yellow-Sigatoka,58,train,val,valid/4/YellowSigatoka_140_jpg.rf.d8e1484a698e19d9754a6ebba8242ee6.jpg
+YellowSigatoka_141_jpg.rf.fecf4ffd2cede513a6de14990cfe7f4e.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_141_jpg.rf.fecf4ffd2cede513a6de14990cfe7f4e.jpg
+YellowSigatoka_142_jpg.rf.71eb33c5b7bc88b344f96e647bd5f5e6.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_142_jpg.rf.71eb33c5b7bc88b344f96e647bd5f5e6.jpg
+YellowSigatoka_143_jpg.rf.7680404513c149a0618d566edf58cb15.jpg,Yellow-Sigatoka,58,train,test,test/4/YellowSigatoka_143_jpg.rf.7680404513c149a0618d566edf58cb15.jpg
+YellowSigatoka_144_jpg.rf.7f7d90d3598163a39809063266063dae.jpg,Yellow-Sigatoka,101,train,test,test/4/YellowSigatoka_144_jpg.rf.7f7d90d3598163a39809063266063dae.jpg
+YellowSigatoka_145_jpg.rf.f8f68031f7d27182818ed70722b25069.jpg,Yellow-Sigatoka,101,train,test,test/4/YellowSigatoka_145_jpg.rf.f8f68031f7d27182818ed70722b25069.jpg
+YellowSigatoka_146_jpg.rf.d2d5f66dc36a62d637e74a430d80cb64.jpg,Yellow-Sigatoka,101,train,val,valid/4/YellowSigatoka_146_jpg.rf.d2d5f66dc36a62d637e74a430d80cb64.jpg
+YellowSigatoka_147_jpg.rf.b383ff91393853a79c865da3ef90e153.jpg,Yellow-Sigatoka,101,train,test,test/4/YellowSigatoka_147_jpg.rf.b383ff91393853a79c865da3ef90e153.jpg
+YellowSigatoka_148_jpg.rf.bd957e30f65094773e59058dc194e73e.jpg,Yellow-Sigatoka,106,train,val,valid/4/YellowSigatoka_148_jpg.rf.bd957e30f65094773e59058dc194e73e.jpg
+YellowSigatoka_149_jpg.rf.c69c977dc72e13847be15c139c9b6955.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_149_jpg.rf.c69c977dc72e13847be15c139c9b6955.jpg
+YellowSigatoka_14_jpg.rf.aa2ee6a7cebc52b8ceb509aa4315bf89.jpg,Yellow-Sigatoka,101,train,val,valid/4/YellowSigatoka_14_jpg.rf.aa2ee6a7cebc52b8ceb509aa4315bf89.jpg
+YellowSigatoka_150_jpg.rf.bb96562fae3a2cf7bd2a807dd0ea64d7.jpg,Yellow-Sigatoka,107,train,val,valid/4/YellowSigatoka_150_jpg.rf.bb96562fae3a2cf7bd2a807dd0ea64d7.jpg
+YellowSigatoka_151_jpg.rf.997b49616315b78877e4fb6a0712be92.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_151_jpg.rf.997b49616315b78877e4fb6a0712be92.jpg
+YellowSigatoka_152_jpg.rf.ed0bf0b5012809d0bf985bc49a774544.jpg,Yellow-Sigatoka,102,train,val,valid/4/YellowSigatoka_152_jpg.rf.ed0bf0b5012809d0bf985bc49a774544.jpg
+YellowSigatoka_153_jpg.rf.1c509d328d45dc5adb0996c47ddf62ea.jpg,Yellow-Sigatoka,102,train,val,valid/4/YellowSigatoka_153_jpg.rf.1c509d328d45dc5adb0996c47ddf62ea.jpg
+YellowSigatoka_155_jpg.rf.f192640b921b6d4cb1c01d59c15df932.jpg,Yellow-Sigatoka,103,train,train,train/4/YellowSigatoka_155_jpg.rf.f192640b921b6d4cb1c01d59c15df932.jpg
+YellowSigatoka_156_jpg.rf.49bd26fa0fa38986ebbf940bbc1babf5.jpg,Yellow-Sigatoka,103,train,val,valid/4/YellowSigatoka_156_jpg.rf.49bd26fa0fa38986ebbf940bbc1babf5.jpg
+YellowSigatoka_159_jpg.rf.f061cee2682864b2e608fd3eeae138d9.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_159_jpg.rf.f061cee2682864b2e608fd3eeae138d9.jpg
+YellowSigatoka_15_jpg.rf.42e51075c93f21f99c77055689380314.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_15_jpg.rf.42e51075c93f21f99c77055689380314.jpg
+YellowSigatoka_160_jpg.rf.1bcb8eb879cadb95d43c63b72cde5d73.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_160_jpg.rf.1bcb8eb879cadb95d43c63b72cde5d73.jpg
+YellowSigatoka_161_jpg.rf.c9d5b29a9467a784f826afbb3594fbb1.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_161_jpg.rf.c9d5b29a9467a784f826afbb3594fbb1.jpg
+YellowSigatoka_163_jpg.rf.85a8d4bbb8909906664477db1c5c5a66.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_163_jpg.rf.85a8d4bbb8909906664477db1c5c5a66.jpg
+YellowSigatoka_164_jpg.rf.b33fdac9c96d6bf74eb4e9087a858daf.jpg,Yellow-Sigatoka,99,train,train,train/4/YellowSigatoka_164_jpg.rf.b33fdac9c96d6bf74eb4e9087a858daf.jpg
+YellowSigatoka_165_jpg.rf.54e99989faee7d34462aa3358abf57e7.jpg,Yellow-Sigatoka,99,train,val,valid/4/YellowSigatoka_165_jpg.rf.54e99989faee7d34462aa3358abf57e7.jpg
+YellowSigatoka_166_jpg.rf.3dbdb0d89dd1ba479bc54c3ed4e4560d.jpg,Yellow-Sigatoka,56,train,test,test/4/YellowSigatoka_166_jpg.rf.3dbdb0d89dd1ba479bc54c3ed4e4560d.jpg
+YellowSigatoka_167_jpg.rf.94aeeb36cda0f907779f35ea39318907.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_167_jpg.rf.94aeeb36cda0f907779f35ea39318907.jpg
+YellowSigatoka_168_jpg.rf.bbc7abc4b920610904d8ca9f8001e309.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_168_jpg.rf.bbc7abc4b920610904d8ca9f8001e309.jpg
+YellowSigatoka_169_jpg.rf.09fa72125ea4733f43a40d4361b5df4a.jpg,Yellow-Sigatoka,108,train,train,train/4/YellowSigatoka_169_jpg.rf.09fa72125ea4733f43a40d4361b5df4a.jpg
+YellowSigatoka_16_jpg.rf.5710cc6d821d1f6110873346d97c17b7.jpg,Yellow-Sigatoka,106,train,train,train/4/YellowSigatoka_16_jpg.rf.5710cc6d821d1f6110873346d97c17b7.jpg
+YellowSigatoka_178_jpg.rf.9a63fdd19e7bc04fb7f0a3fb074a2870.jpg,Yellow-Sigatoka,111,train,val,valid/4/YellowSigatoka_178_jpg.rf.9a63fdd19e7bc04fb7f0a3fb074a2870.jpg
+YellowSigatoka_179_jpg.rf.93d09961b5964c77c256be245c257401.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_179_jpg.rf.93d09961b5964c77c256be245c257401.jpg
+YellowSigatoka_17_jpg.rf.d10cd7357696a9c9ea4b7f5969caec47.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_17_jpg.rf.d10cd7357696a9c9ea4b7f5969caec47.jpg
+YellowSigatoka_181_jpg.rf.0c124f2a06f4495dd9b7e52379067fb0.jpg,Yellow-Sigatoka,100,train,test,test/4/YellowSigatoka_181_jpg.rf.0c124f2a06f4495dd9b7e52379067fb0.jpg
+YellowSigatoka_182_jpg.rf.1213b0490ac81b085029f6313604b4a7.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_182_jpg.rf.1213b0490ac81b085029f6313604b4a7.jpg
+YellowSigatoka_183_jpg.rf.b558974788934c8b80bc93927fddf657.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_183_jpg.rf.b558974788934c8b80bc93927fddf657.jpg
+YellowSigatoka_184_jpg.rf.894f8f729b887bd8b54e8b1bd5ba2a37.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_184_jpg.rf.894f8f729b887bd8b54e8b1bd5ba2a37.jpg
+YellowSigatoka_185_jpg.rf.fa2408ff5cba2701b6e4e3a161b3b1cb.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_185_jpg.rf.fa2408ff5cba2701b6e4e3a161b3b1cb.jpg
+YellowSigatoka_186_jpg.rf.0ce2452e6109544ac9a4e53c323fcea0.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_186_jpg.rf.0ce2452e6109544ac9a4e53c323fcea0.jpg
+YellowSigatoka_187_jpg.rf.aaad3368a25e99cc5b525d68982f5990.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_187_jpg.rf.aaad3368a25e99cc5b525d68982f5990.jpg
+YellowSigatoka_188_jpg.rf.eb7e7e0878539a8bc81f430b84dc5af7.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_188_jpg.rf.eb7e7e0878539a8bc81f430b84dc5af7.jpg
+YellowSigatoka_189_jpg.rf.f32bdd7c12172f0de21261f3ea5601d4.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_189_jpg.rf.f32bdd7c12172f0de21261f3ea5601d4.jpg
+YellowSigatoka_18_jpg.rf.3a17beb5625351850c7e28c5541a7e30.jpg,Yellow-Sigatoka,107,train,train,train/4/YellowSigatoka_18_jpg.rf.3a17beb5625351850c7e28c5541a7e30.jpg
+YellowSigatoka_190_jpg.rf.089ae16712abe8350de2c4f98dec0667.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_190_jpg.rf.089ae16712abe8350de2c4f98dec0667.jpg
+YellowSigatoka_191_jpg.rf.83b2ffb2735a5ae1b629419fd09949a0.jpg,Yellow-Sigatoka,101,train,val,valid/4/YellowSigatoka_191_jpg.rf.83b2ffb2735a5ae1b629419fd09949a0.jpg
+YellowSigatoka_192_jpg.rf.3a4dd19a967dd82ffc5af2d9e2546e09.jpg,Yellow-Sigatoka,106,train,train,train/4/YellowSigatoka_192_jpg.rf.3a4dd19a967dd82ffc5af2d9e2546e09.jpg
+YellowSigatoka_193_jpg.rf.6975c5b6949651f1ab003bc5f6c62b2c.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_193_jpg.rf.6975c5b6949651f1ab003bc5f6c62b2c.jpg
+YellowSigatoka_194_jpg.rf.870e83e01b253b673c01d29f056e2cd5.jpg,Yellow-Sigatoka,107,train,val,valid/4/YellowSigatoka_194_jpg.rf.870e83e01b253b673c01d29f056e2cd5.jpg
+YellowSigatoka_195_jpg.rf.1f7632207ba1ebdd94b4b5b9d099c543.jpg,Yellow-Sigatoka,102,train,test,test/4/YellowSigatoka_195_jpg.rf.1f7632207ba1ebdd94b4b5b9d099c543.jpg
+YellowSigatoka_196_jpg.rf.a1b0d375058c28a12df2b961a848fbfa.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_196_jpg.rf.a1b0d375058c28a12df2b961a848fbfa.jpg
+YellowSigatoka_197_jpg.rf.f4a133cab1d5fa1bab1c449fad659d23.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_197_jpg.rf.f4a133cab1d5fa1bab1c449fad659d23.jpg
+YellowSigatoka_199_jpg.rf.933beab25f82cbb12ce9c75dc15a07bb.jpg,Yellow-Sigatoka,103,train,train,train/4/YellowSigatoka_199_jpg.rf.933beab25f82cbb12ce9c75dc15a07bb.jpg
+YellowSigatoka_19_jpg.rf.9c951ecc990251ce143459c52d0a29cd.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_19_jpg.rf.9c951ecc990251ce143459c52d0a29cd.jpg
+YellowSigatoka_200_jpg.rf.be8dfe6053f81b49cf7a85e842da8e2a.jpg,Yellow-Sigatoka,103,train,test,test/4/YellowSigatoka_200_jpg.rf.be8dfe6053f81b49cf7a85e842da8e2a.jpg
+YellowSigatoka_203_jpg.rf.44a5033ecd791c4988959349454958c9.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_203_jpg.rf.44a5033ecd791c4988959349454958c9.jpg
+YellowSigatoka_204_jpg.rf.b5674148b5334b7f8a1b747f71f82089.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_204_jpg.rf.b5674148b5334b7f8a1b747f71f82089.jpg
+YellowSigatoka_205_jpg.rf.6806055ef163b5a09d4965bbe7098329.jpg,Yellow-Sigatoka,111,train,test,test/4/YellowSigatoka_205_jpg.rf.6806055ef163b5a09d4965bbe7098329.jpg
+YellowSigatoka_207_jpg.rf.613fc7350f28f8a781aa44e499ff562b.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_207_jpg.rf.613fc7350f28f8a781aa44e499ff562b.jpg
+YellowSigatoka_208_jpg.rf.971fb778d63cd6f239af5ebb98a54769.jpg,Yellow-Sigatoka,99,train,train,train/4/YellowSigatoka_208_jpg.rf.971fb778d63cd6f239af5ebb98a54769.jpg
+YellowSigatoka_209_jpg.rf.a9b1ccfa4ffe11b374a4c57dc10abad2.jpg,Yellow-Sigatoka,99,train,train,train/4/YellowSigatoka_209_jpg.rf.a9b1ccfa4ffe11b374a4c57dc10abad2.jpg
+YellowSigatoka_20_jpg.rf.31b97e0f3fb81c8d0cd1a1248cc9f812.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_20_jpg.rf.31b97e0f3fb81c8d0cd1a1248cc9f812.jpg
+YellowSigatoka_210_jpg.rf.aeec8316febf2623b6cd484e91ba8068.jpg,Yellow-Sigatoka,56,train,train,train/4/YellowSigatoka_210_jpg.rf.aeec8316febf2623b6cd484e91ba8068.jpg
+YellowSigatoka_211_jpg.rf.5130dcd1ad6bccba7d877faa9d073900.jpg,Yellow-Sigatoka,98,train,val,valid/4/YellowSigatoka_211_jpg.rf.5130dcd1ad6bccba7d877faa9d073900.jpg
+YellowSigatoka_212_jpg.rf.39b9b9c23d05ade6057072b6cf0e3608.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_212_jpg.rf.39b9b9c23d05ade6057072b6cf0e3608.jpg
+YellowSigatoka_213_jpg.rf.93cff5327fe76c4ff5fd41f0c18d980a.jpg,Yellow-Sigatoka,108,train,train,train/4/YellowSigatoka_213_jpg.rf.93cff5327fe76c4ff5fd41f0c18d980a.jpg
+YellowSigatoka_21_jpg.rf.33494f5b02ae28badf3ff593aa074771.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_21_jpg.rf.33494f5b02ae28badf3ff593aa074771.jpg
+YellowSigatoka_23_jpg.rf.a116fcc3ed073e57f80653ab7c188db7.jpg,Yellow-Sigatoka,103,train,train,train/4/YellowSigatoka_23_jpg.rf.a116fcc3ed073e57f80653ab7c188db7.jpg
+YellowSigatoka_24_jpg.rf.384c1e8924bd230acdb5242b2c2d61ce.jpg,Yellow-Sigatoka,103,train,train,train/4/YellowSigatoka_24_jpg.rf.384c1e8924bd230acdb5242b2c2d61ce.jpg
+YellowSigatoka_27_jpg.rf.dd05873e78bdf422721401d5eedd3e39.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_27_jpg.rf.dd05873e78bdf422721401d5eedd3e39.jpg
+YellowSigatoka_28_jpg.rf.9ef4af72c434fa89319245b9d543793d.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_28_jpg.rf.9ef4af72c434fa89319245b9d543793d.jpg
+YellowSigatoka_29_jpg.rf.7d392002a509f6e376667b90cb793aa3.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_29_jpg.rf.7d392002a509f6e376667b90cb793aa3.jpg
+YellowSigatoka_2_jpg.rf.ca9ab1dfcb80bcc1a45a5a3e16f931e5.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_2_jpg.rf.ca9ab1dfcb80bcc1a45a5a3e16f931e5.jpg
+YellowSigatoka_31_jpg.rf.a5a402bc877c3eaccbfa8dd2b4d4818e.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_31_jpg.rf.a5a402bc877c3eaccbfa8dd2b4d4818e.jpg
+YellowSigatoka_32_jpg.rf.92ec8f48e12775d54406636ce5c10099.jpg,Yellow-Sigatoka,99,train,train,train/4/YellowSigatoka_32_jpg.rf.92ec8f48e12775d54406636ce5c10099.jpg
+YellowSigatoka_33_jpg.rf.a97c283dd77a2a6660d958557d957feb.jpg,Yellow-Sigatoka,99,train,train,train/4/YellowSigatoka_33_jpg.rf.a97c283dd77a2a6660d958557d957feb.jpg
+YellowSigatoka_34_jpg.rf.976a3f963c1ac1e31df4515c0c7923ea.jpg,Yellow-Sigatoka,56,train,train,train/4/YellowSigatoka_34_jpg.rf.976a3f963c1ac1e31df4515c0c7923ea.jpg
+YellowSigatoka_35_jpg.rf.00a040e76c66cdcf7819ff9bf970f8ba.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_35_jpg.rf.00a040e76c66cdcf7819ff9bf970f8ba.jpg
+YellowSigatoka_36_jpg.rf.f4f600719f69408f68f860ac700afc00.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_36_jpg.rf.f4f600719f69408f68f860ac700afc00.jpg
+YellowSigatoka_37_jpg.rf.dc40679286bd8a4936b7ca9d4da8143e.jpg,Yellow-Sigatoka,108,train,train,train/4/YellowSigatoka_37_jpg.rf.dc40679286bd8a4936b7ca9d4da8143e.jpg
+YellowSigatoka_3_jpg.rf.b8ca66c4cfbb818e58bd693afbd1aca2.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_3_jpg.rf.b8ca66c4cfbb818e58bd693afbd1aca2.jpg
+YellowSigatoka_46_jpg.rf.fd0da732ef5741070e55b229fd5e7558.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_46_jpg.rf.fd0da732ef5741070e55b229fd5e7558.jpg
+YellowSigatoka_47_jpg.rf.d8cb7f3e286e951380f967d9baffee44.jpg,Yellow-Sigatoka,111,train,val,valid/4/YellowSigatoka_47_jpg.rf.d8cb7f3e286e951380f967d9baffee44.jpg
+YellowSigatoka_49_jpg.rf.5f9c286027f0d4d25af5f6a102a89c0e.jpg,Yellow-Sigatoka,100,train,train,train/4/YellowSigatoka_49_jpg.rf.5f9c286027f0d4d25af5f6a102a89c0e.jpg
+YellowSigatoka_50_jpg.rf.2be7cdcc6ed0233ecffae97c3d3a55ed.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_50_jpg.rf.2be7cdcc6ed0233ecffae97c3d3a55ed.jpg
+YellowSigatoka_51_jpg.rf.221d31392595057c5610b294ec97c5db.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_51_jpg.rf.221d31392595057c5610b294ec97c5db.jpg
+YellowSigatoka_52_jpg.rf.e52485e4f39fbd98aa5261a2070f6895.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_52_jpg.rf.e52485e4f39fbd98aa5261a2070f6895.jpg
+YellowSigatoka_53_jpg.rf.21c1de78f04686cc36a6b94f1f963446.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_53_jpg.rf.21c1de78f04686cc36a6b94f1f963446.jpg
+YellowSigatoka_54_jpg.rf.5f1a5e4a4f177936b72cc5d4c244b71b.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_54_jpg.rf.5f1a5e4a4f177936b72cc5d4c244b71b.jpg
+YellowSigatoka_55_jpg.rf.fd0255f1d77d8f4ebef7f18d3dfa6f0b.jpg,Yellow-Sigatoka,58,train,val,valid/4/YellowSigatoka_55_jpg.rf.fd0255f1d77d8f4ebef7f18d3dfa6f0b.jpg
+YellowSigatoka_56_jpg.rf.440dc9011dc5c1a077a027df45cdd263.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_56_jpg.rf.440dc9011dc5c1a077a027df45cdd263.jpg
+YellowSigatoka_57_jpg.rf.1f56ac65e6f5aa1f960c343388b589b1.jpg,Yellow-Sigatoka,101,train,val,valid/4/YellowSigatoka_57_jpg.rf.1f56ac65e6f5aa1f960c343388b589b1.jpg
+YellowSigatoka_58_jpg.rf.a89597941c036cc1d21efd2430113536.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_58_jpg.rf.a89597941c036cc1d21efd2430113536.jpg
+YellowSigatoka_59_jpg.rf.0492ab30ea8f3bb012830c763fc46f6d.jpg,Yellow-Sigatoka,101,train,train,train/4/YellowSigatoka_59_jpg.rf.0492ab30ea8f3bb012830c763fc46f6d.jpg
+YellowSigatoka_5_jpg.rf.16e7c520b798b89c817800966c184e3d.jpg,Yellow-Sigatoka,100,train,test,test/4/YellowSigatoka_5_jpg.rf.16e7c520b798b89c817800966c184e3d.jpg
+YellowSigatoka_60_jpg.rf.ada64b6dc7a2c27b0f852e497ae23de2.jpg,Yellow-Sigatoka,106,train,val,valid/4/YellowSigatoka_60_jpg.rf.ada64b6dc7a2c27b0f852e497ae23de2.jpg
+YellowSigatoka_61_jpg.rf.48758886d7c2feefe4b88453f354d686.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_61_jpg.rf.48758886d7c2feefe4b88453f354d686.jpg
+YellowSigatoka_62_jpg.rf.958067500abfcd9c3067dd8ee96eedff.jpg,Yellow-Sigatoka,107,train,val,valid/4/YellowSigatoka_62_jpg.rf.958067500abfcd9c3067dd8ee96eedff.jpg
+YellowSigatoka_63_jpg.rf.0075af0b6e922930537f26bb6a246ca2.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_63_jpg.rf.0075af0b6e922930537f26bb6a246ca2.jpg
+YellowSigatoka_64_jpg.rf.67fdf981a99bc50ecb95b35c4e736715.jpg,Yellow-Sigatoka,102,train,val,valid/4/YellowSigatoka_64_jpg.rf.67fdf981a99bc50ecb95b35c4e736715.jpg
+YellowSigatoka_65_jpg.rf.e4c8ef9d7237c0ade14af3d1385ff73f.jpg,Yellow-Sigatoka,102,train,train,train/4/YellowSigatoka_65_jpg.rf.e4c8ef9d7237c0ade14af3d1385ff73f.jpg
+YellowSigatoka_67_jpg.rf.d816d8f808177aee8251d875f71884c7.jpg,Yellow-Sigatoka,103,train,test,test/4/YellowSigatoka_67_jpg.rf.d816d8f808177aee8251d875f71884c7.jpg
+YellowSigatoka_68_jpg.rf.d985535377c4643430e688bddb3c11cc.jpg,Yellow-Sigatoka,103,train,test,test/4/YellowSigatoka_68_jpg.rf.d985535377c4643430e688bddb3c11cc.jpg
+YellowSigatoka_6_jpg.rf.7efabe42e7aba380a4edec5cf4d7acb0.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_6_jpg.rf.7efabe42e7aba380a4edec5cf4d7acb0.jpg
+YellowSigatoka_71_jpg.rf.1fe945dfe6ea37ea4a558fd2f7580ae3.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_71_jpg.rf.1fe945dfe6ea37ea4a558fd2f7580ae3.jpg
+YellowSigatoka_72_jpg.rf.d752a8f6824e7e24008541e43875ead5.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_72_jpg.rf.d752a8f6824e7e24008541e43875ead5.jpg
+YellowSigatoka_73_jpg.rf.b796bad5d63ec455905eb1e07360662f.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_73_jpg.rf.b796bad5d63ec455905eb1e07360662f.jpg
+YellowSigatoka_75_jpg.rf.7bc98d7f3f57f6f154581656ae8c9c5a.jpg,Yellow-Sigatoka,98,train,test,test/4/YellowSigatoka_75_jpg.rf.7bc98d7f3f57f6f154581656ae8c9c5a.jpg
+YellowSigatoka_76_jpg.rf.d1a45a47b98b95ba356ca241fce24a69.jpg,Yellow-Sigatoka,99,train,test,test/4/YellowSigatoka_76_jpg.rf.d1a45a47b98b95ba356ca241fce24a69.jpg
+YellowSigatoka_77_jpg.rf.0ca0adbbe72d46872b7996a388e8dade.jpg,Yellow-Sigatoka,99,train,train,train/4/YellowSigatoka_77_jpg.rf.0ca0adbbe72d46872b7996a388e8dade.jpg
+YellowSigatoka_78_jpg.rf.13f6e15b6baf525238ed8b7ee4d6e07e.jpg,Yellow-Sigatoka,56,train,train,train/4/YellowSigatoka_78_jpg.rf.13f6e15b6baf525238ed8b7ee4d6e07e.jpg
+YellowSigatoka_79_jpg.rf.dfa9a8fc425988a61d808d3d0d3a508d.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_79_jpg.rf.dfa9a8fc425988a61d808d3d0d3a508d.jpg
+YellowSigatoka_7_jpg.rf.6c26949d1f3a14552a81f57a28717436.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_7_jpg.rf.6c26949d1f3a14552a81f57a28717436.jpg
+YellowSigatoka_80_jpg.rf.365718dd3362c27d14a091fd29cd0f16.jpg,Yellow-Sigatoka,98,train,train,train/4/YellowSigatoka_80_jpg.rf.365718dd3362c27d14a091fd29cd0f16.jpg
+YellowSigatoka_81_jpg.rf.7029be28932eadc1f9e35ad7aef205a1.jpg,Yellow-Sigatoka,108,train,val,valid/4/YellowSigatoka_81_jpg.rf.7029be28932eadc1f9e35ad7aef205a1.jpg
+YellowSigatoka_8_jpg.rf.9ff47648498a56d1d4e521512ef81bd0.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_8_jpg.rf.9ff47648498a56d1d4e521512ef81bd0.jpg
+YellowSigatoka_90_jpg.rf.1c795d3600c1ac2c16a63ee8758ffe04.jpg,Yellow-Sigatoka,111,train,test,test/4/YellowSigatoka_90_jpg.rf.1c795d3600c1ac2c16a63ee8758ffe04.jpg
+YellowSigatoka_91_jpg.rf.8decf460d0be523af832e36c71a0ef30.jpg,Yellow-Sigatoka,111,train,val,valid/4/YellowSigatoka_91_jpg.rf.8decf460d0be523af832e36c71a0ef30.jpg
+YellowSigatoka_93_jpg.rf.0e12023c9a427112f1e3b51a7f7ae867.jpg,Yellow-Sigatoka,100,train,train,train/4/YellowSigatoka_93_jpg.rf.0e12023c9a427112f1e3b51a7f7ae867.jpg
+YellowSigatoka_94_jpg.rf.a0a75a04d0cbfd53d30cbe8ab05040f5.jpg,Yellow-Sigatoka,111,train,train,train/4/YellowSigatoka_94_jpg.rf.a0a75a04d0cbfd53d30cbe8ab05040f5.jpg
+YellowSigatoka_95_jpg.rf.04fff7bd6f168dfe8c89591537c40b3c.jpg,Yellow-Sigatoka,111,train,val,valid/4/YellowSigatoka_95_jpg.rf.04fff7bd6f168dfe8c89591537c40b3c.jpg
+YellowSigatoka_96_jpg.rf.c1bd97111dce6332584e005509e18e25.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_96_jpg.rf.c1bd97111dce6332584e005509e18e25.jpg
+YellowSigatoka_97_jpg.rf.ff9d59009e92f72d883f766d3245d3a5.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_97_jpg.rf.ff9d59009e92f72d883f766d3245d3a5.jpg
+YellowSigatoka_98_jpg.rf.b916f1d5b3c24f86e4789351f47b7e53.jpg,Yellow-Sigatoka,58,train,train,train/4/YellowSigatoka_98_jpg.rf.b916f1d5b3c24f86e4789351f47b7e53.jpg
+YellowSigatoka_99_jpg.rf.7bcc97f8015636c6b75e79e3feb07782.jpg,Yellow-Sigatoka,58,train,val,valid/4/YellowSigatoka_99_jpg.rf.7bcc97f8015636c6b75e79e3feb07782.jpg
+YellowSigatoka_9_jpg.rf.348970d65dc3042539270e6c534f7fd0.jpg,Yellow-Sigatoka,58,train,test,test/4/YellowSigatoka_9_jpg.rf.348970d65dc3042539270e6c534f7fd0.jpg
+BlackSigatoka_11_jpg.rf.5a17f73c308fb15af3ad6ace344ceea9.jpg,Black-Sigatoka,74,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_11_jpg.rf.5a17f73c308fb15af3ad6ace344ceea9.jpg
+BlackSigatoka_122_jpg.rf.a4229f575e0f3707feef02d031cb0549.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_122_jpg.rf.a4229f575e0f3707feef02d031cb0549.jpg
+BlackSigatoka_123_jpg.rf.278f37acb4839bac04a1b51d11612858.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_123_jpg.rf.278f37acb4839bac04a1b51d11612858.jpg
+BlackSigatoka_124_jpg.rf.744c5345174a1ed1db199609e29b07fe.jpg,Black-Sigatoka,84,val,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_124_jpg.rf.744c5345174a1ed1db199609e29b07fe.jpg
+BlackSigatoka_125_jpg.rf.d8f0ee7f0bf0eac7314a801e3657ce59.jpg,Black-Sigatoka,84,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_125_jpg.rf.d8f0ee7f0bf0eac7314a801e3657ce59.jpg
+BlackSigatoka_126_jpg.rf.a06b4486b8a14967320c347c9afaed7a.jpg,Black-Sigatoka,84,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_126_jpg.rf.a06b4486b8a14967320c347c9afaed7a.jpg
+BlackSigatoka_127_jpg.rf.107d7ac4c890331b500a8f2dcbbf2cfd.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_127_jpg.rf.107d7ac4c890331b500a8f2dcbbf2cfd.jpg
+BlackSigatoka_130_jpg.rf.8fe0ed258096dd3ab13950eead0d480e.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_130_jpg.rf.8fe0ed258096dd3ab13950eead0d480e.jpg
+BlackSigatoka_138_jpg.rf.8b50505d736ec411c0851fb0cc1a68b5.jpg,Black-Sigatoka,82,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_138_jpg.rf.8b50505d736ec411c0851fb0cc1a68b5.jpg
+BlackSigatoka_146_jpg.rf.0c7e024fd5a1280130ee9391c3879250.jpg,Black-Sigatoka,74,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_146_jpg.rf.0c7e024fd5a1280130ee9391c3879250.jpg
+BlackSigatoka_197_jpg.rf.26bca42a4a836d5015b3056a9081408d.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_197_jpg.rf.26bca42a4a836d5015b3056a9081408d.jpg
+BlackSigatoka_198_jpg.rf.66a43640a1207cb75d4186ca3676054b.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_198_jpg.rf.66a43640a1207cb75d4186ca3676054b.jpg
+BlackSigatoka_199_jpg.rf.f7a48cf43b6563523b8457c1961fb626.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_199_jpg.rf.f7a48cf43b6563523b8457c1961fb626.jpg
+BlackSigatoka_200_jpg.rf.5e4d0c6e7b9ebbf3ed9cf59e47708284.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_200_jpg.rf.5e4d0c6e7b9ebbf3ed9cf59e47708284.jpg
+BlackSigatoka_201_jpg.rf.118cc9fa2c78c4cc90b7d69c645a4bf9.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_201_jpg.rf.118cc9fa2c78c4cc90b7d69c645a4bf9.jpg
+BlackSigatoka_202_jpg.rf.d7fb62f02d5be975a6b24a63ddc98680.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_202_jpg.rf.d7fb62f02d5be975a6b24a63ddc98680.jpg
+BlackSigatoka_203_jpg.rf.242cf1fc4f9e076f113cd962a89ef866.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_203_jpg.rf.242cf1fc4f9e076f113cd962a89ef866.jpg
+BlackSigatoka_204_jpg.rf.c359f741a7878e7b65a8f0d1712542e2.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_204_jpg.rf.c359f741a7878e7b65a8f0d1712542e2.jpg
+BlackSigatoka_205_jpg.rf.7ef08acb0336bd42e4e67ba2f235df4f.jpg,Black-Sigatoka,85,val,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_205_jpg.rf.7ef08acb0336bd42e4e67ba2f235df4f.jpg
+BlackSigatoka_206_jpg.rf.daa9993165f6377ee1b3a1b652a5497f.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_206_jpg.rf.daa9993165f6377ee1b3a1b652a5497f.jpg
+BlackSigatoka_207_jpg.rf.54c975329054dba1c70e4138729a2cac.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_207_jpg.rf.54c975329054dba1c70e4138729a2cac.jpg
+BlackSigatoka_208_jpg.rf.cecb0c56815d1442a8067806bc28c688.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_208_jpg.rf.cecb0c56815d1442a8067806bc28c688.jpg
+BlackSigatoka_216_jpg.rf.0c6aa21e171c2b56944c51c1dcdf4982.jpg,Black-Sigatoka,82,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_216_jpg.rf.0c6aa21e171c2b56944c51c1dcdf4982.jpg
+BlackSigatoka_224_jpg.rf.8704f51588c625c64df3b32ba7172a28.jpg,Black-Sigatoka,74,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_224_jpg.rf.8704f51588c625c64df3b32ba7172a28.jpg
+BlackSigatoka_3_jpg.rf.93e9cd40cf9de737c3332c18204f3c5c.jpg,Black-Sigatoka,82,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_3_jpg.rf.93e9cd40cf9de737c3332c18204f3c5c.jpg
+BlackSigatoka_4_jpg.rf.ab1019a25e2e5845ce8a3b1f2612f749.jpg,Black-Sigatoka,85,val,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_4_jpg.rf.ab1019a25e2e5845ce8a3b1f2612f749.jpg
+BlackSigatoka_5_jpg.rf.bd022e7cb0376b8b10621597a03a6e61.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_5_jpg.rf.bd022e7cb0376b8b10621597a03a6e61.jpg
+BlackSigatoka_64_jpg.rf.d8b0b9c064a4c20bbada3ad4104b30b4.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_64_jpg.rf.d8b0b9c064a4c20bbada3ad4104b30b4.jpg
+BlackSigatoka_65_jpg.rf.cf70c348a3f0f9728ce8d9d42a4a51bc.jpg,Black-Sigatoka,84,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_65_jpg.rf.cf70c348a3f0f9728ce8d9d42a4a51bc.jpg
+BlackSigatoka_66_jpg.rf.7715cc4737cfb89bc1d347c5a2751afe.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_66_jpg.rf.7715cc4737cfb89bc1d347c5a2751afe.jpg
+BlackSigatoka_67_jpg.rf.2eb9f49186e68fa6c616e0a4d30c1930.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_67_jpg.rf.2eb9f49186e68fa6c616e0a4d30c1930.jpg
+BlackSigatoka_68_jpg.rf.79bce6ecbe7165c47a48e287d556809d.jpg,Black-Sigatoka,84,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_68_jpg.rf.79bce6ecbe7165c47a48e287d556809d.jpg
+BlackSigatoka_69_jpg.rf.919f929ee69d4bc16c6e39487603b261.jpg,Black-Sigatoka,85,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_69_jpg.rf.919f929ee69d4bc16c6e39487603b261.jpg
+BlackSigatoka_6_jpg.rf.17c9f168d5bd87d2fe7ce41de306f930.jpg,Black-Sigatoka,85,val,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_6_jpg.rf.17c9f168d5bd87d2fe7ce41de306f930.jpg
+BlackSigatoka_70_jpg.rf.5f2f3ece6db6035af7d11ed20c60127f.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_70_jpg.rf.5f2f3ece6db6035af7d11ed20c60127f.jpg
+BlackSigatoka_71_jpg.rf.ea9929790539df395f100cbe283f5854.jpg,Black-Sigatoka,85,val,val,valid/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_71_jpg.rf.ea9929790539df395f100cbe283f5854.jpg
+BlackSigatoka_72_jpg.rf.68dfbbe9f4f366ef49766e93c5e55333.jpg,Black-Sigatoka,85,val,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_72_jpg.rf.68dfbbe9f4f366ef49766e93c5e55333.jpg
+BlackSigatoka_73_jpg.rf.fe9c72aa5786d1d3bb6a81233dd9428d.jpg,Black-Sigatoka,85,val,test,test/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_73_jpg.rf.fe9c72aa5786d1d3bb6a81233dd9428d.jpg
+BlackSigatoka_74_jpg.rf.c83b5e9289230996c5870eebe93d5f94.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_74_jpg.rf.c83b5e9289230996c5870eebe93d5f94.jpg
+BlackSigatoka_75_jpg.rf.cfb4878511a44868811c174904893bb4.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_75_jpg.rf.cfb4878511a44868811c174904893bb4.jpg
+BlackSigatoka_7_jpg.rf.1ee7ee4c7141e9cd45c68188ce128594.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_7_jpg.rf.1ee7ee4c7141e9cd45c68188ce128594.jpg
+BlackSigatoka_8_jpg.rf.c67a6962361f2465f461aa48c921b46b.jpg,Black-Sigatoka,85,val,train,train/1 0 0 0 1 1 1 1 0 0 0/BlackSigatoka_8_jpg.rf.c67a6962361f2465f461aa48c921b46b.jpg
+Healthy_103_jpeg_jpg.rf.5a24229ba3c0b1f60eadf209d2d75c54.jpg,Healthy-Leaf,6,val,train,train/1/Healthy_103_jpeg_jpg.rf.5a24229ba3c0b1f60eadf209d2d75c54.jpg
+Healthy_107_jpeg_jpg.rf.c78327d645f5204d79755be06748d37e.jpg,Healthy-Leaf,60,val,val,valid/1/Healthy_107_jpeg_jpg.rf.c78327d645f5204d79755be06748d37e.jpg
+Healthy_112_jpeg_jpg.rf.1e471786b619434e4a9b7173d9a2220e.jpg,Healthy-Leaf,65,val,val,valid/1/Healthy_112_jpeg_jpg.rf.1e471786b619434e4a9b7173d9a2220e.jpg
+Healthy_118_jpeg_jpg.rf.9fc0e29469b31f642e1c033528141c40.jpg,Healthy-Leaf,63,val,val,valid/1/Healthy_118_jpeg_jpg.rf.9fc0e29469b31f642e1c033528141c40.jpg
+Healthy_120_jpeg_jpg.rf.79866ab2fb05bdae8bc7ba2ffecc8e74.jpg,Healthy-Leaf,26,val,train,train/1/Healthy_120_jpeg_jpg.rf.79866ab2fb05bdae8bc7ba2ffecc8e74.jpg
+Healthy_12_jpeg_jpg.rf.c885f2c7212930193db46ee8195ffd78.jpg,Healthy-Leaf,35,val,train,train/1/Healthy_12_jpeg_jpg.rf.c885f2c7212930193db46ee8195ffd78.jpg
+Healthy_28_jpeg_jpg.rf.764c7c1351769042a553c5a708ac7c2c.jpg,Healthy-Leaf,65,val,val,valid/1/Healthy_28_jpeg_jpg.rf.764c7c1351769042a553c5a708ac7c2c.jpg
+Healthy_33_jpeg_jpg.rf.ab5fbeb845186ddeca54b5f11595573f.jpg,Healthy-Leaf,65,val,val,valid/1/Healthy_33_jpeg_jpg.rf.ab5fbeb845186ddeca54b5f11595573f.jpg
+Healthy_35_jpeg_jpg.rf.006a2860567236acc7b5f0ad6c026eef.jpg,Healthy-Leaf,66,val,val,valid/1/Healthy_35_jpeg_jpg.rf.006a2860567236acc7b5f0ad6c026eef.jpg
+Healthy_37_jpeg_jpg.rf.b667ac01d7f76581657b92868fe33b2f.jpg,Healthy-Leaf,65,val,train,train/1/Healthy_37_jpeg_jpg.rf.b667ac01d7f76581657b92868fe33b2f.jpg
+Healthy_39_jpeg_jpg.rf.59a1d03365cd7f49c792053fcf1182fe.jpg,Healthy-Leaf,24,val,train,train/1/Healthy_39_jpeg_jpg.rf.59a1d03365cd7f49c792053fcf1182fe.jpg
+Healthy_40_jpeg_jpg.rf.a06b5146deb8226b9d9e33cc8fd32d62.jpg,Healthy-Leaf,24,val,train,train/1/Healthy_40_jpeg_jpg.rf.a06b5146deb8226b9d9e33cc8fd32d62.jpg
+Healthy_46_jpeg_jpg.rf.e865684be370340076843ad254562e59.jpg,Healthy-Leaf,26,val,train,train/1/Healthy_46_jpeg_jpg.rf.e865684be370340076843ad254562e59.jpg
+Healthy_50_jpeg_jpg.rf.3fe74c4e4b9d89c2574ac7c0c831c74d.jpg,Healthy-Leaf,68,val,val,valid/1/Healthy_50_jpeg_jpg.rf.3fe74c4e4b9d89c2574ac7c0c831c74d.jpg
+Healthy_54_jpeg_jpg.rf.ca3ba429f3cc17860a3539cd517bc46f.jpg,Healthy-Leaf,69,val,val,valid/1/Healthy_54_jpeg_jpg.rf.ca3ba429f3cc17860a3539cd517bc46f.jpg
+Healthy_57_jpeg_jpg.rf.4e837284fee4b346ac11ebe1be4b5ff8.jpg,Healthy-Leaf,35,val,train,train/1/Healthy_57_jpeg_jpg.rf.4e837284fee4b346ac11ebe1be4b5ff8.jpg
+Healthy_59_jpeg_jpg.rf.36b9cced6bcf2927fa068954c0c66a30.jpg,Healthy-Leaf,31,val,train,train/1/Healthy_59_jpeg_jpg.rf.36b9cced6bcf2927fa068954c0c66a30.jpg
+Healthy_64_jpeg_jpg.rf.3f3880c0d3034b28182afee2615a19c8.jpg,Healthy-Leaf,35,val,train,train/1/Healthy_64_jpeg_jpg.rf.3f3880c0d3034b28182afee2615a19c8.jpg
+Panama_16_jpg.rf.a52921b106db1d5285290796973a405e.jpg,Panama-Disease,48,val,val,valid/2/Panama_16_jpg.rf.a52921b106db1d5285290796973a405e.jpg
+Panama_17_jpg.rf.acc32c0534df89cc70357d44b145b33b.jpg,Panama-Disease,48,val,val,valid/2/Panama_17_jpg.rf.acc32c0534df89cc70357d44b145b33b.jpg
+Panama_18_jpg.rf.750d64e627d7f763e465a21eda22759c.jpg,Panama-Disease,48,val,val,valid/2/Panama_18_jpg.rf.750d64e627d7f763e465a21eda22759c.jpg
+Panama_19_jpg.rf.3a26fdb52355edf87f80b67f753ecbd7.jpg,Panama-Disease,48,val,train,train/2/Panama_19_jpg.rf.3a26fdb52355edf87f80b67f753ecbd7.jpg
+Panama_1_jpg.rf.90ce23d6ccd01c461d8b66a0181cdaab.jpg,Panama-Disease,48,val,train,train/2/Panama_1_jpg.rf.90ce23d6ccd01c461d8b66a0181cdaab.jpg
+Panama_20_jpg.rf.52457e2cf98d6c0fb85fe84e87ec5743.jpg,Panama-Disease,48,val,train,train/2/Panama_20_jpg.rf.52457e2cf98d6c0fb85fe84e87ec5743.jpg
+Panama_23_jpg.rf.1077a92c267f61d8ca1274f818a1ac35.jpg,Panama-Disease,48,val,train,train/2/Panama_23_jpg.rf.1077a92c267f61d8ca1274f818a1ac35.jpg
+Panama_24_jpg.rf.55ba1a64928a767e90aed62e6881751f.jpg,Panama-Disease,48,val,train,train/2/Panama_24_jpg.rf.55ba1a64928a767e90aed62e6881751f.jpg
+Panama_25_jpg.rf.5924ca0cb80f000607b47389c1b4f70e.jpg,Panama-Disease,48,val,train,train/2/Panama_25_jpg.rf.5924ca0cb80f000607b47389c1b4f70e.jpg
+Panama_26_jpg.rf.34bc72e05be50e66169a07266d38a8e5.jpg,Panama-Disease,48,val,train,train/2/Panama_26_jpg.rf.34bc72e05be50e66169a07266d38a8e5.jpg
+Panama_27_jpg.rf.f235f6213292f4f00dd7a2cb3a05e302.jpg,Panama-Disease,48,val,train,train/2/Panama_27_jpg.rf.f235f6213292f4f00dd7a2cb3a05e302.jpg
+Panama_2_jpg.rf.1d0fc40dce114d9d49b267d53764f21e.jpg,Panama-Disease,48,val,val,valid/2/Panama_2_jpg.rf.1d0fc40dce114d9d49b267d53764f21e.jpg
+Panama_3_jpg.rf.c64abab3798c251c8f37ea0da854d68c.jpg,Panama-Disease,48,val,train,train/2/Panama_3_jpg.rf.c64abab3798c251c8f37ea0da854d68c.jpg
+Panama_40_jpg.rf.366074f4594e4fcb6a31530136093a4c.jpg,Panama-Disease,48,val,train,train/2/Panama_40_jpg.rf.366074f4594e4fcb6a31530136093a4c.jpg
+Panama_41_jpg.rf.0fa01edd6ed8d8b13b6a2bd7fef1a641.jpg,Panama-Disease,48,val,train,train/2/Panama_41_jpg.rf.0fa01edd6ed8d8b13b6a2bd7fef1a641.jpg
+Panama_42_jpg.rf.69cc9a0314b0c1ce6add8fbae663ca39.jpg,Panama-Disease,48,val,train,train/2/Panama_42_jpg.rf.69cc9a0314b0c1ce6add8fbae663ca39.jpg
+Panama_43_jpg.rf.8033cb554a314d132f2aa35ebd772fed.jpg,Panama-Disease,48,val,train,train/2/Panama_43_jpg.rf.8033cb554a314d132f2aa35ebd772fed.jpg
+Panama_44_jpg.rf.c667132be7693969fd26e774acbf08a5.jpg,Panama-Disease,48,val,train,train/2/Panama_44_jpg.rf.c667132be7693969fd26e774acbf08a5.jpg
+Panama_66_jpg.rf.ffa408a9e8e8fbdc89514b111083c85c.jpg,Panama-Disease,48,val,train,train/2/Panama_66_jpg.rf.ffa408a9e8e8fbdc89514b111083c85c.jpg
+Panama_67_jpg.rf.0ac3acd1649a21623de0c62056399e3f.jpg,Panama-Disease,48,val,test,test/2/Panama_67_jpg.rf.0ac3acd1649a21623de0c62056399e3f.jpg
+Panama_68_jpg.rf.0f8bc3318f96feff0aa9b5d3f5783d9c.jpg,Panama-Disease,48,val,train,train/2/Panama_68_jpg.rf.0f8bc3318f96feff0aa9b5d3f5783d9c.jpg
+Panama_69_jpg.rf.ec9d7c6416bb93d532494d2c1694ec53.jpg,Panama-Disease,48,val,train,train/2/Panama_69_jpg.rf.ec9d7c6416bb93d532494d2c1694ec53.jpg
+Panama_70_jpg.rf.f75ab7d0f906873f7c29ab06d9c82328.jpg,Panama-Disease,48,val,train,train/2/Panama_70_jpg.rf.f75ab7d0f906873f7c29ab06d9c82328.jpg
+Panama_84_jpg.rf.7a43c938d15ed6751519c758ddbfd269.jpg,Panama-Disease,48,val,train,train/2/Panama_84_jpg.rf.7a43c938d15ed6751519c758ddbfd269.jpg
+Panama_85_jpg.rf.9efc49a037e8363571f60e1ca3ca6c11.jpg,Panama-Disease,48,val,train,train/2/Panama_85_jpg.rf.9efc49a037e8363571f60e1ca3ca6c11.jpg
+PotassiumDeficiency_10_jpg.rf.f312962fededf6ec0cc736c1ff963b62.jpg,Potassium-Deficiency,94,val,val,valid/3/PotassiumDeficiency_10_jpg.rf.f312962fededf6ec0cc736c1ff963b62.jpg
+PotassiumDeficiency_121_jpg.rf.0eb14c3b97e5ea7a47f9ab4d28ef0a92.jpg,Potassium-Deficiency,95,val,val,valid/3/PotassiumDeficiency_121_jpg.rf.0eb14c3b97e5ea7a47f9ab4d28ef0a92.jpg
+PotassiumDeficiency_188_jpg.rf.a6aecc50495159dfa26b59b0f67dcb96.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_188_jpg.rf.a6aecc50495159dfa26b59b0f67dcb96.jpg
+PotassiumDeficiency_189_jpg.rf.f77cfef34dd01c7689a7a7c34afdbeb4.jpg,Potassium-Deficiency,90,val,val,valid/3/PotassiumDeficiency_189_jpg.rf.f77cfef34dd01c7689a7a7c34afdbeb4.jpg
+PotassiumDeficiency_190_jpg.rf.6c129638b1031622083dd2a5220f0cbd.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_190_jpg.rf.6c129638b1031622083dd2a5220f0cbd.jpg
+PotassiumDeficiency_191_jpg.rf.95dc118fd0770c33a92434d81d7529d3.jpg,Potassium-Deficiency,90,val,val,valid/3/PotassiumDeficiency_191_jpg.rf.95dc118fd0770c33a92434d81d7529d3.jpg
+PotassiumDeficiency_192_jpg.rf.aa003953079e4dbc27a36975f9efa461.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_192_jpg.rf.aa003953079e4dbc27a36975f9efa461.jpg
+PotassiumDeficiency_193_jpg.rf.330e2221f44dd6670a5e1cbba0f098d3.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_193_jpg.rf.330e2221f44dd6670a5e1cbba0f098d3.jpg
+PotassiumDeficiency_194_jpg.rf.c6636cc0e6124375f5fc36512c6f3011.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_194_jpg.rf.c6636cc0e6124375f5fc36512c6f3011.jpg
+PotassiumDeficiency_195_jpg.rf.5c492f04243e1881add040ec8b0cacb8.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_195_jpg.rf.5c492f04243e1881add040ec8b0cacb8.jpg
+PotassiumDeficiency_197_jpg.rf.ffea168f860d4d4915eb5522d9c233df.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_197_jpg.rf.ffea168f860d4d4915eb5522d9c233df.jpg
+PotassiumDeficiency_198_jpg.rf.47903c3306ca76e29bc4cca7eda1964b.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_198_jpg.rf.47903c3306ca76e29bc4cca7eda1964b.jpg
+PotassiumDeficiency_199_jpg.rf.ae18c3a90b777ec3cbc72eff31415d20.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_199_jpg.rf.ae18c3a90b777ec3cbc72eff31415d20.jpg
+PotassiumDeficiency_1_jpg.rf.e8b733fc98f5f3059ec7c19f65816ebd.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_1_jpg.rf.e8b733fc98f5f3059ec7c19f65816ebd.jpg
+PotassiumDeficiency_200_jpg.rf.4d804ee9fa789bb33474b1cc7e8fd0e2.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_200_jpg.rf.4d804ee9fa789bb33474b1cc7e8fd0e2.jpg
+PotassiumDeficiency_201_jpg.rf.4cd8bc7dfcca002737388353d09a44ba.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_201_jpg.rf.4cd8bc7dfcca002737388353d09a44ba.jpg
+PotassiumDeficiency_202_jpg.rf.b2a1bb240ae596626700b69676d1bf9c.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_202_jpg.rf.b2a1bb240ae596626700b69676d1bf9c.jpg
+PotassiumDeficiency_203_jpg.rf.3461d6944271c136785f703bca96387a.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_203_jpg.rf.3461d6944271c136785f703bca96387a.jpg
+PotassiumDeficiency_204_jpg.rf.d1c0008aa0dbbe9eb309eb6c58980696.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_204_jpg.rf.d1c0008aa0dbbe9eb309eb6c58980696.jpg
+PotassiumDeficiency_205_jpg.rf.57d5069a5d7e0dac02685a50bcebce0b.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_205_jpg.rf.57d5069a5d7e0dac02685a50bcebce0b.jpg
+PotassiumDeficiency_206_jpg.rf.9ef1a586a1c49b8440fa5d64d94a23d3.jpg,Potassium-Deficiency,90,val,val,valid/3/PotassiumDeficiency_206_jpg.rf.9ef1a586a1c49b8440fa5d64d94a23d3.jpg
+PotassiumDeficiency_208_jpg.rf.62387c6083056729fa5a250cd5ded64c.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_208_jpg.rf.62387c6083056729fa5a250cd5ded64c.jpg
+PotassiumDeficiency_209_jpg.rf.08ae7a016b74388e131fc2d87130f3b3.jpg,Potassium-Deficiency,90,val,val,valid/3/PotassiumDeficiency_209_jpg.rf.08ae7a016b74388e131fc2d87130f3b3.jpg
+PotassiumDeficiency_211_jpg.rf.eb7b2bd3e947e3080f466bbbf8902242.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_211_jpg.rf.eb7b2bd3e947e3080f466bbbf8902242.jpg
+PotassiumDeficiency_212_jpg.rf.92e7988b06d8e156aa729ae44486b3db.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_212_jpg.rf.92e7988b06d8e156aa729ae44486b3db.jpg
+PotassiumDeficiency_214_jpg.rf.b564f0ee4b1134f2d7372497b0bec749.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_214_jpg.rf.b564f0ee4b1134f2d7372497b0bec749.jpg
+PotassiumDeficiency_215_jpg.rf.66210757bec6f740b97a7c87d19489be.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_215_jpg.rf.66210757bec6f740b97a7c87d19489be.jpg
+PotassiumDeficiency_216_jpg.rf.dd708014126e1f052239daf96f5e0a0b.jpg,Potassium-Deficiency,90,val,val,valid/3/PotassiumDeficiency_216_jpg.rf.dd708014126e1f052239daf96f5e0a0b.jpg
+PotassiumDeficiency_218_jpg.rf.f43f7d2d3dcd6e90680083f6f6798832.jpg,Potassium-Deficiency,90,val,test,test/3/PotassiumDeficiency_218_jpg.rf.f43f7d2d3dcd6e90680083f6f6798832.jpg
+PotassiumDeficiency_219_jpg.rf.e387e94a1ddebc7e411f1fc57fe0aa9a.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_219_jpg.rf.e387e94a1ddebc7e411f1fc57fe0aa9a.jpg
+PotassiumDeficiency_220_jpg.rf.10de6c6d3831086122146798dc665eba.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_220_jpg.rf.10de6c6d3831086122146798dc665eba.jpg
+PotassiumDeficiency_221_jpg.rf.58ff796bfcc3e122f272fb6d661b1149.jpg,Potassium-Deficiency,90,val,val,valid/3/PotassiumDeficiency_221_jpg.rf.58ff796bfcc3e122f272fb6d661b1149.jpg
+PotassiumDeficiency_223_jpg.rf.588305914079432d82494fe229eea2f5.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_223_jpg.rf.588305914079432d82494fe229eea2f5.jpg
+PotassiumDeficiency_224_jpg.rf.785529353dd37155d465543dd6c9c3df.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_224_jpg.rf.785529353dd37155d465543dd6c9c3df.jpg
+PotassiumDeficiency_227_jpg.rf.067e0ed2dcca345ec9c5e0939fa5a99c.jpg,Potassium-Deficiency,94,val,train,train/3/PotassiumDeficiency_227_jpg.rf.067e0ed2dcca345ec9c5e0939fa5a99c.jpg
+PotassiumDeficiency_228_jpg.rf.70a2712bb56ede497a379426f0a1ed0b.jpg,Potassium-Deficiency,94,val,train,train/3/PotassiumDeficiency_228_jpg.rf.70a2712bb56ede497a379426f0a1ed0b.jpg
+PotassiumDeficiency_245_jpg.rf.27cc0904865c5d47cbfc3ade59f78682.jpg,Potassium-Deficiency,94,val,train,train/3/PotassiumDeficiency_245_jpg.rf.27cc0904865c5d47cbfc3ade59f78682.jpg
+PotassiumDeficiency_279_jpg.rf.a42fdd68bbbb72c0d31961bdfb0aeba6.jpg,Potassium-Deficiency,95,val,train,train/3/PotassiumDeficiency_279_jpg.rf.a42fdd68bbbb72c0d31961bdfb0aeba6.jpg
+PotassiumDeficiency_290_jpg.rf.e73b9a8e21aaf2ef606dfdfa5baad98f.jpg,Potassium-Deficiency,90,val,val,valid/3/PotassiumDeficiency_290_jpg.rf.e73b9a8e21aaf2ef606dfdfa5baad98f.jpg
+PotassiumDeficiency_291_jpg.rf.f0f6e3106832121b52a50270680905be.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_291_jpg.rf.f0f6e3106832121b52a50270680905be.jpg
+PotassiumDeficiency_292_jpg.rf.e372d3bdd89abc11a311bacf7d003e27.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_292_jpg.rf.e372d3bdd89abc11a311bacf7d003e27.jpg
+PotassiumDeficiency_293_jpg.rf.9a4d08efdc7a0c141dcc93971a27d05d.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_293_jpg.rf.9a4d08efdc7a0c141dcc93971a27d05d.jpg
+PotassiumDeficiency_295_jpg.rf.1d2f1350e798281d88c985468cf00813.jpg,Potassium-Deficiency,94,val,train,train/3/PotassiumDeficiency_295_jpg.rf.1d2f1350e798281d88c985468cf00813.jpg
+PotassiumDeficiency_296_jpg.rf.9f64f472a2c3be0651d88037c98a4c92.jpg,Potassium-Deficiency,94,val,val,valid/3/PotassiumDeficiency_296_jpg.rf.9f64f472a2c3be0651d88037c98a4c92.jpg
+PotassiumDeficiency_2_jpg.rf.aaa6b945390eb49b6aaf902c2b33e91f.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_2_jpg.rf.aaa6b945390eb49b6aaf902c2b33e91f.jpg
+PotassiumDeficiency_301_jpg.rf.d79c24d886c5d156048665f2b40eb785.jpg,Potassium-Deficiency,94,val,test,test/3/PotassiumDeficiency_301_jpg.rf.d79c24d886c5d156048665f2b40eb785.jpg
+PotassiumDeficiency_3_jpg.rf.652cd6f869cc2bff596d197c92d5bea4.jpg,Potassium-Deficiency,90,val,test,test/3/PotassiumDeficiency_3_jpg.rf.652cd6f869cc2bff596d197c92d5bea4.jpg
+PotassiumDeficiency_60_jpg.rf.bd7af8e99400f16f52eb75f3da32b771.jpg,Potassium-Deficiency,95,val,val,valid/3/PotassiumDeficiency_60_jpg.rf.bd7af8e99400f16f52eb75f3da32b771.jpg
+PotassiumDeficiency_7_jpg.rf.fa0e334b80dc8da6050b0090b54129fa.jpg,Potassium-Deficiency,94,val,train,train/3/PotassiumDeficiency_7_jpg.rf.fa0e334b80dc8da6050b0090b54129fa.jpg
+PotassiumDeficiency_83_jpg.rf.61c5b8a493a3be997bbcc1a47d23c7c5.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_83_jpg.rf.61c5b8a493a3be997bbcc1a47d23c7c5.jpg
+PotassiumDeficiency_84_jpg.rf.0dec1dff630b27f1443026bb7346ccd6.jpg,Potassium-Deficiency,90,val,train,train/3/PotassiumDeficiency_84_jpg.rf.0dec1dff630b27f1443026bb7346ccd6.jpg
+PotassiumDeficiency_8_jpg.rf.093bfdb81c0b22d1b7e9546d1d763420.jpg,Potassium-Deficiency,94,val,train,train/3/PotassiumDeficiency_8_jpg.rf.093bfdb81c0b22d1b7e9546d1d763420.jpg
+PotassiumDeficiency_9_jpg.rf.98fb70d8663f820d1f42853223bb5ac4.jpg,Potassium-Deficiency,94,val,train,train/3/PotassiumDeficiency_9_jpg.rf.98fb70d8663f820d1f42853223bb5ac4.jpg
+YellowSigatoka_118_jpg.rf.501f727f61154d1ab324f78acaf8996f.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_118_jpg.rf.501f727f61154d1ab324f78acaf8996f.jpg
+YellowSigatoka_126_jpg.rf.2e23632c13a9e08f7dd7b12cab2d1098.jpg,Yellow-Sigatoka,105,val,train,train/4/YellowSigatoka_126_jpg.rf.2e23632c13a9e08f7dd7b12cab2d1098.jpg
+YellowSigatoka_127_jpg.rf.0cf891b9db3c28a33eec53fce02a8c37.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_127_jpg.rf.0cf891b9db3c28a33eec53fce02a8c37.jpg
+YellowSigatoka_128_jpg.rf.efca6db40cfb555ba96b529bcff7bf65.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_128_jpg.rf.efca6db40cfb555ba96b529bcff7bf65.jpg
+YellowSigatoka_129_jpg.rf.7bbc7bcc689c3ab9567e05fed124603a.jpg,Yellow-Sigatoka,109,val,test,test/4/YellowSigatoka_129_jpg.rf.7bbc7bcc689c3ab9567e05fed124603a.jpg
+YellowSigatoka_130_jpg.rf.601df7698ec2e0fbdc37286748a87fc2.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_130_jpg.rf.601df7698ec2e0fbdc37286748a87fc2.jpg
+YellowSigatoka_131_jpg.rf.7f525f62bcc4ef75d145effb8ba999b0.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_131_jpg.rf.7f525f62bcc4ef75d145effb8ba999b0.jpg
+YellowSigatoka_132_jpg.rf.45dc50376fb25b05e91f2cf6a9d3ec9d.jpg,Yellow-Sigatoka,57,val,train,train/4/YellowSigatoka_132_jpg.rf.45dc50376fb25b05e91f2cf6a9d3ec9d.jpg
+YellowSigatoka_133_jpg.rf.c0c3bce432ce38b1183a30cfbc958166.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_133_jpg.rf.c0c3bce432ce38b1183a30cfbc958166.jpg
+YellowSigatoka_162_jpg.rf.d3aafc3c43d4125bd3e0975583947d20.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_162_jpg.rf.d3aafc3c43d4125bd3e0975583947d20.jpg
+YellowSigatoka_170_jpg.rf.ad4bc1d62348b784fac0a77d506a05dd.jpg,Yellow-Sigatoka,105,val,train,train/4/YellowSigatoka_170_jpg.rf.ad4bc1d62348b784fac0a77d506a05dd.jpg
+YellowSigatoka_171_jpg.rf.4e949e3d5a7eaf19bd60048de06274f0.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_171_jpg.rf.4e949e3d5a7eaf19bd60048de06274f0.jpg
+YellowSigatoka_172_jpg.rf.75d805169fa43b3c3833b889cedb3ca9.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_172_jpg.rf.75d805169fa43b3c3833b889cedb3ca9.jpg
+YellowSigatoka_173_jpg.rf.6ab35208cc25461c42e76356c74fdbb8.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_173_jpg.rf.6ab35208cc25461c42e76356c74fdbb8.jpg
+YellowSigatoka_174_jpg.rf.662cb538c2379f2b417c9079303fcac2.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_174_jpg.rf.662cb538c2379f2b417c9079303fcac2.jpg
+YellowSigatoka_175_jpg.rf.0fa079e16580cbcbddff2e273b2d0d77.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_175_jpg.rf.0fa079e16580cbcbddff2e273b2d0d77.jpg
+YellowSigatoka_176_jpg.rf.ef1b70451963a780eb8a74af7a5a2a96.jpg,Yellow-Sigatoka,57,val,test,test/4/YellowSigatoka_176_jpg.rf.ef1b70451963a780eb8a74af7a5a2a96.jpg
+YellowSigatoka_177_jpg.rf.36a78bbd11f41dc3d2ba86d20a1c0b4f.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_177_jpg.rf.36a78bbd11f41dc3d2ba86d20a1c0b4f.jpg
+YellowSigatoka_1_jpg.rf.6f3a515c02e7e1f6ffde6e065237ef68.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_1_jpg.rf.6f3a515c02e7e1f6ffde6e065237ef68.jpg
+YellowSigatoka_206_jpg.rf.9818b5f6c01823fa38b73fc179daaa81.jpg,Yellow-Sigatoka,109,val,test,test/4/YellowSigatoka_206_jpg.rf.9818b5f6c01823fa38b73fc179daaa81.jpg
+YellowSigatoka_214_jpg.rf.a5447d3ee541682b00938bee9d3389c4.jpg,Yellow-Sigatoka,105,val,val,valid/4/YellowSigatoka_214_jpg.rf.a5447d3ee541682b00938bee9d3389c4.jpg
+YellowSigatoka_215_jpg.rf.8743beb97e4d7128a174b8a2040ca628.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_215_jpg.rf.8743beb97e4d7128a174b8a2040ca628.jpg
+YellowSigatoka_216_jpg.rf.989a5e06d63d2ffd732a95b75f840557.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_216_jpg.rf.989a5e06d63d2ffd732a95b75f840557.jpg
+YellowSigatoka_217_jpg.rf.a74933bc871d275b12caf9666fdcd14d.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_217_jpg.rf.a74933bc871d275b12caf9666fdcd14d.jpg
+YellowSigatoka_218_jpg.rf.194dd7e4350e7d3527f2ee0dd2305f79.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_218_jpg.rf.194dd7e4350e7d3527f2ee0dd2305f79.jpg
+YellowSigatoka_219_jpg.rf.dfd034f38800aa9423e926b8004e1d61.jpg,Yellow-Sigatoka,109,val,test,test/4/YellowSigatoka_219_jpg.rf.dfd034f38800aa9423e926b8004e1d61.jpg
+YellowSigatoka_220_jpg.rf.c40450e6db6b5bf868519ac4535a7db0.jpg,Yellow-Sigatoka,57,val,train,train/4/YellowSigatoka_220_jpg.rf.c40450e6db6b5bf868519ac4535a7db0.jpg
+YellowSigatoka_30_jpg.rf.4199fcdf287567f4a80ab04ed583659b.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_30_jpg.rf.4199fcdf287567f4a80ab04ed583659b.jpg
+YellowSigatoka_38_jpg.rf.f3129c4b866c294abbcf5fe7d83353bc.jpg,Yellow-Sigatoka,105,val,train,train/4/YellowSigatoka_38_jpg.rf.f3129c4b866c294abbcf5fe7d83353bc.jpg
+YellowSigatoka_39_jpg.rf.e176ff862439cee9b78f5fa10ed1c39d.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_39_jpg.rf.e176ff862439cee9b78f5fa10ed1c39d.jpg
+YellowSigatoka_40_jpg.rf.4ca10ccdd846175df71d9711b6204962.jpg,Yellow-Sigatoka,109,val,test,test/4/YellowSigatoka_40_jpg.rf.4ca10ccdd846175df71d9711b6204962.jpg
+YellowSigatoka_41_jpg.rf.adf2b2eecaca50089f526e3bd4ce6d50.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_41_jpg.rf.adf2b2eecaca50089f526e3bd4ce6d50.jpg
+YellowSigatoka_42_jpg.rf.e6e86ca08565375cab1765461db65ee2.jpg,Yellow-Sigatoka,109,val,test,test/4/YellowSigatoka_42_jpg.rf.e6e86ca08565375cab1765461db65ee2.jpg
+YellowSigatoka_43_jpg.rf.be5842ade0a5d98feebe98cbe7ccc71f.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_43_jpg.rf.be5842ade0a5d98feebe98cbe7ccc71f.jpg
+YellowSigatoka_44_jpg.rf.75fe4199da4eac4ddb747b3b9896eaa3.jpg,Yellow-Sigatoka,57,val,train,train/4/YellowSigatoka_44_jpg.rf.75fe4199da4eac4ddb747b3b9896eaa3.jpg
+YellowSigatoka_45_jpg.rf.5941e8d968c816bf99c8d2b8957f225b.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_45_jpg.rf.5941e8d968c816bf99c8d2b8957f225b.jpg
+YellowSigatoka_74_jpg.rf.05855afb2bff9b3d81bec767978a1b85.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_74_jpg.rf.05855afb2bff9b3d81bec767978a1b85.jpg
+YellowSigatoka_82_jpg.rf.d0249a15b9b2dd333d9787fa06faef62.jpg,Yellow-Sigatoka,105,val,train,train/4/YellowSigatoka_82_jpg.rf.d0249a15b9b2dd333d9787fa06faef62.jpg
+YellowSigatoka_83_jpg.rf.7b1c24835a80b1a13dcf0bbc95acac35.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_83_jpg.rf.7b1c24835a80b1a13dcf0bbc95acac35.jpg
+YellowSigatoka_84_jpg.rf.f5e27b8cc55abe7a25f7f0b92e30ef8c.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_84_jpg.rf.f5e27b8cc55abe7a25f7f0b92e30ef8c.jpg
+YellowSigatoka_85_jpg.rf.a808be17252445923d897b5bd8e69f78.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_85_jpg.rf.a808be17252445923d897b5bd8e69f78.jpg
+YellowSigatoka_86_jpg.rf.50f9260e9067cb5e972abdf897b3abd7.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_86_jpg.rf.50f9260e9067cb5e972abdf897b3abd7.jpg
+YellowSigatoka_87_jpg.rf.0a91a1435dc5f4128e77b39dbc3e471e.jpg,Yellow-Sigatoka,109,val,train,train/4/YellowSigatoka_87_jpg.rf.0a91a1435dc5f4128e77b39dbc3e471e.jpg
+YellowSigatoka_88_jpg.rf.379cb009650a986b5da0ffdb22d47c4b.jpg,Yellow-Sigatoka,57,val,train,train/4/YellowSigatoka_88_jpg.rf.379cb009650a986b5da0ffdb22d47c4b.jpg
+YellowSigatoka_89_jpg.rf.4241075a1b22a786ae21c5290b2f185d.jpg,Yellow-Sigatoka,109,val,val,valid/4/YellowSigatoka_89_jpg.rf.4241075a1b22a786ae21c5290b2f185d.jpg

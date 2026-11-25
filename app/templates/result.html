@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Result: {{ view.name }}{% endblock %}
+{% block content %}
+<section class="card result" aria-labelledby="result-heading">
+  <div class="result-grid">
+    <figure class="result-photo">
+      <img src="{{ thumb }}" alt="The photograph you uploaded">
+      <figcaption>Your photograph</figcaption>
+    </figure>
+    <div class="result-text">
+      <h1 id="result-heading">Most likely category: {{ view.name }}</h1>
+      <p class="result-caveat">This is a suggestion from a photograph, not a diagnosis. Ask an agricultural extension worker to confirm a suspected condition.</p>
+      <p class="kind">Banana leaf condition: {{ view.kind }}</p>
+
+      <p class="confidence-label" id="conf-label">Model confidence: <strong>{{ view.percent }}%</strong></p>
+      <div class="meter" role="img" aria-labelledby="conf-label"><span style="width: {{ view.percent }}%"></span></div>
+      <p class="small">{{ confidence_note }}</p>
+
+      {% for note in view.notices %}<p class="message notice" role="note">{{ note }}</p>{% endfor %}
+
+      <p>{{ view.description }}</p>
+      <p><strong>What to do next:</strong> {{ view.advice }}</p>
+
+      {% if view.other %}
+      <p class="small">Next most likely:
+        {% for o in view.other %}{{ o.name }} ({{ o.percent }}%){% if not loop.last %}, {% endif %}{% endfor %}.</p>
+      {% endif %}
+    </div>
+  </div>
+  <p><a class="button" href="{{ url_for('index') }}">Analyse another photograph</a></p>
+</section>
+{% endblock %}

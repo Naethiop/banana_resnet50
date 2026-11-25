@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}History{% endblock %}
+{% block content %}
+<section class="card" aria-labelledby="hist-heading">
+  <h1 id="hist-heading">Earlier results on this computer</h1>
+  <p class="small">Only the category, the model confidence and the time are kept. No photographs or file names are stored.
+  This list is shared by everyone who uses this computer.</p>
+  {% if rows %}
+  <div class="table-wrap">
+  <table>
+    <caption class="sr-only">Earlier predictions, newest first</caption>
+    <thead><tr><th scope="col">When</th><th scope="col">Category</th><th scope="col">Confidence</th><th scope="col">Notes</th></tr></thead>
+    <tbody>
+    {% for r in rows %}
+      <tr><td>{{ r.when }}</td><td>{{ r.name }}</td><td>{{ r.percent }}%</td>
+          <td>{% if r.low_confidence %}Less certain{% endif %}{% if r.low_confidence and r.unsuitable %}; {% endif %}{% if r.unsuitable %}May not be a banana leaf photograph{% endif %}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <form method="post" action="{{ url_for('clear_history') }}">
+    <button type="submit" class="button secondary">Clear all history</button>
+  </form>
+  {% else %}
+  <p>No results have been saved yet.</p>
+  {% endif %}
+</section>
+{% endblock %}

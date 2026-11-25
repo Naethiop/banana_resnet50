@@ -1,0 +1,25 @@
+{
+  "stage": "5 baseline (frozen ResNet50 base + new head)",
+  "date": "2026-11-22",
+  "python": "3.11.0",
+  "keras": "3.15.1",
+  "seed": 42,
+  "class_names": [
+    "Black-Sigatoka",
+    "Healthy-Leaf",
+    "Panama-Disease",
+    "Potassium-Deficiency",
+    "Yellow-Sigatoka"
+  ],
+  "class_weight_setting": "none",
+  "head_learning_rate": 0.001,
+  "dropout": 0.3,
+  "epochs_run": 15,
+  "preprocessing": "src/preprocessing.py: centre-crop, 224x224, ResNet50 caffe-mode (BGR, mean subtraction)",
+  "train_images": 600,
+  "val_images": 183,
+  "validation_accuracy": 0.8087431693989071,
+  "validation_macro_f1": 0.7096969696969697,
+  "note": "validation results only; the test set has not been used",
+  "tensorflow": "2.21.0"
+}

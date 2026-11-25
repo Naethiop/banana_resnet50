@@ -1,0 +1,27 @@
+=== Environment report ===
+Python: 3.11.0 (64bit)
+Platform: Windows-10-10.0.22621-SP0
+Processor: Intel64 Family 6 Model 69 Stepping 1, GenuineIntel
+CPU threads: 4
+RAM total/available (GB): 7.9 / 2.0
+In virtual environment: True
+
+--- Packages ---
+tensorflow: 2.21.0
+keras: 3.15.1
+numpy: 2.4.6
+pandas: 3.1.1
+scikit-learn: 1.9.1
+matplotlib: 3.11.2
+pillow: 13.0.0
+flask: 3.1.3
+pytest: 9.2.0
+
+GPUs visible to TensorFlow: none (CPU only)
+Quick TensorFlow test: True
+
+--- Benchmark (random weights, 224x224x3, 5 classes) ---
+Inference, 1 image (model already built): 0.571 s per image
+Training step, batch 16, ALL layers trainable: 8.94 s per step (0.56 s per image)
+Indicative time for one pass over 657 images (all layers trainable): 6.1 minutes
+Fine-tuning only the upper blocks is faster than this worst case. These figures guide the Stage 6 decision on local training versus Colab.

@@ -1,0 +1,6 @@
+# Training dependencies. Identical to the application set.
+# On Google Colab TensorFlow is preinstalled: do NOT reinstall it there;
+# record the Colab TensorFlow version in models/model_meta.json instead.
+-r requirements.txt
+# Added only if the Stage 3 audit shows near-duplicate detection is needed:
+# imagehash

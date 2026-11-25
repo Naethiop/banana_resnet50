@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Banana Leaf Condition Classifier{% endblock %}</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body data-max-mb="{{ max_mb }}" data-max-side="{{ max_side }}">
+  <a class="skip" href="#content">Skip to the main content</a>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="brand"><a href="{{ url_for('index') }}">Banana Leaf Condition Classifier</a></p>
+      <p class="tagline">A preliminary, photograph-based indication. Not a diagnosis.</p>
+      {% if history_enabled %}<nav class="nav" aria-label="Main"><a href="{{ url_for('index') }}">Analyse</a> <a href="{{ url_for('show_history') }}">History</a></nav>{% endif %}
+    </div>
+  </header>
+  <main id="content" class="wrap">
+    {% block content %}{% endblock %}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p class="disclaimer"><strong>Important:</strong> {{ disclaimer }}</p>
+      <p class="scope">{{ scope_note }}</p>
+    </div>
+  </footer>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

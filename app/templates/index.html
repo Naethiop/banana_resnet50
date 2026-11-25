@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card" aria-labelledby="upload-heading">
+  <h1 id="upload-heading">Check a banana leaf photograph</h1>
+  <p>Upload <strong>one photograph of a banana leaf</strong> to get a preliminary category suggestion.</p>
+
+  {% if error %}<p class="message error" role="alert">{{ error }}</p>{% endif %}
+  <p id="client-message" class="message error" role="alert" hidden></p>
+
+  <form id="upload-form" method="post" action="{{ url_for('predict') }}" enctype="multipart/form-data">
+    <label for="image" class="field-label sr-only">Banana leaf photograph</label>
+    <p class="field-hint" id="image-hint">Choose one JPG or PNG photograph, up to {{ max_mb }} MB.</p>
+    <input type="file" id="image" name="image" accept=".jpg,.jpeg,.png,image/jpeg,image/png" aria-describedby="image-hint" required>
+    <p class="camera-row">
+      <button type="button" id="camera-button" class="button secondary" hidden>Take a photo with the camera</button>
+      <input type="file" id="camera" accept="image/jpeg,image/png" capture="environment" hidden>
+    </p>
+
+    <figure id="preview-box" class="preview-box" hidden>
+      <img id="preview" alt="Preview of the photograph you chose">
+      <figcaption>This is the photograph that will be analysed.</figcaption>
+    </figure>
+    <button type="button" id="replace-photo" class="button secondary replace-button" hidden>Choose a different photo</button>
+
+    <button type="submit" id="analyse" class="button analyse-button">Analyse photograph</button>
+    <p id="busy" class="busy" role="status" aria-live="polite" hidden>
+      <span class="spinner" aria-hidden="true"></span> Analysing the photograph. This usually takes a few seconds.
+    </p>
+  </form>
+</section>
+
+<section class="card" aria-labelledby="tips-heading">
+  <details>
+    <summary id="tips-heading">Photo tips for a better result</summary>
+    <ul>
+      <li>Photograph one leaf in daylight and keep it in focus.</li>
+      <li>Show the whole leaf or as much of it as possible.</li>
+      <li>Avoid heavy shadows, filters and edited images.</li>
+    </ul>
+  </details>
+</section>
+
+<p class="scope">Results are suggestions from photographs, not a diagnosis. Ask an agricultural extension worker to confirm a suspected condition.</p>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/main.js') }}" defer></script>{% endblock %}
