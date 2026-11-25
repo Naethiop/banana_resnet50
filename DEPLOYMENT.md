@@ -9,10 +9,10 @@ The repository now includes:
 - `.python-version` to select Python 3.11 on Render.
 - `requirements-deploy.txt` with the hosted app's pinned inference dependencies and Gunicorn.
 - `wsgi.py` to create the Flask application for Gunicorn.
-- `render.yaml` with the Render build/start commands, health check, 2 GB service size, and public-demo history setting.
+- `render.yaml` with the Render build/start commands, health check, free service plan, and public-demo history setting.
 - A `.gitignore` exception for the trained model required at startup.
 
-The 2 GB plan is selected because this app loads TensorFlow and a ResNet50 model into memory. Render's free service has 512 MB RAM, spins down after 15 minutes without traffic, and loses local file changes on restart; it is not a dependable fit for this model or for persistent history. Check Render's current pricing before choosing a paid plan.
+The Blueprint uses Render's free plan to avoid requiring payment. It has 512 MB RAM and spins down after 15 minutes without traffic. TensorFlow plus this ResNet50 model may exceed that memory and fail to start; the free plan is a no-cost attempt, not a guaranteed working host for this app. Free services also lose local file changes when they restart, so online history is disabled.
 
 ## 2. Create a GitHub repository
 
@@ -45,10 +45,10 @@ The trained model is about 91 MiB. GitHub's regular Git uploads allow files belo
 1. Sign in to Render and connect your GitHub account if prompted.
 2. In the Render dashboard, choose **New** → **Blueprint**.
 3. Select the `banana-leaf-classifier` repository and the `main` branch.
-4. Render will find `render.yaml`. Review the proposed service settings. The service is configured for the `1c-2g` plan (1 CPU, 2 GB RAM); review the displayed price before confirming.
+4. Render will find `render.yaml`. Confirm the proposed service uses the **Free** plan; do not select a paid plan.
 5. Choose **Apply** to create the service and start its first deployment.
 
-The Blueprint installs `requirements-deploy.txt`, launches `wsgi:app` with one Gunicorn worker, and checks `/health`. One worker avoids loading a second copy of the large model into memory. The model startup and first warm-up can take a few minutes.
+The Blueprint installs `requirements-deploy.txt`, launches `wsgi:app` with one Gunicorn worker, and checks `/health`. One worker avoids loading a second copy of the large model into memory. The model startup and first warm-up can take a few minutes. If Render reports that the service exceeded its memory limit or repeatedly restarts, stop there rather than selecting a paid plan; this model may not fit Render Free.
 
 ## 4. Wait for the first deploy and open the site
 
