@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Banana Crop Disease Detection System Using the ResNet50 Deep Learning Model
 
 Undergraduate project. This system supports preliminary identification of banana leaf conditions. It does not replace laboratory diagnosis or qualified agricultural advice.
@@ -45,3 +46,7 @@ git commit -m "Stage 2: project scaffold"
 ## Folder guide
 
 See `docs/decisions.md` for the approved plan. Data, models and uploads are excluded from Git by `.gitignore`.
+=======
+# banana_resnet50
+AI-Based Banana Crop Disease Detection System Using ResNet50
+>>>>>>> 1a68de3716dfaf806c0b91b9c3ee096960ed0db9
